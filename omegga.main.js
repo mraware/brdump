@@ -51,22 +51,25 @@ class Dump {
           const propsMatch = await this.omegga.watchLogChunk(`ListProps ${className} *`, propsRegExp, {});
           if (propsMatch) {
             const allProps = []
-            let currProp = {}
+            let currProp = null
             for (let { groups: props } of propsMatch) {
               if (props) {
                 const { prop, type, flag } = props;
                 if (prop) {
+                  if (currProp) {
+                    allProps.push({ ...currProp, net: false })
+                  }
                   currProp = { prop, type };
                 } else if (flag && currProp) {
                   if (flag === 'CPF_Net') {
-                    allProps.push(currProp)
+                    allProps.push({ ...currProp, net: true })
                     currProp = null;
                   }
                 }
               }
             }
             if (allProps.length > 0) {
-              const data = allProps.reduce((prev, curr) => prev + `${curr.prop} (${curr.type})` + '\n', `${className}\n\n`);
+              const data = allProps.reduce((prev, curr) => prev + `${curr.net ? '* ' : ''}${curr.prop} (${curr.type})` + '\n', `${className}\n\n`);
               const folderPath = path.join(dumpPath, type, className.slice(0, className.lastIndexOf('/')));
               files.push({ data, folderPath, type, className });
             }
