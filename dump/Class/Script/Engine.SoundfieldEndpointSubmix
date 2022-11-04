@@ -1,0 +1,8 @@
+/Script/Engine.SoundfieldEndpointSubmix
+
+SoundfieldEndpointType (NameProperty)
+EndpointSettingsClass (ClassProperty)
+EndpointSettings (ObjectProperty)
+EncodingSettingsClass (ClassProperty)
+EncodingSettings (ObjectProperty)
+SoundfieldEffectChain (ArrayProperty)

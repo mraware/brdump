@@ -1,0 +1,9 @@
+/Script/ClothingSystemRuntimeInterface.ClothPhysicalMeshDataBase_Legacy
+
+Vertices (ArrayProperty)
+Normals (ArrayProperty)
+Indices (ArrayProperty)
+InverseMasses (ArrayProperty)
+BoneData (ArrayProperty)
+NumFixedVerts (IntProperty)
+MaxBoneWeights (IntProperty)

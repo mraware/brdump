@@ -1,0 +1,5 @@
+/Script/Engine.MaterialInterface
+
+SubsurfaceProfile (ObjectProperty)
+LightmassSettings (StructProperty)
+TextureStreamingData (ArrayProperty)

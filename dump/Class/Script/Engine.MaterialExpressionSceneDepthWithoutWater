@@ -1,0 +1,8 @@
+/Script/Engine.MaterialExpressionSceneDepthWithoutWater
+
+InputMode (ByteProperty)
+Input (StructProperty)
+ConstInput (StructProperty)
+FallbackDepth (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

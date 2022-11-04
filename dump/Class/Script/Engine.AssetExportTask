@@ -1,0 +1,13 @@
+/Script/Engine.AssetExportTask
+
+Object (ObjectProperty)
+Exporter (ObjectProperty)
+Filename (StrProperty)
+bSelected (BoolProperty)
+bReplaceIdentical (BoolProperty)
+bPrompt (BoolProperty)
+bAutomated (BoolProperty)
+bUseFileArchive (BoolProperty)
+bWriteEmptyFiles (BoolProperty)
+IgnoreObjectList (ArrayProperty)
+Options (ObjectProperty)

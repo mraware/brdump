@@ -1,0 +1,11 @@
+/Script/TemplateSequence.TemplateSequence
+
+MovieScene (ObjectProperty)
+BoundActorClass (SoftClassProperty)
+BoundPreviewActor (SoftObjectProperty)
+BoundActorComponents (MapProperty)
+CompiledData (ObjectProperty)
+DefaultCompletionMode (EnumProperty)
+bParentContextsAreSignificant (BoolProperty)
+bPlayableDirectly (BoolProperty)
+SequenceFlags (EnumProperty)

@@ -1,0 +1,10 @@
+/Script/InteractiveToolsFramework.GizmoPlaneTranslationParameterSource
+
+AxisSource (InterfaceProperty)
+TransformSource (InterfaceProperty)
+Parameter (StructProperty)
+LastChange (StructProperty)
+CurTranslationOrigin (StructProperty)
+CurTranslationNormal (StructProperty)
+CurTranslationAxisX (StructProperty)
+CurTranslationAxisY (StructProperty)

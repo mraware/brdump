@@ -1,0 +1,4 @@
+/Script/LevelSequence.LevelSequenceDirector
+
+Player (ObjectProperty)
+SubSequenceID (IntProperty)

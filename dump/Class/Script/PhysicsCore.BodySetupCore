@@ -1,0 +1,5 @@
+/Script/PhysicsCore.BodySetupCore
+
+BoneName (NameProperty)
+PhysicsType (ByteProperty)
+CollisionTraceFlag (ByteProperty)

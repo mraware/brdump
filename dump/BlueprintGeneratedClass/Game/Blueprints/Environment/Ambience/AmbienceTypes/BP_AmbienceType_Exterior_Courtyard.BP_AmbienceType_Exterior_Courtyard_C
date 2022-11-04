@@ -1,0 +1,4 @@
+/Game/Blueprints/Environment/Ambience/AmbienceTypes/BP_AmbienceType_Exterior_Courtyard.BP_AmbienceType_Exterior_Courtyard_C
+
+DisplayName (TextProperty)
+Sound (ObjectProperty)

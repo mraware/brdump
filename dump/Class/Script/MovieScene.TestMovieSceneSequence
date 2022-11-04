@@ -1,0 +1,8 @@
+/Script/MovieScene.TestMovieSceneSequence
+
+MovieScene (ObjectProperty)
+CompiledData (ObjectProperty)
+DefaultCompletionMode (EnumProperty)
+bParentContextsAreSignificant (BoolProperty)
+bPlayableDirectly (BoolProperty)
+SequenceFlags (EnumProperty)

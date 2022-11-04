@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionArctangent
+
+Input (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

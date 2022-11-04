@@ -1,0 +1,6 @@
+/Script/Water.WaterSplineMetadata
+
+Depth (StructProperty)
+WaterVelocityScalar (StructProperty)
+RiverWidth (StructProperty)
+AudioIntensity (StructProperty)

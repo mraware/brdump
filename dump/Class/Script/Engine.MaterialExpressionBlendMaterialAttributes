@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionBlendMaterialAttributes
+
+A (StructProperty)
+B (StructProperty)
+Alpha (StructProperty)
+PixelAttributeBlendType (ByteProperty)
+VertexAttributeBlendType (ByteProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

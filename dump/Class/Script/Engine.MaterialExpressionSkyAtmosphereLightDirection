@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionSkyAtmosphereLightDirection
+
+LightIndex (IntProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

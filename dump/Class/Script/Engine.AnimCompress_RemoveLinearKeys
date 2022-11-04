@@ -1,0 +1,15 @@
+/Script/Engine.AnimCompress_RemoveLinearKeys
+
+MaxPosDiff (FloatProperty)
+MaxAngleDiff (FloatProperty)
+MaxScaleDiff (FloatProperty)
+MaxEffectorDiff (FloatProperty)
+MinEffectorDiff (FloatProperty)
+EffectorDiffSocket (FloatProperty)
+ParentKeyScale (FloatProperty)
+bRetarget (BoolProperty)
+bActuallyFilterLinearKeys (BoolProperty)
+bNeedsSkeleton (BoolProperty)
+TranslationCompressionFormat (ByteProperty)
+RotationCompressionFormat (ByteProperty)
+ScaleCompressionFormat (ByteProperty)

@@ -1,0 +1,7 @@
+/Script/GameplayTasks.GameplayTask_SpawnActor
+
+Success (MulticastInlineDelegateProperty)
+DidNotSpawn (MulticastInlineDelegateProperty)
+ClassToSpawn (ClassProperty)
+InstanceName (NameProperty)
+ResourceOverlapPolicy (EnumProperty)

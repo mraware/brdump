@@ -1,0 +1,11 @@
+/Script/MovieSceneTracks.MovieSceneSkeletalAnimationTrack
+
+AnimationSections (ArrayProperty)
+bUseLegacySectionIndexBlend (BoolProperty)
+RootMotionParams (StructProperty)
+bBlendFirstChildOfRoot (BoolProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

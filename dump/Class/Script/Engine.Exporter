@@ -1,0 +1,11 @@
+/Script/Engine.Exporter
+
+SupportedClass (ClassProperty)
+ExportRootScope (ObjectProperty)
+FormatExtension (ArrayProperty)
+FormatDescription (ArrayProperty)
+PreferredFormatIndex (IntProperty)
+TextIndent (IntProperty)
+bText (BoolProperty)
+bSelectedOnly (BoolProperty)
+bForceFileOperations (BoolProperty)

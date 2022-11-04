@@ -1,0 +1,6 @@
+/Script/UMG.SlateVectorArtData
+
+VertexData (ArrayProperty)
+IndexData (ArrayProperty)
+Material (ObjectProperty)
+ExtentMin (StructProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.WorldComposition
+
+TilesStreaming (ArrayProperty)
+TilesStreamingTimeThreshold (DoubleProperty)
+bLoadAllTilesDuringCinematic (BoolProperty)
+bRebaseOriginIn3DSpace (BoolProperty)

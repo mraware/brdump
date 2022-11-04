@@ -1,0 +1,4 @@
+/Script/NavigationSystem.NavigationPath
+
+PathUpdatedNotifier (MulticastInlineDelegateProperty)
+PathPoints (ArrayProperty)

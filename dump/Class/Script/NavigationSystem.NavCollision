@@ -1,0 +1,7 @@
+/Script/NavigationSystem.NavCollision
+
+CylinderCollision (ArrayProperty)
+BoxCollision (ArrayProperty)
+AreaClass (ClassProperty)
+bGatherConvexGeometry (BoolProperty)
+bCreateOnClient (BoolProperty)

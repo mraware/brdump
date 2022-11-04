@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionCollectionParameter
+
+Collection (ObjectProperty)
+ParameterName (NameProperty)
+ParameterId (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

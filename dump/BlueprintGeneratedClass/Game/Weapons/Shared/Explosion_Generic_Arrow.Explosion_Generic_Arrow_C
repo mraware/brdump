@@ -1,0 +1,11 @@
+/Game/Weapons/Shared/Explosion_Generic_Arrow.Explosion_Generic_Arrow_C
+
+ParticleEffect (ObjectProperty)
+SoundEffect (ObjectProperty)
+bEnableRadialDamage (BoolProperty)
+bEnableRadialDamageOcclusion (BoolProperty)
+RadialDamageType (ClassProperty)
+RadialDamageParams (StructProperty)
+ProjectileClass (ClassProperty)
+NumberOfShots (IntProperty)
+SpreadConeAngle (FloatProperty)

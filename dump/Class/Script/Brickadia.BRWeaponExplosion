@@ -1,0 +1,11 @@
+/Script/Brickadia.BRWeaponExplosion
+
+ParticleEffect (ObjectProperty)
+SoundEffect (ObjectProperty)
+bEnableRadialDamage (BoolProperty)
+bEnableRadialDamageOcclusion (BoolProperty)
+RadialDamageType (ClassProperty)
+RadialDamageParams (StructProperty)
+ProjectileClass (ClassProperty)
+NumberOfShots (IntProperty)
+SpreadConeAngle (FloatProperty)

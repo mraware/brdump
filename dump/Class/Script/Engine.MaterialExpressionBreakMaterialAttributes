@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionBreakMaterialAttributes
+
+MaterialAttributes (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionQualitySwitch
+
+Default (StructProperty)
+Inputs (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

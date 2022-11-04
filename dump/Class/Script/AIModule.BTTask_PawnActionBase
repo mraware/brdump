@@ -1,0 +1,6 @@
+/Script/AIModule.BTTask_PawnActionBase
+
+Services (ArrayProperty)
+bIgnoreRestartSelf (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

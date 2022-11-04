@@ -1,0 +1,9 @@
+/Script/MovieSceneTracks.MovieSceneMaterialParameterCollectionTrack
+
+MPC (ObjectProperty)
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

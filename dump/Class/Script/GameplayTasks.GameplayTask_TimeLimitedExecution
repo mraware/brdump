@@ -1,0 +1,6 @@
+/Script/GameplayTasks.GameplayTask_TimeLimitedExecution
+
+OnFinished (MulticastInlineDelegateProperty)
+OnTimeExpired (MulticastInlineDelegateProperty)
+InstanceName (NameProperty)
+ResourceOverlapPolicy (EnumProperty)

@@ -1,0 +1,9 @@
+/Script/MovieScene.MovieSceneSpawnTrack
+
+Sections (ArrayProperty)
+ObjectGuid (StructProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

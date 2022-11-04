@@ -1,0 +1,4 @@
+/Game/Blueprints/Environment/Ambience/AmbienceTypes/BP_AmbienceType_Exterior_WindyMountain.BP_AmbienceType_Exterior_WindyMountain_C
+
+DisplayName (TextProperty)
+Sound (ObjectProperty)

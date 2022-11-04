@@ -1,0 +1,9 @@
+/Game/Blueprints/GameSettings/Server/BP_ServerSettingsAutoSave.BP_ServerSettingsAutoSave_C
+
+* bEnableAutoSave (BoolProperty)
+* bAnnounceAutoSave (BoolProperty)
+* AutoSaveFolder (StrProperty)
+* MaxAutoSaves (IntProperty)
+* AutoSaveInterval (FloatProperty)
+* bIncludeScreenshot (BoolProperty)
+OnSettingsLiveChanged (MulticastInlineDelegateProperty)

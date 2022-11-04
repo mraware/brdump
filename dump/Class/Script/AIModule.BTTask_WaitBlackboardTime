@@ -1,0 +1,9 @@
+/Script/AIModule.BTTask_WaitBlackboardTime
+
+BlackboardKey (StructProperty)
+WaitTime (FloatProperty)
+RandomDeviation (FloatProperty)
+Services (ArrayProperty)
+bIgnoreRestartSelf (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

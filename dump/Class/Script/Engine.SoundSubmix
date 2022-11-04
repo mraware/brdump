@@ -1,0 +1,16 @@
+/Script/Engine.SoundSubmix
+
+bMuteWhenBackgrounded (BoolProperty)
+SubmixEffectChain (ArrayProperty)
+AmbisonicsPluginSettings (ObjectProperty)
+EnvelopeFollowerAttackTime (IntProperty)
+EnvelopeFollowerReleaseTime (IntProperty)
+GainMode (EnumProperty)
+OutputVolume (FloatProperty)
+WetLevel (FloatProperty)
+DryLevel (FloatProperty)
+OutputVolumeModulation (StructProperty)
+WetLevelModulation (StructProperty)
+DryLevelModulation (StructProperty)
+OnSubmixRecordedFileDone (MulticastInlineDelegateProperty)
+ParentSubmix (ObjectProperty)

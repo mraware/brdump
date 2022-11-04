@@ -1,0 +1,5 @@
+/Script/Brickadia.BRServerSettings_Color
+
+* ServerPalettes (ArrayProperty)
+SavedServerPalettes (ArrayProperty)
+OnSettingsLiveChanged (MulticastInlineDelegateProperty)

@@ -1,0 +1,12 @@
+/Script/Brickadia.BrickTransaction_UndoFillPaint
+
+PaintConfig (StructProperty)
+ColorOverrides (MapProperty)
+MaterialIndexOverrides (MapProperty)
+MaterialAlphaOverrides (MapProperty)
+BrickPersistentHandles (ArrayProperty)
+NumBricksChanged (IntProperty)
+NumBricksSkipped (IntProperty)
+NumBricksUntrusted (IntProperty)
+NumBricksNotFound (IntProperty)
+SavedIndex (IntProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.NodeMappingContainer
+
+SourceItems (MapProperty)
+TargetItems (MapProperty)
+SourceToTarget (MapProperty)
+SourceAsset (SoftObjectProperty)

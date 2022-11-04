@@ -1,0 +1,15 @@
+/Game/Weapons/SemiAutoRifle/DmgType_SemiAutoRifle_Headshot.DmgType_SemiAutoRifle_Headshot_C
+
+Icon (StructProperty)
+bCausedByHeadshot (BoolProperty)
+bCausedByExplosion (BoolProperty)
+bCausedByPhysics (BoolProperty)
+bDismantleCharacter (BoolProperty)
+bDoNotStopHealthRegen (BoolProperty)
+SelfDamageScale (FloatProperty)
+bCausedByWorld (BoolProperty)
+bScaleMomentumByMass (BoolProperty)
+bRadialDamageVelChange (BoolProperty)
+DamageImpulse (FloatProperty)
+DestructibleImpulse (FloatProperty)
+DestructibleDamageSpreadScale (FloatProperty)

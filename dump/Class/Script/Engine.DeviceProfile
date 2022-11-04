@@ -1,0 +1,6 @@
+/Script/Engine.DeviceProfile
+
+DeviceType (StrProperty)
+BaseProfileName (StrProperty)
+Parent (ObjectProperty)
+CVars (ArrayProperty)

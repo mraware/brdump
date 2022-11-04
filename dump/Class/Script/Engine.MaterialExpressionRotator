@@ -1,0 +1,10 @@
+/Script/Engine.MaterialExpressionRotator
+
+Coordinate (StructProperty)
+Time (StructProperty)
+CenterX (FloatProperty)
+CenterY (FloatProperty)
+Speed (FloatProperty)
+ConstCoordinate (UInt32Property)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,16 @@
+/Script/Niagara.NiagaraBakerSettings
+
+StartSeconds (FloatProperty)
+DurationSeconds (FloatProperty)
+FramesPerSecond (IntProperty)
+bPreviewLooping (BoolProperty)
+FramesPerDimension (StructProperty)
+OutputTextures (ArrayProperty)
+CameraViewportMode (EnumProperty)
+CameraViewportLocation (StructProperty)
+CameraViewportRotation (StructProperty)
+CameraOrbitDistance (FloatProperty)
+CameraFOV (FloatProperty)
+CameraOrthoWidth (FloatProperty)
+bUseCameraAspectRatio (BoolProperty)
+CameraAspectRatio (FloatProperty)

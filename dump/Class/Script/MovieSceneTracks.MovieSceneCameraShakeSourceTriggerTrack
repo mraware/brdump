@@ -1,0 +1,8 @@
+/Script/MovieSceneTracks.MovieSceneCameraShakeSourceTriggerTrack
+
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

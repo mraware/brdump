@@ -1,0 +1,12 @@
+/Script/AIModule.EnvQueryGenerator_PathingGrid
+
+PathToItem (StructProperty)
+NavigationFilter (ClassProperty)
+ScanRangeMultiplier (StructProperty)
+GridSize (StructProperty)
+SpaceBetween (StructProperty)
+GenerateAround (ClassProperty)
+ProjectionData (StructProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

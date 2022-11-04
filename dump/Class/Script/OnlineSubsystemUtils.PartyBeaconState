@@ -1,0 +1,14 @@
+/Script/OnlineSubsystemUtils.PartyBeaconState
+
+SessionName (NameProperty)
+NumConsumedReservations (IntProperty)
+MaxReservations (IntProperty)
+NumTeams (IntProperty)
+NumPlayersPerTeam (IntProperty)
+TeamAssignmentMethod (NameProperty)
+ReservedHostTeamNum (IntProperty)
+ForceTeamNum (IntProperty)
+bRestrictCrossConsole (BoolProperty)
+PlatformCrossplayRestrictions (ArrayProperty)
+PlatformTypeMapping (ArrayProperty)
+bEnableRemovalRequests (BoolProperty)

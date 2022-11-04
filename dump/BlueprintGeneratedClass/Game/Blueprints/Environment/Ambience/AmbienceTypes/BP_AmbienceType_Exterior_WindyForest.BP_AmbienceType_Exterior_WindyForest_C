@@ -1,0 +1,4 @@
+/Game/Blueprints/Environment/Ambience/AmbienceTypes/BP_AmbienceType_Exterior_WindyForest.BP_AmbienceType_Exterior_WindyForest_C
+
+DisplayName (TextProperty)
+Sound (ObjectProperty)

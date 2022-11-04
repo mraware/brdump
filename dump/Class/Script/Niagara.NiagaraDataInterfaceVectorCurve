@@ -1,0 +1,13 @@
+/Script/Niagara.NiagaraDataInterfaceVectorCurve
+
+XCurve (StructProperty)
+YCurve (StructProperty)
+ZCurve (StructProperty)
+ShaderLUT (ArrayProperty)
+LUTMinTime (FloatProperty)
+LUTMaxTime (FloatProperty)
+LUTInvTimeRange (FloatProperty)
+LUTNumSamplesMinusOne (FloatProperty)
+bUseLUT (BoolProperty)
+bExposeCurve (BoolProperty)
+ExposedName (NameProperty)

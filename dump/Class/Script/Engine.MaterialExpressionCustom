@@ -1,0 +1,11 @@
+/Script/Engine.MaterialExpressionCustom
+
+Code (StrProperty)
+OutputType (ByteProperty)
+Description (StrProperty)
+Inputs (ArrayProperty)
+AdditionalOutputs (ArrayProperty)
+AdditionalDefines (ArrayProperty)
+IncludeFilePaths (ArrayProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

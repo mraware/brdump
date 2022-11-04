@@ -1,0 +1,16 @@
+/Script/Engine.MaterialExpressionNoise
+
+Position (StructProperty)
+FilterWidth (StructProperty)
+Scale (FloatProperty)
+Quality (IntProperty)
+NoiseFunction (ByteProperty)
+bTurbulence (BoolProperty)
+Levels (IntProperty)
+OutputMin (FloatProperty)
+OutputMax (FloatProperty)
+LevelScale (FloatProperty)
+bTiling (BoolProperty)
+RepeatSize (UInt32Property)
+Material (ObjectProperty)
+Function (ObjectProperty)

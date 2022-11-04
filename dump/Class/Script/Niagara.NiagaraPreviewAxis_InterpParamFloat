@@ -1,0 +1,5 @@
+/Script/Niagara.NiagaraPreviewAxis_InterpParamFloat
+
+Min (FloatProperty)
+Max (FloatProperty)
+Param (NameProperty)

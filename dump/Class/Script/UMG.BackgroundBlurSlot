@@ -1,0 +1,6 @@
+/Script/UMG.BackgroundBlurSlot
+
+Padding (StructProperty)
+HorizontalAlignment (ByteProperty)
+VerticalAlignment (ByteProperty)
+Parent (ObjectProperty)

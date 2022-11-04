@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionRayTracingQualitySwitch
+
+Normal (StructProperty)
+RayTraced (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

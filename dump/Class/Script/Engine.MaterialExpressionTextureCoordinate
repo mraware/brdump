@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionTextureCoordinate
+
+CoordinateIndex (IntProperty)
+UTiling (FloatProperty)
+VTiling (FloatProperty)
+UnMirrorU (BoolProperty)
+UnMirrorV (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

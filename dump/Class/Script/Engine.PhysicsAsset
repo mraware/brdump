@@ -1,0 +1,9 @@
+/Script/Engine.PhysicsAsset
+
+BoundsBodies (ArrayProperty)
+SkeletalBodySetups (ArrayProperty)
+ConstraintSetup (ArrayProperty)
+SolverIterations (StructProperty)
+SolverType (EnumProperty)
+bNotForDedicatedServer (BoolProperty)
+ThumbnailInfo (ObjectProperty)

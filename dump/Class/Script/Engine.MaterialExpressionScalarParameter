@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionScalarParameter
+
+DefaultValue (FloatProperty)
+bUseCustomPrimitiveData (BoolProperty)
+PrimitiveDataIndex (ByteProperty)
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

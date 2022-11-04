@@ -1,0 +1,17 @@
+/Script/Paper2D.PaperTileSet
+
+TileSize (StructProperty)
+TileSheet (ObjectProperty)
+AdditionalSourceTextures (ArrayProperty)
+BorderMargin (StructProperty)
+PerTileSpacing (StructProperty)
+DrawingOffset (StructProperty)
+WidthInTiles (IntProperty)
+HeightInTiles (IntProperty)
+AllocatedWidth (IntProperty)
+AllocatedHeight (IntProperty)
+PerTileData (ArrayProperty)
+Terrains (ArrayProperty)
+TileWidth (IntProperty)
+TileHeight (IntProperty)
+Margin (IntProperty)

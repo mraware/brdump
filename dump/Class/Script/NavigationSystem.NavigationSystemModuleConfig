@@ -1,0 +1,9 @@
+/Script/NavigationSystem.NavigationSystemModuleConfig
+
+bStrictlyStatic (BoolProperty)
+bCreateOnClient (BoolProperty)
+bAutoSpawnMissingNavData (BoolProperty)
+bSpawnNavDataInNavBoundsLevel (BoolProperty)
+NavigationSystemClass (StructProperty)
+SupportedAgentsMask (StructProperty)
+DefaultAgentName (NameProperty)

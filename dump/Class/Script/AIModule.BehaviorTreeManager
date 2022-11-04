@@ -1,0 +1,4 @@
+/Script/AIModule.BehaviorTreeManager
+
+MaxDebuggerSteps (IntProperty)
+LoadedTemplates (ArrayProperty)

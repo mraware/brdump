@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionConstant2Vector
+
+R (FloatProperty)
+G (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,11 @@
+/Game/Weapons/Sniper/Explosion_Sniper.Explosion_Sniper_C
+
+ParticleEffect (ObjectProperty)
+SoundEffect (ObjectProperty)
+bEnableRadialDamage (BoolProperty)
+bEnableRadialDamageOcclusion (BoolProperty)
+RadialDamageType (ClassProperty)
+RadialDamageParams (StructProperty)
+ProjectileClass (ClassProperty)
+NumberOfShots (IntProperty)
+SpreadConeAngle (FloatProperty)

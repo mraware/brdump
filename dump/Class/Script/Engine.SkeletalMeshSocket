@@ -1,0 +1,7 @@
+/Script/Engine.SkeletalMeshSocket
+
+SocketName (NameProperty)
+BoneName (NameProperty)
+RelativeLocation (StructProperty)
+RelativeRotation (StructProperty)
+RelativeScale (StructProperty)

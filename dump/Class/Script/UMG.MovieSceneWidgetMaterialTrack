@@ -1,0 +1,10 @@
+/Script/UMG.MovieSceneWidgetMaterialTrack
+
+BrushPropertyNamePath (ArrayProperty)
+TrackName (NameProperty)
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

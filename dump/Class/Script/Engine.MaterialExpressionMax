@@ -1,0 +1,8 @@
+/Script/Engine.MaterialExpressionMax
+
+A (StructProperty)
+B (StructProperty)
+ConstA (FloatProperty)
+ConstB (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

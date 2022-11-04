@@ -1,0 +1,9 @@
+/Script/Niagara.NiagaraSimulationStageGeneric
+
+IterationSource (EnumProperty)
+Iterations (IntProperty)
+bSpawnOnly (BoolProperty)
+bDisablePartialParticleUpdate (BoolProperty)
+DataInterface (StructProperty)
+Script (ObjectProperty)
+SimulationStageName (NameProperty)

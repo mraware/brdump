@@ -1,0 +1,13 @@
+/Script/Engine.MaterialExpressionRuntimeVirtualTextureSample
+
+Coordinates (StructProperty)
+WorldPosition (StructProperty)
+MipValue (StructProperty)
+VirtualTexture (ObjectProperty)
+MaterialType (EnumProperty)
+bSinglePhysicalSpace (BoolProperty)
+bAdaptive (BoolProperty)
+MipValueMode (ByteProperty)
+TextureAddressMode (ByteProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

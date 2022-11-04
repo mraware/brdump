@@ -1,0 +1,9 @@
+/Script/Brickadia.BrickTransaction_SetBrickVisibility
+
+bNewVisibility (BoolProperty)
+BrickPersistentHandles (ArrayProperty)
+NumBricksChanged (IntProperty)
+NumBricksSkipped (IntProperty)
+NumBricksUntrusted (IntProperty)
+NumBricksNotFound (IntProperty)
+SavedIndex (IntProperty)

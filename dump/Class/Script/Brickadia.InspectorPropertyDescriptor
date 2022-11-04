@@ -1,0 +1,13 @@
+/Script/Brickadia.InspectorPropertyDescriptor
+
+Name (NameProperty)
+DisplayName (TextProperty)
+Tooltip (TextProperty)
+bCanSetToDefault (BoolProperty)
+WidgetClassOverride (ClassProperty)
+bUseGetFunction (BoolProperty)
+bUseSetFunction (BoolProperty)
+GetFunctionOverride (NameProperty)
+SetFunctionOverride (NameProperty)
+bUseIsEnabledFunction (BoolProperty)
+IsEnabledFunctionOrProperty (NameProperty)

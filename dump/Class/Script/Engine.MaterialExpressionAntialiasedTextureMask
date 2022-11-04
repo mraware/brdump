@@ -1,0 +1,11 @@
+/Script/Engine.MaterialExpressionAntialiasedTextureMask
+
+Threshold (FloatProperty)
+Channel (ByteProperty)
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Group (NameProperty)
+Coordinates (StructProperty)
+Texture (ObjectProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

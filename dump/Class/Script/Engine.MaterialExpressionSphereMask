@@ -1,0 +1,10 @@
+/Script/Engine.MaterialExpressionSphereMask
+
+A (StructProperty)
+B (StructProperty)
+Radius (StructProperty)
+Hardness (StructProperty)
+AttenuationRadius (FloatProperty)
+HardnessPercent (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

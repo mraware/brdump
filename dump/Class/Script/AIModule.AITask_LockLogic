@@ -1,0 +1,5 @@
+/Script/AIModule.AITask_LockLogic
+
+OwnerController (ObjectProperty)
+InstanceName (NameProperty)
+ResourceOverlapPolicy (EnumProperty)

@@ -1,0 +1,11 @@
+/Game/Weapons/Melee/Longsword/BP_Longsword_StateMachine.BP_Longsword_StateMachine_C
+
+EquipDuration (FloatProperty)
+UnequipDuration (FloatProperty)
+EquipSound (ObjectProperty)
+EquippedFootstepLayer (ObjectProperty)
+WeaponEquipAnimation (ObjectProperty)
+PlayerEquipAnimation (ObjectProperty)
+UnequipSound (ObjectProperty)
+WeaponUnequipAnimation (ObjectProperty)
+PlayerUnequipAnimation (ObjectProperty)

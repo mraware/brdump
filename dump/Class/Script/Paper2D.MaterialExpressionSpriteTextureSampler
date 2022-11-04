@@ -1,0 +1,12 @@
+/Script/Paper2D.MaterialExpressionSpriteTextureSampler
+
+bSampleAdditionalTextures (BoolProperty)
+AdditionalSlotIndex (IntProperty)
+SlotDisplayName (TextProperty)
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Group (NameProperty)
+Coordinates (StructProperty)
+Texture (ObjectProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

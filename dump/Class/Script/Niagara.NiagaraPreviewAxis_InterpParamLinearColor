@@ -1,0 +1,5 @@
+/Script/Niagara.NiagaraPreviewAxis_InterpParamLinearColor
+
+Min (StructProperty)
+Max (StructProperty)
+Param (NameProperty)

@@ -1,0 +1,6 @@
+/Script/Water.WaterRuntimeSettings
+
+CollisionChannelForWaterTraces (ByteProperty)
+MaterialParameterCollection (SoftObjectProperty)
+WaterBodyIconWorldSize (FloatProperty)
+WaterBodyIconWorldZOffset (FloatProperty)

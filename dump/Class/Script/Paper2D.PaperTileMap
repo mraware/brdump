@@ -1,0 +1,18 @@
+/Script/Paper2D.PaperTileMap
+
+MapWidth (IntProperty)
+MapHeight (IntProperty)
+TileWidth (IntProperty)
+TileHeight (IntProperty)
+PixelsPerUnrealUnit (FloatProperty)
+SeparationPerTileX (FloatProperty)
+SeparationPerTileY (FloatProperty)
+SeparationPerLayer (FloatProperty)
+SelectedTileSet (SoftObjectProperty)
+Material (ObjectProperty)
+TileLayers (ArrayProperty)
+CollisionThickness (FloatProperty)
+SpriteCollisionDomain (ByteProperty)
+ProjectionMode (ByteProperty)
+HexSideLength (IntProperty)
+BodySetup (ObjectProperty)

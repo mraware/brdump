@@ -1,0 +1,10 @@
+/Script/Engine.Skeleton
+
+BoneTree (ArrayProperty)
+RefLocalPoses (ArrayProperty)
+VirtualBoneGuid (StructProperty)
+VirtualBones (ArrayProperty)
+Sockets (ArrayProperty)
+SmartNames (StructProperty)
+BlendProfiles (ArrayProperty)
+SlotGroups (ArrayProperty)

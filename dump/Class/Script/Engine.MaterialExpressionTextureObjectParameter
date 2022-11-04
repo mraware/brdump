@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionTextureObjectParameter
+
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Group (NameProperty)
+Coordinates (StructProperty)
+Texture (ObjectProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

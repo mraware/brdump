@@ -1,0 +1,8 @@
+/Script/AIModule.AITask_MoveTo
+
+OnRequestFailed (MulticastInlineDelegateProperty)
+OnMoveFinished (MulticastInlineDelegateProperty)
+MoveRequest (StructProperty)
+OwnerController (ObjectProperty)
+InstanceName (NameProperty)
+ResourceOverlapPolicy (EnumProperty)

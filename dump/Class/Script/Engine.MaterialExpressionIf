@@ -1,0 +1,12 @@
+/Script/Engine.MaterialExpressionIf
+
+A (StructProperty)
+B (StructProperty)
+AGreaterThanB (StructProperty)
+AEqualsB (StructProperty)
+ALessThanB (StructProperty)
+EqualsThreshold (FloatProperty)
+ConstB (FloatProperty)
+ConstAEqualsB (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,9 @@
+/Script/Engine.SoundMix
+
+bApplyEQ (BoolProperty)
+EQPriority (FloatProperty)
+EQSettings (StructProperty)
+SoundClassEffects (ArrayProperty)
+InitialDelay (FloatProperty)
+FadeInTime (FloatProperty)
+Duration (FloatProperty)

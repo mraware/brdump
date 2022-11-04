@@ -1,0 +1,8 @@
+/Script/Engine.MaterialExpressionStaticSwitch
+
+DefaultValue (BoolProperty)
+A (StructProperty)
+B (StructProperty)
+Value (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

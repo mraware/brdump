@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionSetMaterialAttributes
+
+Inputs (ArrayProperty)
+AttributeSetTypes (ArrayProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

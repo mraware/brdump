@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionParticleSubUV
+
+bBlend (BoolProperty)
+Coordinates (StructProperty)
+Texture (ObjectProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

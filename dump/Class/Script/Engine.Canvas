@@ -1,0 +1,15 @@
+/Script/Engine.Canvas
+
+OrgX (FloatProperty)
+OrgY (FloatProperty)
+ClipX (FloatProperty)
+ClipY (FloatProperty)
+DrawColor (StructProperty)
+bCenterX (BoolProperty)
+bCenterY (BoolProperty)
+bNoSmooth (BoolProperty)
+SizeX (IntProperty)
+SizeY (IntProperty)
+ColorModulate (StructProperty)
+DefaultTexture (ObjectProperty)
+GradientTexture0 (ObjectProperty)

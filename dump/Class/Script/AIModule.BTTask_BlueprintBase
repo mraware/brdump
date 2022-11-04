@@ -1,0 +1,10 @@
+/Script/AIModule.BTTask_BlueprintBase
+
+AIOwner (ObjectProperty)
+ActorOwner (ObjectProperty)
+TickInterval (StructProperty)
+bShowPropertyDetails (BoolProperty)
+Services (ArrayProperty)
+bIgnoreRestartSelf (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

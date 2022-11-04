@@ -1,0 +1,5 @@
+/Script/MovieScene.MovieSceneFolder
+
+FolderName (NameProperty)
+ChildFolders (ArrayProperty)
+ChildMasterTracks (ArrayProperty)

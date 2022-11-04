@@ -1,0 +1,5 @@
+/Script/Engine.Console
+
+ConsoleTargetPlayer (ObjectProperty)
+DefaultTexture_Black (ObjectProperty)
+DefaultTexture_White (ObjectProperty)

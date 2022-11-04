@@ -1,0 +1,15 @@
+/Script/GameplayTags.GameplayTagsSettings
+
+ImportTagsFromConfig (BoolProperty)
+WarnOnInvalidTags (BoolProperty)
+ClearInvalidTags (BoolProperty)
+FastReplication (BoolProperty)
+InvalidTagCharacters (StrProperty)
+CategoryRemapping (ArrayProperty)
+GameplayTagTableList (ArrayProperty)
+GameplayTagRedirects (ArrayProperty)
+CommonlyReplicatedTags (ArrayProperty)
+NumBitsForContainerSize (IntProperty)
+NetIndexFirstBitSegment (IntProperty)
+RestrictedConfigFiles (ArrayProperty)
+ConfigFileName (StrProperty)

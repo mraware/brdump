@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionAtmosphericFogColor
+
+WorldPosition (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

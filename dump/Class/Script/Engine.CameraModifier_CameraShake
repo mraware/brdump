@@ -1,0 +1,11 @@
+/Script/Engine.CameraModifier_CameraShake
+
+ActiveShakes (ArrayProperty)
+ExpiredPooledShakesMap (MapProperty)
+SplitScreenShakeScale (FloatProperty)
+bDebug (BoolProperty)
+bExclusive (BoolProperty)
+Priority (ByteProperty)
+CameraOwner (ObjectProperty)
+AlphaInTime (FloatProperty)
+AlphaOutTime (FloatProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionMaterialFunctionCall
+
+MaterialFunction (ObjectProperty)
+FunctionParameterInfo (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,10 @@
+/Script/TemplateSequence.SequenceCameraShakePattern
+
+Sequence (ObjectProperty)
+PlayRate (FloatProperty)
+Scale (FloatProperty)
+BlendInTime (FloatProperty)
+BlendOutTime (FloatProperty)
+RandomSegmentDuration (FloatProperty)
+bRandomSegment (BoolProperty)
+Player (ObjectProperty)

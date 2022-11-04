@@ -1,0 +1,15 @@
+/Script/Landscape.LandscapeSplineControlPoint
+
+Location (StructProperty)
+Rotation (StructProperty)
+Width (FloatProperty)
+LayerWidthRatio (FloatProperty)
+SideFalloff (FloatProperty)
+LeftSideFalloffFactor (FloatProperty)
+RightSideFalloffFactor (FloatProperty)
+LeftSideLayerFalloffFactor (FloatProperty)
+RightSideLayerFalloffFactor (FloatProperty)
+EndFalloff (FloatProperty)
+ConnectedSegments (ArrayProperty)
+Points (ArrayProperty)
+Bounds (StructProperty)

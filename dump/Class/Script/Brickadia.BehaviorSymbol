@@ -1,0 +1,8 @@
+/Script/Brickadia.BehaviorSymbol
+
+Factory (ObjectProperty)
+TableName (NameProperty)
+DisplayName (TextProperty)
+Description (TextProperty)
+Category (TextProperty)
+Overloads (ArrayProperty)

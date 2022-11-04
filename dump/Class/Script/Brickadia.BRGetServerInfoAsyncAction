@@ -1,0 +1,3 @@
+/Script/Brickadia.BRGetServerInfoAsyncAction
+
+OnSuccess (MulticastInlineDelegateProperty)

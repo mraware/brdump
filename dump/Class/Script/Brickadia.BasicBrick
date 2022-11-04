@@ -1,0 +1,4 @@
+/Script/Brickadia.BasicBrick
+
+BrickType (ObjectProperty)
+SpecialBrickType (EnumProperty)

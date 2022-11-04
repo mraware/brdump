@@ -1,0 +1,12 @@
+/Script/Engine.SoundNodeOscillator
+
+bModulateVolume (BoolProperty)
+bModulatePitch (BoolProperty)
+AmplitudeMin (FloatProperty)
+AmplitudeMax (FloatProperty)
+FrequencyMin (FloatProperty)
+FrequencyMax (FloatProperty)
+OffsetMin (FloatProperty)
+OffsetMax (FloatProperty)
+CenterMin (FloatProperty)
+CenterMax (FloatProperty)

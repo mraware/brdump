@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionComponentMask
+
+Input (StructProperty)
+R (BoolProperty)
+G (BoolProperty)
+B (BoolProperty)
+A (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

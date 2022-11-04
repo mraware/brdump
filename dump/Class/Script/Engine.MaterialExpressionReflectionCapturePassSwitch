@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionReflectionCapturePassSwitch
+
+Default (StructProperty)
+Reflection (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

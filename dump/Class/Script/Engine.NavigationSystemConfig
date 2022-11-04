@@ -1,0 +1,5 @@
+/Script/Engine.NavigationSystemConfig
+
+NavigationSystemClass (StructProperty)
+SupportedAgentsMask (StructProperty)
+DefaultAgentName (NameProperty)

@@ -1,0 +1,11 @@
+/Script/Engine.MaterialExpressionPanner
+
+Coordinate (StructProperty)
+Time (StructProperty)
+Speed (StructProperty)
+SpeedX (FloatProperty)
+SpeedY (FloatProperty)
+ConstCoordinate (UInt32Property)
+bFractionalPart (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

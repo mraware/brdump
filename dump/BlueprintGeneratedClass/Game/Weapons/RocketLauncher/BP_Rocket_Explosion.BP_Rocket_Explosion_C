@@ -1,0 +1,11 @@
+/Game/Weapons/RocketLauncher/BP_Rocket_Explosion.BP_Rocket_Explosion_C
+
+ParticleEffect (ObjectProperty)
+SoundEffect (ObjectProperty)
+bEnableRadialDamage (BoolProperty)
+bEnableRadialDamageOcclusion (BoolProperty)
+RadialDamageType (ClassProperty)
+RadialDamageParams (StructProperty)
+ProjectileClass (ClassProperty)
+NumberOfShots (IntProperty)
+SpreadConeAngle (FloatProperty)

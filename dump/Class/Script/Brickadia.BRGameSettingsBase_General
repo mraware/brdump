@@ -1,0 +1,7 @@
+/Script/Brickadia.BRGameSettingsBase_General
+
+bForceThirdPersonOnDeath (BoolProperty)
+bDisableChatMessages (BoolProperty)
+RecentBricksLimit (IntProperty)
+BlockedPlayers (ArrayProperty)
+OnSettingsLiveChanged (MulticastInlineDelegateProperty)

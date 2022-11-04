@@ -1,0 +1,12 @@
+/Script/TemplateSequence.SequenceCameraShakeCameraStandIn
+
+FieldOfView (FloatProperty)
+bConstrainAspectRatio (BoolProperty)
+AspectRatio (FloatProperty)
+PostProcessSettings (StructProperty)
+PostProcessBlendWeight (FloatProperty)
+Filmback (StructProperty)
+LensSettings (StructProperty)
+FocusSettings (StructProperty)
+CurrentFocalLength (FloatProperty)
+CurrentAperture (FloatProperty)

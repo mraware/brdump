@@ -1,0 +1,6 @@
+/Script/Niagara.NiagaraRendererProperties
+
+Platforms (StructProperty)
+SortOrderHint (IntProperty)
+MotionVectorSetting (EnumProperty)
+bIsEnabled (BoolProperty)

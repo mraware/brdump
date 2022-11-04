@@ -1,0 +1,11 @@
+/Game/Weapons/TacticalSMG/BP_TacticalSMG_StateMachine.BP_TacticalSMG_StateMachine_C
+
+EquipDuration (FloatProperty)
+UnequipDuration (FloatProperty)
+EquipSound (ObjectProperty)
+EquippedFootstepLayer (ObjectProperty)
+WeaponEquipAnimation (ObjectProperty)
+PlayerEquipAnimation (ObjectProperty)
+UnequipSound (ObjectProperty)
+WeaponUnequipAnimation (ObjectProperty)
+PlayerUnequipAnimation (ObjectProperty)

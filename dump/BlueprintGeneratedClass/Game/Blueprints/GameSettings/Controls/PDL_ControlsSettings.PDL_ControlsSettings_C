@@ -1,0 +1,5 @@
+/Game/Blueprints/GameSettings/Controls/PDL_ControlsSettings.PDL_ControlsSettings_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

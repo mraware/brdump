@@ -1,0 +1,11 @@
+/Script/InteractiveToolsFramework.GizmoPlaneScaleParameterSource
+
+AxisSource (InterfaceProperty)
+TransformSource (InterfaceProperty)
+ScaleMultiplier (FloatProperty)
+Parameter (StructProperty)
+LastChange (StructProperty)
+CurScaleOrigin (StructProperty)
+CurScaleNormal (StructProperty)
+CurScaleAxisX (StructProperty)
+CurScaleAxisY (StructProperty)

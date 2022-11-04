@@ -1,0 +1,7 @@
+/Script/Engine.VectorFieldStatic
+
+SizeX (IntProperty)
+SizeY (IntProperty)
+SizeZ (IntProperty)
+bAllowCPUAccess (BoolProperty)
+Bounds (StructProperty)

@@ -1,0 +1,4 @@
+/Script/Engine.InterpTrackInstToggle
+
+Action (ByteProperty)
+LastUpdatePosition (FloatProperty)

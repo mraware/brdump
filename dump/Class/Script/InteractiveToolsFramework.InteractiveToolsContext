@@ -1,0 +1,5 @@
+/Script/InteractiveToolsFramework.InteractiveToolsContext
+
+InputRouter (ObjectProperty)
+ToolManager (ObjectProperty)
+GizmoManager (ObjectProperty)

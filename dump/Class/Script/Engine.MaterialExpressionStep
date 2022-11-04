@@ -1,0 +1,8 @@
+/Script/Engine.MaterialExpressionStep
+
+Y (StructProperty)
+X (StructProperty)
+ConstY (FloatProperty)
+ConstX (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

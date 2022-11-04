@@ -1,0 +1,5 @@
+/Script/AugmentedReality.ARCandidateObject
+
+CandidateObjectData (ArrayProperty)
+FriendlyName (StrProperty)
+BoundingBox (StructProperty)

@@ -1,0 +1,5 @@
+/Game/Blueprints/Rulesets/Gamemodes/PropertyDescriptors/RoundTimed/PDL_Gamemode_Bricktionary.PDL_Gamemode_Bricktionary_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

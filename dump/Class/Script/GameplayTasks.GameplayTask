@@ -1,0 +1,4 @@
+/Script/GameplayTasks.GameplayTask
+
+InstanceName (NameProperty)
+ResourceOverlapPolicy (EnumProperty)

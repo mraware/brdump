@@ -1,0 +1,9 @@
+/Script/AIModule.EnvQueryGenerator_SimpleGrid
+
+GridSize (StructProperty)
+SpaceBetween (StructProperty)
+GenerateAround (ClassProperty)
+ProjectionData (StructProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

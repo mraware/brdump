@@ -1,0 +1,5 @@
+/Script/Engine.DistributionFloatUniform
+
+Min (FloatProperty)
+Max (FloatProperty)
+bCanBeBaked (BoolProperty)

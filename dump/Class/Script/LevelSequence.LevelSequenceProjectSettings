@@ -1,0 +1,5 @@
+/Script/LevelSequence.LevelSequenceProjectSettings
+
+bDefaultLockEngineToDisplayRate (BoolProperty)
+DefaultDisplayRate (StrProperty)
+DefaultTickResolution (StrProperty)

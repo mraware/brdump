@@ -1,0 +1,14 @@
+/Script/AIModule.BTTask_RunEQSQuery
+
+QueryTemplate (ObjectProperty)
+QueryParams (ArrayProperty)
+QueryConfig (ArrayProperty)
+RunMode (ByteProperty)
+EQSQueryBlackboardKey (StructProperty)
+bUseBBKey (BoolProperty)
+EQSRequest (StructProperty)
+BlackboardKey (StructProperty)
+Services (ArrayProperty)
+bIgnoreRestartSelf (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionShaderStageSwitch
+
+PixelShader (StructProperty)
+VertexShader (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

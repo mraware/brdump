@@ -1,0 +1,13 @@
+/Script/ClothingSystemRuntimeNv.ClothPhysicalMeshDataNv_Legacy
+
+MaxDistances (ArrayProperty)
+BackstopDistances (ArrayProperty)
+BackstopRadiuses (ArrayProperty)
+AnimDriveMultipliers (ArrayProperty)
+Vertices (ArrayProperty)
+Normals (ArrayProperty)
+Indices (ArrayProperty)
+InverseMasses (ArrayProperty)
+BoneData (ArrayProperty)
+NumFixedVerts (IntProperty)
+MaxBoneWeights (IntProperty)

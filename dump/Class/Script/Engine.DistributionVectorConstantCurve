@@ -1,0 +1,7 @@
+/Script/Engine.DistributionVectorConstantCurve
+
+ConstantCurve (StructProperty)
+bLockAxes (BoolProperty)
+LockedAxes (ByteProperty)
+bCanBeBaked (BoolProperty)
+bIsDirty (BoolProperty)

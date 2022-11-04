@@ -1,0 +1,16 @@
+/Script/UdpMessaging.UdpMessagingSettings
+
+EnabledByDefault (BoolProperty)
+EnableTransport (BoolProperty)
+bAutoRepair (BoolProperty)
+MaxSendRate (FloatProperty)
+AutoRepairAttemptLimit (UInt32Property)
+bStopServiceWhenAppDeactivates (BoolProperty)
+UnicastEndpoint (StrProperty)
+MulticastEndpoint (StrProperty)
+MessageFormat (EnumProperty)
+MulticastTimeToLive (ByteProperty)
+StaticEndpoints (ArrayProperty)
+EnableTunnel (BoolProperty)
+TunnelUnicastEndpoint (StrProperty)
+TunnelMulticastEndpoint (StrProperty)

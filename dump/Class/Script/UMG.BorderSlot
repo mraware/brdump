@@ -1,0 +1,6 @@
+/Script/UMG.BorderSlot
+
+Padding (StructProperty)
+HorizontalAlignment (ByteProperty)
+VerticalAlignment (ByteProperty)
+Parent (ObjectProperty)

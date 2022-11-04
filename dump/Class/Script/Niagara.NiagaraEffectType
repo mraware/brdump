@@ -1,0 +1,10 @@
+/Script/Niagara.NiagaraEffectType
+
+UpdateFrequency (EnumProperty)
+CullReaction (EnumProperty)
+SignificanceHandler (ObjectProperty)
+DetailLevelScalabilitySettings (ArrayProperty)
+SystemScalabilitySettings (StructProperty)
+EmitterScalabilitySettings (StructProperty)
+PerformanceBaselineController (ObjectProperty)
+PerfBaselineStats (StructProperty)

@@ -1,0 +1,9 @@
+/Script/Engine.AnimComposite
+
+AnimationTrack (StructProperty)
+Notifies (ArrayProperty)
+SequenceLength (FloatProperty)
+RateScale (FloatProperty)
+RawCurveData (StructProperty)
+Skeleton (ObjectProperty)
+MetaData (ArrayProperty)

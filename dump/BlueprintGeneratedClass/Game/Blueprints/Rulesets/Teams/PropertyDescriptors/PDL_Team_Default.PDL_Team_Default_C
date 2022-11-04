@@ -1,0 +1,5 @@
+/Game/Blueprints/Rulesets/Teams/PropertyDescriptors/PDL_Team_Default.PDL_Team_Default_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

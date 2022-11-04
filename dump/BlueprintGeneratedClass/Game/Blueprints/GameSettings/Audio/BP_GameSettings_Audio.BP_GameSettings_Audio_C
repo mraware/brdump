@@ -1,0 +1,11 @@
+/Game/Blueprints/GameSettings/Audio/BP_GameSettings_Audio.BP_GameSettings_Audio_C
+
+UberGraphFrame (StructProperty)
+MasterVolume (FloatProperty)
+MusicVolume (FloatProperty)
+InterfaceVolume (FloatProperty)
+SoundEffectsVolume (FloatProperty)
+bEnableUnfocusedAudio (BoolProperty)
+EnableBackgroundMusic (ByteProperty)
+SoundPreset (ByteProperty)
+OnSettingsLiveChanged (MulticastInlineDelegateProperty)

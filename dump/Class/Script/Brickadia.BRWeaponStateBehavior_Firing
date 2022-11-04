@@ -1,0 +1,6 @@
+/Script/Brickadia.BRWeaponStateBehavior_Firing
+
+MuzzleSocket (NameProperty)
+NumberOfShots (IntProperty)
+AmmoToSubtract (IntProperty)
+SpreadConeAngle (FloatProperty)

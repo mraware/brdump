@@ -1,0 +1,4 @@
+/Script/AIModule.AIResource_Movement
+
+ManualResourceID (IntProperty)
+AutoResourceID (Int8Property)

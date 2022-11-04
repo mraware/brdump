@@ -1,0 +1,18 @@
+/Script/Engine.ParticleModuleVelocity
+
+StartVelocity (StructProperty)
+StartVelocityRadial (StructProperty)
+bInWorldSpace (BoolProperty)
+bApplyOwnerScale (BoolProperty)
+bSpawnModule (BoolProperty)
+bUpdateModule (BoolProperty)
+bFinalUpdateModule (BoolProperty)
+bUpdateForGPUEmitter (BoolProperty)
+bCurvesAsColor (BoolProperty)
+b3DDrawMode (BoolProperty)
+bSupported3DDrawMode (BoolProperty)
+bEnabled (BoolProperty)
+bEditable (BoolProperty)
+LODDuplicate (BoolProperty)
+bSupportsRandomSeed (BoolProperty)
+bRequiresLoopingNotification (BoolProperty)

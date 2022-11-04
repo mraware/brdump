@@ -1,0 +1,6 @@
+/Script/Engine.StaticMeshSocket
+
+SocketName (NameProperty)
+RelativeLocation (StructProperty)
+RelativeRotation (StructProperty)
+RelativeScale (StructProperty)

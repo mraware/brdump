@@ -1,0 +1,10 @@
+/Script/Engine.MaterialExpressionLinearInterpolate
+
+A (StructProperty)
+B (StructProperty)
+Alpha (StructProperty)
+ConstA (FloatProperty)
+ConstB (FloatProperty)
+ConstAlpha (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

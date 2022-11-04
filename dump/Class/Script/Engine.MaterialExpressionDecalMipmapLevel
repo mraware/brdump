@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionDecalMipmapLevel
+
+TextureSize (StructProperty)
+ConstWidth (FloatProperty)
+ConstHeight (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

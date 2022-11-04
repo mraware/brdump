@@ -1,0 +1,4 @@
+/Script/LevelSequence.LevelSequenceBurnInOptions
+
+bUseBurnIn (BoolProperty)
+BurnInClass (StructProperty)

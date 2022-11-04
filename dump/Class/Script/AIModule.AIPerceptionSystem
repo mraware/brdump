@@ -1,0 +1,4 @@
+/Script/AIModule.AIPerceptionSystem
+
+Senses (ArrayProperty)
+PerceptionAgingRate (FloatProperty)

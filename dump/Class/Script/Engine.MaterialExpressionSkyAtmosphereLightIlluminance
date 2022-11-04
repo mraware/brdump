@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionSkyAtmosphereLightIlluminance
+
+LightIndex (IntProperty)
+WorldPosition (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

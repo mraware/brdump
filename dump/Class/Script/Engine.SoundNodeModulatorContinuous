@@ -1,0 +1,4 @@
+/Script/Engine.SoundNodeModulatorContinuous
+
+PitchModulationParams (StructProperty)
+VolumeModulationParams (StructProperty)

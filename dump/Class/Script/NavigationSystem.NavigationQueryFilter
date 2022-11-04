@@ -1,0 +1,4 @@
+/Script/NavigationSystem.NavigationQueryFilter
+
+Areas (ArrayProperty)
+IncludeFlags (StructProperty)

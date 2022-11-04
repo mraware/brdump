@@ -1,0 +1,8 @@
+/Script/Engine.AvoidanceManager
+
+DefaultTimeToLive (FloatProperty)
+LockTimeAfterAvoid (FloatProperty)
+LockTimeAfterClean (FloatProperty)
+DeltaTimeToPredict (FloatProperty)
+ArtificialRadiusExpansion (FloatProperty)
+TestHeightDifference (FloatProperty)

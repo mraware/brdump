@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionSaturate
+
+Input (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

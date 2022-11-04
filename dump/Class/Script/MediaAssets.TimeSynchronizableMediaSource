@@ -1,0 +1,5 @@
+/Script/MediaAssets.TimeSynchronizableMediaSource
+
+bUseTimeSynchronization (BoolProperty)
+FrameDelay (IntProperty)
+TimeDelay (DoubleProperty)

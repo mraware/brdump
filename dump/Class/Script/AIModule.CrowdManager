@@ -1,0 +1,13 @@
+/Script/AIModule.CrowdManager
+
+MyNavData (ObjectProperty)
+AvoidanceConfig (ArrayProperty)
+SamplingPatterns (ArrayProperty)
+MaxAgents (IntProperty)
+MaxAgentRadius (FloatProperty)
+MaxAvoidedAgents (IntProperty)
+MaxAvoidedWalls (IntProperty)
+NavmeshCheckInterval (FloatProperty)
+PathOptimizationInterval (FloatProperty)
+SeparationDirClamp (FloatProperty)
+PathOffsetRadiusMultiplier (FloatProperty)

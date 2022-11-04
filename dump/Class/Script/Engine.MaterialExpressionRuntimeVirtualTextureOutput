@@ -1,0 +1,11 @@
+/Script/Engine.MaterialExpressionRuntimeVirtualTextureOutput
+
+BaseColor (StructProperty)
+Specular (StructProperty)
+Roughness (StructProperty)
+Normal (StructProperty)
+WorldHeight (StructProperty)
+Opacity (StructProperty)
+Mask (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

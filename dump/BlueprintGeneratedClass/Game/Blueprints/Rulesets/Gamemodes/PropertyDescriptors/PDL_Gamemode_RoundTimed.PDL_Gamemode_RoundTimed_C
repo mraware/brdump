@@ -1,0 +1,5 @@
+/Game/Blueprints/Rulesets/Gamemodes/PropertyDescriptors/PDL_Gamemode_RoundTimed.PDL_Gamemode_RoundTimed_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

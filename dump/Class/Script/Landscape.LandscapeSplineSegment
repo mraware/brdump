@@ -1,0 +1,6 @@
+/Script/Landscape.LandscapeSplineSegment
+
+Connections (StructProperty)
+SplineInfo (StructProperty)
+Points (ArrayProperty)
+Bounds (StructProperty)

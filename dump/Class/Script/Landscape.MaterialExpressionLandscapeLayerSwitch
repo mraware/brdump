@@ -1,0 +1,9 @@
+/Script/Landscape.MaterialExpressionLandscapeLayerSwitch
+
+LayerUsed (StructProperty)
+LayerNotUsed (StructProperty)
+ParameterName (NameProperty)
+PreviewUsed (BoolProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

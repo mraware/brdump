@@ -1,0 +1,8 @@
+/Script/AIModule.BTTask_Wait
+
+WaitTime (FloatProperty)
+RandomDeviation (FloatProperty)
+Services (ArrayProperty)
+bIgnoreRestartSelf (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

@@ -1,0 +1,10 @@
+/Script/Engine.AnimSet
+
+bAnimRotationOnly (BoolProperty)
+TrackBoneNames (ArrayProperty)
+LinkupCache (ArrayProperty)
+BoneUseAnimTranslation (ArrayProperty)
+ForceUseMeshTranslation (ArrayProperty)
+UseTranslationBoneNames (ArrayProperty)
+ForceMeshTranslationBoneNames (ArrayProperty)
+PreviewSkelMeshName (NameProperty)

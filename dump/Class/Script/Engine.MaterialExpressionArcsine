@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionArcsine
+
+Input (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

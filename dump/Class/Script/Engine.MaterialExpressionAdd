@@ -1,0 +1,8 @@
+/Script/Engine.MaterialExpressionAdd
+
+A (StructProperty)
+B (StructProperty)
+ConstA (FloatProperty)
+ConstB (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

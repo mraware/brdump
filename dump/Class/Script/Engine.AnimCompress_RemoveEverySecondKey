@@ -1,0 +1,8 @@
+/Script/Engine.AnimCompress_RemoveEverySecondKey
+
+MinKeys (IntProperty)
+bStartAtSecondKey (BoolProperty)
+bNeedsSkeleton (BoolProperty)
+TranslationCompressionFormat (ByteProperty)
+RotationCompressionFormat (ByteProperty)
+ScaleCompressionFormat (ByteProperty)

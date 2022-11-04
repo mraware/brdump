@@ -1,0 +1,5 @@
+/Script/Paper2D.PaperFlipbook
+
+FramesPerSecond (FloatProperty)
+KeyFrames (ArrayProperty)
+DefaultMaterial (ObjectProperty)

@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionSkyAtmosphereAerialPerspective
+
+WorldPosition (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

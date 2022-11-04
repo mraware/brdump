@@ -1,0 +1,8 @@
+/Script/AIModule.BTComposite_SimpleParallel
+
+FinishMode (ByteProperty)
+Children (ArrayProperty)
+Services (ArrayProperty)
+bApplyDecoratorScope (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

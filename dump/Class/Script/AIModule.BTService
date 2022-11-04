@@ -1,0 +1,8 @@
+/Script/AIModule.BTService
+
+Interval (FloatProperty)
+RandomDeviation (FloatProperty)
+bCallTickOnSearchStart (BoolProperty)
+bRestartTimerOnEachActivation (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

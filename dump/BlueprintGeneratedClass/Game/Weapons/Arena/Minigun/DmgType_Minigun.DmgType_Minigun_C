@@ -1,0 +1,15 @@
+/Game/Weapons/Arena/Minigun/DmgType_Minigun.DmgType_Minigun_C
+
+Icon (StructProperty)
+bCausedByHeadshot (BoolProperty)
+bCausedByExplosion (BoolProperty)
+bCausedByPhysics (BoolProperty)
+bDismantleCharacter (BoolProperty)
+bDoNotStopHealthRegen (BoolProperty)
+SelfDamageScale (FloatProperty)
+bCausedByWorld (BoolProperty)
+bScaleMomentumByMass (BoolProperty)
+bRadialDamageVelChange (BoolProperty)
+DamageImpulse (FloatProperty)
+DestructibleImpulse (FloatProperty)
+DestructibleDamageSpreadScale (FloatProperty)

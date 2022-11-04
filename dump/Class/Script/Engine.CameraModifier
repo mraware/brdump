@@ -1,0 +1,8 @@
+/Script/Engine.CameraModifier
+
+bDebug (BoolProperty)
+bExclusive (BoolProperty)
+Priority (ByteProperty)
+CameraOwner (ObjectProperty)
+AlphaInTime (FloatProperty)
+AlphaOutTime (FloatProperty)

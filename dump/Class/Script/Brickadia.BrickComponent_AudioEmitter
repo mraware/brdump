@@ -1,0 +1,10 @@
+/Script/Brickadia.BrickComponent_AudioEmitter
+
+* AudioDescriptor (ObjectProperty)
+* VolumeMultiplier (FloatProperty)
+* PitchMultiplier (FloatProperty)
+* InnerRadius (FloatProperty)
+* MaxDistance (FloatProperty)
+* bSpatialization (BoolProperty)
+AudioComponentInstance (ObjectProperty)
+* AttachmentRep (StructProperty)

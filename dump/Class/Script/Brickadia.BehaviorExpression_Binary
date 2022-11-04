@@ -1,0 +1,5 @@
+/Script/Brickadia.BehaviorExpression_Binary
+
+LeftHandSide (ObjectProperty)
+RightHandSide (ObjectProperty)
+Type (EnumProperty)

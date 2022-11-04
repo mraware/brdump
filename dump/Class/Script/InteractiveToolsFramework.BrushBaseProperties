@@ -1,0 +1,10 @@
+/Script/InteractiveToolsFramework.BrushBaseProperties
+
+BrushSize (FloatProperty)
+bSpecifyRadius (BoolProperty)
+BrushRadius (FloatProperty)
+BrushStrength (FloatProperty)
+BrushFalloffAmount (FloatProperty)
+bShowStrength (BoolProperty)
+bShowFalloff (BoolProperty)
+CachedProperties (ObjectProperty)

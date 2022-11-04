@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionDistanceToNearestSurface
+
+Position (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

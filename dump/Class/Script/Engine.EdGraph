@@ -1,0 +1,6 @@
+/Script/Engine.EdGraph
+
+Schema (ClassProperty)
+Nodes (ArrayProperty)
+bEditable (BoolProperty)
+bAllowDeletion (BoolProperty)

@@ -1,0 +1,5 @@
+/Script/Niagara.NiagaraDataInterfaceVectorField
+
+Field (ObjectProperty)
+bTileX (BoolProperty)
+bTileY (BoolProperty)

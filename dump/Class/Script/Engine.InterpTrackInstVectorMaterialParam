@@ -1,0 +1,5 @@
+/Script/Engine.InterpTrackInstVectorMaterialParam
+
+MaterialInstances (ArrayProperty)
+ResetVectors (ArrayProperty)
+PrimitiveMaterialRefs (ArrayProperty)

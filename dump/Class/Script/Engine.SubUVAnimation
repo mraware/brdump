@@ -1,0 +1,7 @@
+/Script/Engine.SubUVAnimation
+
+SubUVTexture (ObjectProperty)
+SubImages_Horizontal (IntProperty)
+SubImages_Vertical (IntProperty)
+BoundingMode (ByteProperty)
+OpacitySourceMode (ByteProperty)

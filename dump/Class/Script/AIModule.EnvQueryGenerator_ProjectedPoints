@@ -1,0 +1,6 @@
+/Script/AIModule.EnvQueryGenerator_ProjectedPoints
+
+ProjectionData (StructProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

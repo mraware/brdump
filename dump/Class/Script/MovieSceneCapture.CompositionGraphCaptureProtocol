@@ -1,0 +1,9 @@
+/Script/MovieSceneCapture.CompositionGraphCaptureProtocol
+
+IncludeRenderPasses (StructProperty)
+bCaptureFramesInHDR (BoolProperty)
+HDRCompressionQuality (IntProperty)
+CaptureGamut (ByteProperty)
+PostProcessingMaterial (StructProperty)
+bDisableScreenPercentage (BoolProperty)
+PostProcessingMaterialPtr (ObjectProperty)

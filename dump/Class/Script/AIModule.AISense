@@ -1,0 +1,6 @@
+/Script/AIModule.AISense
+
+DefaultExpirationAge (FloatProperty)
+NotifyType (EnumProperty)
+bWantsNewPawnNotification (BoolProperty)
+bAutoRegisterAllPawnsAsSources (BoolProperty)

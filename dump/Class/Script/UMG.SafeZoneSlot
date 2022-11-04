@@ -1,0 +1,8 @@
+/Script/UMG.SafeZoneSlot
+
+bIsTitleSafe (BoolProperty)
+SafeAreaScale (StructProperty)
+HAlign (ByteProperty)
+VAlign (ByteProperty)
+Padding (StructProperty)
+Parent (ObjectProperty)

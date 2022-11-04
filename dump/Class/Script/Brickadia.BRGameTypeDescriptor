@@ -1,0 +1,8 @@
+/Script/Brickadia.BRGameTypeDescriptor
+
+DescriptorName (NameProperty)
+UiName (TextProperty)
+Description (TextProperty)
+Icon (ObjectProperty)
+GameType (ClassProperty)
+MenuPriority (FloatProperty)

@@ -1,0 +1,7 @@
+/Script/Engine.AnimNotify_PlayParticleEffect
+
+PSTemplate (ObjectProperty)
+LocationOffset (StructProperty)
+RotationOffset (StructProperty)
+Scale (StructProperty)
+Attached (BoolProperty)

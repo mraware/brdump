@@ -1,0 +1,6 @@
+/Script/MovieSceneCapture.UserDefinedImageCaptureProtocol
+
+Format (EnumProperty)
+bEnableCompression (BoolProperty)
+CompressionQuality (IntProperty)
+World (ObjectProperty)

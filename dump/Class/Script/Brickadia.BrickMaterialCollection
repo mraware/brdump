@@ -1,0 +1,17 @@
+/Script/Brickadia.BrickMaterialCollection
+
+CoverageLayer (ByteProperty)
+bOpaqueMaterial (BoolProperty)
+bCastShadow (BoolProperty)
+bHiddenMaterial (BoolProperty)
+SingleDrawMaterial (ObjectProperty)
+LowDetailMaterial (ObjectProperty)
+BevelMaterialInstance (ObjectProperty)
+StudMaterialInstance (ObjectProperty)
+BumpyMaterialInstance (ObjectProperty)
+InletBorderMaterialInstance (ObjectProperty)
+InletCenterMaterialInstance (ObjectProperty)
+PaintToolIcon (StructProperty)
+PaintToolName (TextProperty)
+bUsableForPainting (BoolProperty)
+bUseMaterialAlpha (BoolProperty)

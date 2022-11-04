@@ -1,0 +1,6 @@
+/Script/Landscape.MaterialExpressionLandscapeLayerBlend
+
+Layers (ArrayProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

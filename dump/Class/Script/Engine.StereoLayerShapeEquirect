@@ -1,0 +1,7 @@
+/Script/Engine.StereoLayerShapeEquirect
+
+LeftUVRect (StructProperty)
+RightUVRect (StructProperty)
+LeftScale (StructProperty)
+RightScale (StructProperty)
+LeftBias (StructProperty)

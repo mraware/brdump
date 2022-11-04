@@ -1,0 +1,14 @@
+/Script/Brickadia.BRGameTypeComponent_Sandbox
+
+* Sandboxiness (FloatProperty)
+PropertyDescriptorList (ClassProperty)
+TeamClass (ClassProperty)
+TeamPolicy (EnumProperty)
+UnassignedTeamSettings (StructProperty)
+TeamSettings (ArrayProperty)
+bHonorAlwaysSwitchTeam (BoolProperty)
+HUDWidgets (ArrayProperty)
+PlayerControllerComponents (ArrayProperty)
+LeaderboardColumns (ArrayProperty)
+DisabledGameplayPermissions (ArrayProperty)
+bUseSeparatedBrickTransactionContext (BoolProperty)

@@ -1,0 +1,10 @@
+/Script/Engine.MaterialExpressionMaterialLayerOutput
+
+OutputName (NameProperty)
+Description (StrProperty)
+SortPriority (IntProperty)
+A (StructProperty)
+bLastPreviewed (BoolProperty)
+ID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

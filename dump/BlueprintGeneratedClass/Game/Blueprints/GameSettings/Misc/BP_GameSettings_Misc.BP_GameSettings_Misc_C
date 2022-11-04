@@ -1,0 +1,4 @@
+/Game/Blueprints/GameSettings/Misc/BP_GameSettings_Misc.BP_GameSettings_Misc_C
+
+bSeenAlphaWarning (BoolProperty)
+OnSettingsLiveChanged (MulticastInlineDelegateProperty)

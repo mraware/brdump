@@ -1,0 +1,4 @@
+/Script/AIModule.AIResource_Logic
+
+ManualResourceID (IntProperty)
+AutoResourceID (Int8Property)

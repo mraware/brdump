@@ -1,0 +1,11 @@
+/Script/UMG.WidgetAnimation
+
+MovieScene (ObjectProperty)
+AnimationBindings (ArrayProperty)
+bLegacyFinishOnStop (BoolProperty)
+DisplayLabel (StrProperty)
+CompiledData (ObjectProperty)
+DefaultCompletionMode (EnumProperty)
+bParentContextsAreSignificant (BoolProperty)
+bPlayableDirectly (BoolProperty)
+SequenceFlags (EnumProperty)

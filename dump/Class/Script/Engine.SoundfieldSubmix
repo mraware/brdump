@@ -1,0 +1,7 @@
+/Script/Engine.SoundfieldSubmix
+
+SoundfieldEncodingFormat (NameProperty)
+EncodingSettings (ObjectProperty)
+SoundfieldEffectChain (ArrayProperty)
+EncodingSettingsClass (ClassProperty)
+ParentSubmix (ObjectProperty)

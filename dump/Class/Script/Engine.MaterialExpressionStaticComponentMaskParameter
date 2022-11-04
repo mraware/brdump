@@ -1,0 +1,10 @@
+/Script/Engine.MaterialExpressionStaticComponentMaskParameter
+
+DefaultR (BoolProperty)
+DefaultG (BoolProperty)
+DefaultB (BoolProperty)
+DefaultA (BoolProperty)
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

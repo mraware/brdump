@@ -1,0 +1,7 @@
+/Script/Brickadia.BrickTransaction_SingleBrickChange
+
+BrickPersistentHandle (StructProperty)
+bBrickChanged (BoolProperty)
+bBrickSkipped (BoolProperty)
+bBrickUntrusted (BoolProperty)
+bBrickNotFound (BoolProperty)

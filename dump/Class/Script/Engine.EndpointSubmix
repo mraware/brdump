@@ -1,0 +1,5 @@
+/Script/Engine.EndpointSubmix
+
+EndpointType (NameProperty)
+EndpointSettingsClass (ClassProperty)
+EndpointSettings (ObjectProperty)

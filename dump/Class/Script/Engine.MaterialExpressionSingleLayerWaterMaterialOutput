@@ -1,0 +1,8 @@
+/Script/Engine.MaterialExpressionSingleLayerWaterMaterialOutput
+
+ScatteringCoefficients (StructProperty)
+AbsorptionCoefficients (StructProperty)
+PhaseG (StructProperty)
+ColorScaleBehindWater (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

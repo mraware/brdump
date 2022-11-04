@@ -1,0 +1,13 @@
+/Script/Engine.BlueprintGeneratedClass
+
+NumReplicatedProperties (IntProperty)
+bHasNativizedParent (BoolProperty)
+bHasCookedComponentInstancingData (BoolProperty)
+DynamicBindingObjects (ArrayProperty)
+ComponentTemplates (ArrayProperty)
+Timelines (ArrayProperty)
+ComponentClassOverrides (ArrayProperty)
+SimpleConstructionScript (ObjectProperty)
+InheritableComponentHandler (ObjectProperty)
+UberGraphFramePointerProperty (ObjectProperty)
+UberGraphFunction (ObjectProperty)

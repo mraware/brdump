@@ -1,0 +1,5 @@
+/Game/UI/EditGame/Tabs/Permissions/PDL_RoleBase.PDL_RoleBase_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

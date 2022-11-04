@@ -1,0 +1,7 @@
+/Script/AIModule.BTTask_PlaySound
+
+SoundToPlay (ObjectProperty)
+Services (ArrayProperty)
+bIgnoreRestartSelf (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.Breakpoint
+
+bEnabled (BoolProperty)
+Node (ObjectProperty)
+bStepOnce (BoolProperty)
+bStepOnce_WasPreviouslyDisabled (BoolProperty)

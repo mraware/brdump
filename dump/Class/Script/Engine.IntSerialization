@@ -1,0 +1,9 @@
+/Script/Engine.IntSerialization
+
+UnsignedInt16Variable (UInt16Property)
+UnsignedInt32Variable (UInt32Property)
+UnsignedInt64Variable (UInt64Property)
+SignedInt8Variable (Int8Property)
+SignedInt16Variable (Int16Property)
+SignedInt64Variable (Int64Property)
+UnsignedInt8Variable (ByteProperty)

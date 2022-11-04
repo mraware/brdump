@@ -1,0 +1,12 @@
+/Script/Brickadia.BrickComponent_SpotLight
+
+* Rotation (StructProperty)
+* InnerConeAngle (FloatProperty)
+* OuterConeAngle (FloatProperty)
+* Brightness (FloatProperty)
+* Radius (FloatProperty)
+* Color (StructProperty)
+* bUseBrickColor (BoolProperty)
+* bCastShadows (BoolProperty)
+LightInstance (ObjectProperty)
+* AttachmentRep (StructProperty)

@@ -1,0 +1,8 @@
+/Script/UMG.SlateAccessibleWidgetData
+
+bCanChildrenBeAccessible (BoolProperty)
+AccessibleBehavior (EnumProperty)
+AccessibleSummaryBehavior (EnumProperty)
+AccessibleText (TextProperty)
+AccessibleTextDelegate (DelegateProperty)
+AccessibleSummaryText (TextProperty)

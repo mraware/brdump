@@ -1,0 +1,10 @@
+/Script/Brickadia.BrickComponent_PointLight
+
+* bMatchBrickShape (BoolProperty)
+* Brightness (FloatProperty)
+* Radius (FloatProperty)
+* Color (StructProperty)
+* bUseBrickColor (BoolProperty)
+* bCastShadows (BoolProperty)
+LightInstance (ObjectProperty)
+* AttachmentRep (StructProperty)

@@ -1,0 +1,5 @@
+/Script/GameplayCameras.DefaultCameraShakeBase
+
+bSingleInstance (BoolProperty)
+ShakeScale (FloatProperty)
+RootShakePattern (ObjectProperty)

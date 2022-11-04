@@ -1,0 +1,6 @@
+/Script/Brickadia.AsyncActionOneButtonDialog
+
+OnButtonClicked (MulticastInlineDelegateProperty)
+HUD (ObjectProperty)
+Dialog (ObjectProperty)
+ButtonIcon (ObjectProperty)

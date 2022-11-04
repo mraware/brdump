@@ -1,0 +1,13 @@
+/Script/Brickadia.BRRulesetGameType
+
+PropertyDescriptorList (ClassProperty)
+TeamClass (ClassProperty)
+TeamPolicy (EnumProperty)
+UnassignedTeamSettings (StructProperty)
+TeamSettings (ArrayProperty)
+bHonorAlwaysSwitchTeam (BoolProperty)
+HUDWidgets (ArrayProperty)
+PlayerControllerComponents (ArrayProperty)
+LeaderboardColumns (ArrayProperty)
+DisabledGameplayPermissions (ArrayProperty)
+bUseSeparatedBrickTransactionContext (BoolProperty)

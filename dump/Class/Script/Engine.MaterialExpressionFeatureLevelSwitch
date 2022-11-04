@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionFeatureLevelSwitch
+
+Default (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

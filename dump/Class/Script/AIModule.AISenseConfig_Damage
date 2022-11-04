@@ -1,0 +1,5 @@
+/Script/AIModule.AISenseConfig_Damage
+
+Implementation (ClassProperty)
+DebugColor (StructProperty)
+MaxAge (FloatProperty)

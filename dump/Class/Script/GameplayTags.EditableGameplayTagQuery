@@ -1,0 +1,4 @@
+/Script/GameplayTags.EditableGameplayTagQuery
+
+UserDescription (StrProperty)
+RootExpression (ObjectProperty)

@@ -1,0 +1,13 @@
+/Game/Blueprints/Rulesets/Gamemodes/Blueprints/BP_GameType_Sandbox.BP_GameType_Sandbox_C
+
+PropertyDescriptorList (ClassProperty)
+TeamClass (ClassProperty)
+TeamPolicy (EnumProperty)
+UnassignedTeamSettings (StructProperty)
+TeamSettings (ArrayProperty)
+bHonorAlwaysSwitchTeam (BoolProperty)
+HUDWidgets (ArrayProperty)
+PlayerControllerComponents (ArrayProperty)
+LeaderboardColumns (ArrayProperty)
+DisabledGameplayPermissions (ArrayProperty)
+bUseSeparatedBrickTransactionContext (BoolProperty)

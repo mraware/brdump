@@ -1,0 +1,15 @@
+/Script/Engine.RuntimeVirtualTexture
+
+TileCount (IntProperty)
+TileSize (IntProperty)
+TileBorderSize (IntProperty)
+MaterialType (EnumProperty)
+bCompressTextures (BoolProperty)
+bClearTextures (BoolProperty)
+bSinglePhysicalSpace (BoolProperty)
+bPrivateSpace (BoolProperty)
+bAdaptive (BoolProperty)
+bContinuousUpdate (BoolProperty)
+RemoveLowMips (IntProperty)
+LODGroup (ByteProperty)
+Size (IntProperty)

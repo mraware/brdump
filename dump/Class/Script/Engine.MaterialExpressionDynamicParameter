@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionDynamicParameter
+
+ParamNames (ArrayProperty)
+DefaultValue (StructProperty)
+ParameterIndex (UInt32Property)
+Material (ObjectProperty)
+Function (ObjectProperty)

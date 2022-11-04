@@ -1,0 +1,13 @@
+/Script/Niagara.NiagaraDataInterfaceGrid2DCollection
+
+RenderTargetUserParameter (StructProperty)
+OverrideBufferFormat (EnumProperty)
+bOverrideFormat (BoolProperty)
+ManagedRenderTargets (MapProperty)
+NumCellsX (IntProperty)
+NumCellsY (IntProperty)
+NumCellsMaxAxis (IntProperty)
+NumAttributes (IntProperty)
+SetGridFromMaxAxis (BoolProperty)
+WorldBBoxSize (StructProperty)
+OutputShaderStages (SetProperty)

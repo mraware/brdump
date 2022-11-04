@@ -1,0 +1,5 @@
+/Script/Niagara.NiagaraPreviewAxis_InterpParamInt32
+
+Min (IntProperty)
+Max (IntProperty)
+Param (NameProperty)

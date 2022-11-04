@@ -1,0 +1,6 @@
+/Script/Engine.PlatformInterfaceWebResponse
+
+OriginalURL (StrProperty)
+ResponseCode (IntProperty)
+Tag (IntProperty)
+StringResponse (StrProperty)

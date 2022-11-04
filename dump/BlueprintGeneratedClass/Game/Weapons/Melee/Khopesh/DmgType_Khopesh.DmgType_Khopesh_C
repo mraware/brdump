@@ -1,0 +1,15 @@
+/Game/Weapons/Melee/Khopesh/DmgType_Khopesh.DmgType_Khopesh_C
+
+Icon (StructProperty)
+bCausedByHeadshot (BoolProperty)
+bCausedByExplosion (BoolProperty)
+bCausedByPhysics (BoolProperty)
+bDismantleCharacter (BoolProperty)
+bDoNotStopHealthRegen (BoolProperty)
+SelfDamageScale (FloatProperty)
+bCausedByWorld (BoolProperty)
+bScaleMomentumByMass (BoolProperty)
+bRadialDamageVelChange (BoolProperty)
+DamageImpulse (FloatProperty)
+DestructibleImpulse (FloatProperty)
+DestructibleDamageSpreadScale (FloatProperty)

@@ -1,0 +1,8 @@
+/Script/Engine.PrimaryAssetLabel
+
+Rules (StructProperty)
+bLabelAssetsInMyDirectory (BoolProperty)
+bIsRuntimeLabel (BoolProperty)
+ExplicitAssets (ArrayProperty)
+ExplicitBlueprints (ArrayProperty)
+AssetCollection (StructProperty)

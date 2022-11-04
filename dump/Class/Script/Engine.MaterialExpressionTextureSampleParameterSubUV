@@ -1,0 +1,10 @@
+/Script/Engine.MaterialExpressionTextureSampleParameterSubUV
+
+bBlend (BoolProperty)
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Group (NameProperty)
+Coordinates (StructProperty)
+Texture (ObjectProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

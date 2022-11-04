@@ -1,0 +1,4 @@
+/Script/MovieSceneCapture.VideoCaptureProtocol
+
+bUseCompression (BoolProperty)
+CompressionQuality (FloatProperty)

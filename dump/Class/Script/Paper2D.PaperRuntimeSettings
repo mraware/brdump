@@ -1,0 +1,4 @@
+/Script/Paper2D.PaperRuntimeSettings
+
+bEnableSpriteAtlasGroups (BoolProperty)
+bEnableTerrainSplineEditing (BoolProperty)

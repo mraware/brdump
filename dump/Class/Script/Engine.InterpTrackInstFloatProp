@@ -1,0 +1,4 @@
+/Script/Engine.InterpTrackInstFloatProp
+
+ResetFloat (FloatProperty)
+InterpProperty (FieldPathProperty)

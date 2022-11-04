@@ -1,0 +1,6 @@
+/Script/NiagaraAnimNotifies.AnimNotifyState_TimedNiagaraEffectAdvanced
+
+Template (ObjectProperty)
+SocketName (NameProperty)
+LocationOffset (StructProperty)
+RotationOffset (StructProperty)

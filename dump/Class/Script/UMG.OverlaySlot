@@ -1,0 +1,6 @@
+/Script/UMG.OverlaySlot
+
+Padding (StructProperty)
+HorizontalAlignment (ByteProperty)
+VerticalAlignment (ByteProperty)
+Parent (ObjectProperty)

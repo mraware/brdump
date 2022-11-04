@@ -1,0 +1,17 @@
+/Script/Engine.StreamingSettings
+
+AsyncLoadingThreadEnabled (BoolProperty)
+WarnIfTimeLimitExceeded (BoolProperty)
+TimeLimitExceededMultiplier (FloatProperty)
+TimeLimitExceededMinTime (FloatProperty)
+MinBulkDataSizeForAsyncLoading (IntProperty)
+UseBackgroundLevelStreaming (BoolProperty)
+AsyncLoadingUseFullTimeLimit (BoolProperty)
+AsyncLoadingTimeLimit (FloatProperty)
+PriorityAsyncLoadingExtraTime (FloatProperty)
+LevelStreamingActorsUpdateTimeLimit (FloatProperty)
+PriorityLevelStreamingActorsUpdateExtraTime (FloatProperty)
+LevelStreamingComponentsRegistrationGranularity (IntProperty)
+LevelStreamingUnregisterComponentsTimeLimit (FloatProperty)
+LevelStreamingComponentsUnregistrationGranularity (IntProperty)
+FlushStreamingOnExit (BoolProperty)

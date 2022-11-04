@@ -1,0 +1,6 @@
+/Script/Engine.NetworkSettings
+
+bVerifyPeer (BoolProperty)
+bEnableMultiplayerWorldOriginRebasing (BoolProperty)
+MaxRepArraySize (IntProperty)
+MaxRepArrayMemory (IntProperty)

@@ -1,0 +1,9 @@
+/Script/UMG.DynamicEntryBoxBase
+
+Tag (StrProperty)
+Payload (ObjectProperty)
+DefaultDragVisual (ObjectProperty)
+Pivot (EnumProperty)
+Offset (StructProperty)
+OnDrop (MulticastInlineDelegateProperty)
+OnDragCancelled (MulticastInlineDelegateProperty)

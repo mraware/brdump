@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionHairAttributes
+
+bUseTangentSpace (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionWorldPosition
+
+WorldPositionShaderOffset (ByteProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

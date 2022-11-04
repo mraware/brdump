@@ -1,0 +1,4 @@
+/Script/Brickadia.PlayerPartThumbnailProcessor
+
+PartComponent (ObjectProperty)
+SkyTextureCube (ObjectProperty)

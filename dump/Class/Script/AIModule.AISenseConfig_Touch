@@ -1,0 +1,4 @@
+/Script/AIModule.AISenseConfig_Touch
+
+DebugColor (StructProperty)
+MaxAge (FloatProperty)

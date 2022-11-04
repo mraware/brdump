@@ -1,0 +1,5 @@
+/Script/Niagara.NiagaraDataInterfaceExport
+
+CallbackHandlerParameter (StructProperty)
+GPUAllocationMode (EnumProperty)
+GPUAllocationFixedSize (IntProperty)

@@ -1,0 +1,7 @@
+/Script/AIModule.BTDecorator_BlackboardBase
+
+BlackboardKey (StructProperty)
+bInverseCondition (BoolProperty)
+FlowAbortMode (ByteProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

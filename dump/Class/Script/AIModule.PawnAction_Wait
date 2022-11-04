@@ -1,0 +1,11 @@
+/Script/AIModule.PawnAction_Wait
+
+TimeToWait (FloatProperty)
+ChildAction (ObjectProperty)
+ParentAction (ObjectProperty)
+OwnerComponent (ObjectProperty)
+Instigator (ObjectProperty)
+BrainComp (ObjectProperty)
+bAllowNewSameClassInstance (BoolProperty)
+bReplaceActiveSameClassInstance (BoolProperty)
+bShouldPauseMovement (BoolProperty)

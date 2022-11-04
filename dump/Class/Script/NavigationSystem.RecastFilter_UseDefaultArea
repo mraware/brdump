@@ -1,0 +1,4 @@
+/Script/NavigationSystem.RecastFilter_UseDefaultArea
+
+Areas (ArrayProperty)
+IncludeFlags (StructProperty)

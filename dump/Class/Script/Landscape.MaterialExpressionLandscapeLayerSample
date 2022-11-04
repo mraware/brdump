@@ -1,0 +1,7 @@
+/Script/Landscape.MaterialExpressionLandscapeLayerSample
+
+ParameterName (NameProperty)
+PreviewWeight (FloatProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

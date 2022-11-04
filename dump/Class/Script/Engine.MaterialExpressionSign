@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionSign
+
+Input (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

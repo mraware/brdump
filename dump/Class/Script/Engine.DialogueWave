@@ -1,0 +1,7 @@
+/Script/Engine.DialogueWave
+
+bMature (BoolProperty)
+bOverride_SubtitleOverride (BoolProperty)
+SpokenText (StrProperty)
+SubtitleOverride (StrProperty)
+ContextMappings (ArrayProperty)

@@ -1,0 +1,10 @@
+/Script/Engine.MaterialExpressionClamp
+
+Input (StructProperty)
+Min (StructProperty)
+Max (StructProperty)
+ClampMode (ByteProperty)
+MinDefault (FloatProperty)
+MaxDefault (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,5 @@
+/Game/Maps/Space/PrimaryAssets/BP_NebulaTextureData.BP_NebulaTextureData_C
+
+IconBrush (StructProperty)
+ColorTextureCube (SoftObjectProperty)
+AlphaTextureCube (SoftObjectProperty)

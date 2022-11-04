@@ -1,0 +1,7 @@
+/Script/Niagara.NiagaraBaselineController_Basic
+
+NumInstances (IntProperty)
+SpawnedComponents (ArrayProperty)
+TestDuration (FloatProperty)
+EffectType (ObjectProperty)
+Owner (ObjectProperty)

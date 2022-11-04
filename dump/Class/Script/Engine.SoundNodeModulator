@@ -1,0 +1,6 @@
+/Script/Engine.SoundNodeModulator
+
+PitchMin (FloatProperty)
+PitchMax (FloatProperty)
+VolumeMin (FloatProperty)
+VolumeMax (FloatProperty)

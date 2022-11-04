@@ -1,0 +1,4 @@
+/Script/InteractiveToolsFramework.GizmoComponentAxisSource
+
+Component (ObjectProperty)
+AxisIndex (IntProperty)

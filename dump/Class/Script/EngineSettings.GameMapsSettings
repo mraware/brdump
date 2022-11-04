@@ -1,0 +1,15 @@
+/Script/EngineSettings.GameMapsSettings
+
+LocalMapOptions (StrProperty)
+TransitionMap (StructProperty)
+bUseSplitscreen (BoolProperty)
+TwoPlayerSplitscreenLayout (ByteProperty)
+ThreePlayerSplitscreenLayout (ByteProperty)
+FourPlayerSplitscreenLayout (EnumProperty)
+bOffsetPlayerGamepadIds (BoolProperty)
+GameInstanceClass (StructProperty)
+GameDefaultMap (StructProperty)
+ServerDefaultMap (StructProperty)
+GlobalDefaultGameMode (StructProperty)
+GlobalDefaultServerGameMode (StructProperty)
+GameModeMapPrefixes (ArrayProperty)

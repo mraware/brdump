@@ -1,0 +1,5 @@
+/Game/Blueprints/Rulesets/Gamemodes/PropertyDescriptors/RoundTimed/PDL_Gamemode_Deathmatch.PDL_Gamemode_Deathmatch_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

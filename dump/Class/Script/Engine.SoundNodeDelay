@@ -1,0 +1,4 @@
+/Script/Engine.SoundNodeDelay
+
+DelayMin (FloatProperty)
+DelayMax (FloatProperty)

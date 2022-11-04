@@ -1,0 +1,6 @@
+/Script/Engine.GameViewportClient
+
+ViewportConsole (ObjectProperty)
+DebugProperties (ArrayProperty)
+MaxSplitscreenPlayers (IntProperty)
+World (ObjectProperty)

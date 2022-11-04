@@ -1,0 +1,5 @@
+/Script/Niagara.NiagaraPreviewAxis_InterpParamVector
+
+Min (StructProperty)
+Max (StructProperty)
+Param (NameProperty)

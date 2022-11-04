@@ -1,0 +1,9 @@
+/Script/Niagara.NiagaraDataInterfaceRenderTargetCube
+
+Size (IntProperty)
+OverrideRenderTargetFormat (ByteProperty)
+bInheritUserParameterSettings (BoolProperty)
+bOverrideFormat (BoolProperty)
+RenderTargetUserParameter (StructProperty)
+ManagedRenderTargets (MapProperty)
+OutputShaderStages (SetProperty)

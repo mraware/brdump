@@ -1,0 +1,9 @@
+/Script/Brickadia.BRMapInfo
+
+MapPackage (SoftObjectProperty)
+MapName (NameProperty)
+CommandName (StrProperty)
+DisplayName (TextProperty)
+Description (TextProperty)
+Thumbnail (ObjectProperty)
+Screenshots (ArrayProperty)

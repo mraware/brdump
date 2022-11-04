@@ -1,0 +1,5 @@
+/Script/Brickadia.BRConsole
+
+ConsoleTargetPlayer (ObjectProperty)
+DefaultTexture_Black (ObjectProperty)
+DefaultTexture_White (ObjectProperty)

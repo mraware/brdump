@@ -1,0 +1,12 @@
+/Script/Engine.SCS_Node
+
+ComponentClass (ClassProperty)
+ComponentTemplate (ObjectProperty)
+CookedComponentInstancingData (StructProperty)
+AttachToName (NameProperty)
+ParentComponentOrVariableName (NameProperty)
+ParentComponentOwnerClassName (NameProperty)
+bIsParentComponentNative (BoolProperty)
+ChildNodes (ArrayProperty)
+MetaDataArray (ArrayProperty)
+VariableGuid (StructProperty)

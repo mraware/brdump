@@ -1,0 +1,7 @@
+/Script/UMG.UniformGridSlot
+
+HorizontalAlignment (ByteProperty)
+VerticalAlignment (ByteProperty)
+Row (IntProperty)
+Column (IntProperty)
+Parent (ObjectProperty)

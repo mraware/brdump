@@ -1,0 +1,6 @@
+/Script/Brickadia.BRWeaponStateBehavior_MeleeBase
+
+ColliderComponentTag (NameProperty)
+bTraceComplex (BoolProperty)
+MissResponse (StructProperty)
+NonDamageableOverlapResponse (StructProperty)

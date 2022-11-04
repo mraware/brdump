@@ -1,0 +1,18 @@
+/Script/Engine.InterpTrackEvent
+
+EventTrack (ArrayProperty)
+bFireEventsWhenForwards (BoolProperty)
+bFireEventsWhenBackwards (BoolProperty)
+bFireEventsWhenJumpingForwards (BoolProperty)
+bUseCustomEventName (BoolProperty)
+SubTracks (ArrayProperty)
+TrackInstClass (ClassProperty)
+ActiveCondition (ByteProperty)
+TrackTitle (StrProperty)
+bOnePerGroup (BoolProperty)
+bDirGroupOnly (BoolProperty)
+bDisableTrack (BoolProperty)
+bIsSelected (BoolProperty)
+bIsAnimControlTrack (BoolProperty)
+bSubTrackOnly (BoolProperty)
+bVisible (BoolProperty)

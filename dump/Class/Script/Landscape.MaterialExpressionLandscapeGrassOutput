@@ -1,0 +1,5 @@
+/Script/Landscape.MaterialExpressionLandscapeGrassOutput
+
+GrassTypes (ArrayProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

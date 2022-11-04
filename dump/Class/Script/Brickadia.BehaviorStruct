@@ -1,0 +1,6 @@
+/Script/Brickadia.BehaviorStruct
+
+StructInternalName (NameProperty)
+StructDisplayName (TextProperty)
+StructDescription (TextProperty)
+bIsAdvanced (BoolProperty)

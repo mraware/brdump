@@ -1,0 +1,13 @@
+/Script/AIModule.BTDecorator_Blackboard
+
+IntValue (IntProperty)
+FloatValue (FloatProperty)
+StringValue (StrProperty)
+CachedDescription (StrProperty)
+OperationType (ByteProperty)
+NotifyObserver (ByteProperty)
+BlackboardKey (StructProperty)
+bInverseCondition (BoolProperty)
+FlowAbortMode (ByteProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

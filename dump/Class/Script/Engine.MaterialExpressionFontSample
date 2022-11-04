@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionFontSample
+
+Font (ObjectProperty)
+FontTexturePage (IntProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

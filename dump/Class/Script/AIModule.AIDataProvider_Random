@@ -1,0 +1,8 @@
+/Script/AIModule.AIDataProvider_Random
+
+Min (FloatProperty)
+Max (FloatProperty)
+bInteger (BoolProperty)
+ParamName (NameProperty)
+FloatValue (FloatProperty)
+IntValue (IntProperty)

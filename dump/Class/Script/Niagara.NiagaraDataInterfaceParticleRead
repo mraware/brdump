@@ -1,0 +1,4 @@
+/Script/Niagara.NiagaraDataInterfaceParticleRead
+
+EmitterName (StrProperty)
+OutputShaderStages (SetProperty)

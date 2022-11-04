@@ -1,0 +1,18 @@
+/Game/Blueprints/Rulesets/Gamemodes/Blueprints/RoundTimed/Deathmatch/BP_DeathmatchStats.BP_DeathmatchStats_C
+
+* Lives (IntProperty)
+bDidWarnCantRespawn (BoolProperty)
+PrimaryComponentTick (StructProperty)
+ComponentTags (ArrayProperty)
+AssetUserData (ArrayProperty)
+UCSSerializationIndex (IntProperty)
+bNetAddressable (BoolProperty)
+* bReplicates (BoolProperty)
+bAutoActivate (BoolProperty)
+* bIsActive (BoolProperty)
+bEditableWhenInherited (BoolProperty)
+bCanEverAffectNavigation (BoolProperty)
+bIsEditorOnly (BoolProperty)
+CreationMethod (EnumProperty)
+OnComponentActivated (MulticastSparseDelegateProperty)
+OnComponentDeactivated (MulticastSparseDelegateProperty)

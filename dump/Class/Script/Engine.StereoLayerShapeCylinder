@@ -1,0 +1,4 @@
+/Script/Engine.StereoLayerShapeCylinder
+
+Radius (FloatProperty)
+OverlayArc (FloatProperty)

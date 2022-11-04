@@ -1,0 +1,18 @@
+/Script/MovieScene.TestMovieSceneSection
+
+EvalOptions (StructProperty)
+Easing (StructProperty)
+SectionRange (StructProperty)
+PreRollFrames (StructProperty)
+PostRollFrames (StructProperty)
+RowIndex (IntProperty)
+OverlapPriority (IntProperty)
+bIsActive (BoolProperty)
+bIsLocked (BoolProperty)
+StartTime (FloatProperty)
+EndTime (FloatProperty)
+PrerollTime (FloatProperty)
+PostrollTime (FloatProperty)
+bIsInfinite (BoolProperty)
+bSupportsInfiniteRange (BoolProperty)
+BlendType (StructProperty)

@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionTextureObject
+
+Texture (ObjectProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

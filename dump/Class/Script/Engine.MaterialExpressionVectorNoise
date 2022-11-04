@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionVectorNoise
+
+Position (StructProperty)
+NoiseFunction (ByteProperty)
+Quality (IntProperty)
+bTiling (BoolProperty)
+TileSize (UInt32Property)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,5 @@
+/Script/Brickadia.BRPresetDescriptor
+
+PresetTypeName (NameProperty)
+SavePath (StrProperty)
+Version (IntProperty)

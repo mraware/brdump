@@ -1,0 +1,4 @@
+/Script/Engine.DistributionVector
+
+bCanBeBaked (BoolProperty)
+bIsDirty (BoolProperty)

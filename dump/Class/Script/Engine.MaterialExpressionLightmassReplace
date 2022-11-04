@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionLightmassReplace
+
+Realtime (StructProperty)
+Lightmass (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

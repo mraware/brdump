@@ -1,0 +1,9 @@
+/Script/Brickadia.BRServerSettingsBase_AutoSave
+
+* bEnableAutoSave (BoolProperty)
+* bAnnounceAutoSave (BoolProperty)
+* AutoSaveFolder (StrProperty)
+* MaxAutoSaves (IntProperty)
+* AutoSaveInterval (FloatProperty)
+* bIncludeScreenshot (BoolProperty)
+OnSettingsLiveChanged (MulticastInlineDelegateProperty)

@@ -1,0 +1,13 @@
+/Game/Blueprints/GameSettings/Controls/BP_GameSettings_Controls.BP_GameSettings_Controls_C
+
+bTapToSprint (BoolProperty)
+MouseSensitivityX (FloatProperty)
+MouseSensitivityY (FloatProperty)
+bEnableMouseSmoothing (BoolProperty)
+LeftStickSensitivityX (FloatProperty)
+LeftStickSensitivityY (FloatProperty)
+RightStickSensitivityX (FloatProperty)
+RightStickSensitivityY (FloatProperty)
+ExportedActionOverrides (ArrayProperty)
+ExportedAxisOverrides (ArrayProperty)
+OnSettingsLiveChanged (MulticastInlineDelegateProperty)

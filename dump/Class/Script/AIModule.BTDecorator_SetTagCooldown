@@ -1,0 +1,9 @@
+/Script/AIModule.BTDecorator_SetTagCooldown
+
+CooldownTag (StructProperty)
+CooldownDuration (FloatProperty)
+bAddToExistingDuration (BoolProperty)
+bInverseCondition (BoolProperty)
+FlowAbortMode (ByteProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

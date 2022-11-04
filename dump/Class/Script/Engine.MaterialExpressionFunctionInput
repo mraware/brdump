@@ -1,0 +1,13 @@
+/Script/Engine.MaterialExpressionFunctionInput
+
+Preview (StructProperty)
+InputName (NameProperty)
+Description (StrProperty)
+ID (StructProperty)
+InputType (ByteProperty)
+PreviewValue (StructProperty)
+bUsePreviewValueAsDefault (BoolProperty)
+SortPriority (IntProperty)
+bCompilingFunctionPreview (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

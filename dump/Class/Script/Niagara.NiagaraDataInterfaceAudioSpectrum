@@ -1,0 +1,6 @@
+/Script/Niagara.NiagaraDataInterfaceAudioSpectrum
+
+Resolution (IntProperty)
+MinimumFrequency (FloatProperty)
+MaximumFrequency (FloatProperty)
+NoiseFloorDb (FloatProperty)

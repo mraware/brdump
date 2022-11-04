@@ -1,0 +1,9 @@
+/Script/AIModule.EnvQueryManager
+
+InstanceCache (ArrayProperty)
+LocalContexts (ArrayProperty)
+GCShieldedWrappers (ArrayProperty)
+MaxAllowedTestingTime (FloatProperty)
+bTestQueriesUsingBreadth (BoolProperty)
+QueryCountWarningThreshold (IntProperty)
+QueryCountWarningInterval (DoubleProperty)

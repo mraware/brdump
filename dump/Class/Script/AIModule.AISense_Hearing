@@ -1,0 +1,8 @@
+/Script/AIModule.AISense_Hearing
+
+NoiseEvents (ArrayProperty)
+SpeedOfSoundSq (FloatProperty)
+DefaultExpirationAge (FloatProperty)
+NotifyType (EnumProperty)
+bWantsNewPawnNotification (BoolProperty)
+bAutoRegisterAllPawnsAsSources (BoolProperty)

@@ -1,0 +1,6 @@
+/Script/UMG.WindowTitleBarAreaSlot
+
+Padding (StructProperty)
+HorizontalAlignment (ByteProperty)
+VerticalAlignment (ByteProperty)
+Parent (ObjectProperty)

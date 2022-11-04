@@ -1,0 +1,16 @@
+/Script/Engine.EdGraphNode
+
+DeprecatedPins (ArrayProperty)
+NodePosX (IntProperty)
+NodePosY (IntProperty)
+NodeWidth (IntProperty)
+NodeHeight (IntProperty)
+AdvancedPinDisplay (ByteProperty)
+EnabledState (EnumProperty)
+bDisplayAsDisabled (BoolProperty)
+bUserSetEnabledState (BoolProperty)
+bIsNodeEnabled (BoolProperty)
+bHasCompilerMessage (BoolProperty)
+NodeComment (StrProperty)
+ErrorType (IntProperty)
+ErrorMsg (StrProperty)

@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionTransformPosition
+
+Input (StructProperty)
+TransformSourceType (ByteProperty)
+TransformType (ByteProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

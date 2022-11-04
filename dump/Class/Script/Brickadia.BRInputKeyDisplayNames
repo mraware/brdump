@@ -1,0 +1,7 @@
+/Script/Brickadia.BRInputKeyDisplayNames
+
+KeyDisplayNameOverrides (MapProperty)
+ShiftDisplayName (TextProperty)
+CtrlDisplayName (TextProperty)
+AltDisplayName (TextProperty)
+CmdDisplayName (TextProperty)

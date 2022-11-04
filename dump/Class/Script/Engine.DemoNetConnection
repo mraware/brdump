@@ -1,0 +1,18 @@
+/Script/Engine.DemoNetConnection
+
+Children (ArrayProperty)
+Driver (ObjectProperty)
+PackageMapClass (ClassProperty)
+PackageMap (ObjectProperty)
+OpenChannels (ArrayProperty)
+SentTemporaries (ArrayProperty)
+ViewTarget (ObjectProperty)
+OwningActor (ObjectProperty)
+MaxPacket (IntProperty)
+InternalAck (BoolProperty)
+PlayerId (StructProperty)
+LastReceiveTime (DoubleProperty)
+ChannelsToTick (ArrayProperty)
+PlayerController (ObjectProperty)
+CurrentNetSpeed (IntProperty)
+ConfiguredInternetSpeed (IntProperty)

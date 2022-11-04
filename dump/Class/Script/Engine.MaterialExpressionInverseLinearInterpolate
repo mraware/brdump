@@ -1,0 +1,11 @@
+/Script/Engine.MaterialExpressionInverseLinearInterpolate
+
+A (StructProperty)
+B (StructProperty)
+Value (StructProperty)
+ConstA (FloatProperty)
+ConstB (FloatProperty)
+ConstValue (FloatProperty)
+bClampResult (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

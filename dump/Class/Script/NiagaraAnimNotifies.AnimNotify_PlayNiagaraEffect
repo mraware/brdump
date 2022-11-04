@@ -1,0 +1,8 @@
+/Script/NiagaraAnimNotifies.AnimNotify_PlayNiagaraEffect
+
+Template (ObjectProperty)
+LocationOffset (StructProperty)
+RotationOffset (StructProperty)
+Scale (StructProperty)
+bAbsoluteScale (BoolProperty)
+Attached (BoolProperty)

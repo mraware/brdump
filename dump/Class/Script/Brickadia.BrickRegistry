@@ -1,0 +1,7 @@
+/Script/Brickadia.BrickRegistry
+
+CachedGlobalBrickGridActor (ObjectProperty)
+CachedGlobalBrickGrid (ObjectProperty)
+ComponentClassInfos (ArrayProperty)
+ComponentClassMap (MapProperty)
+MaterialCollections (ArrayProperty)

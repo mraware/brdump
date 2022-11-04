@@ -1,0 +1,6 @@
+/Script/UMG.ScrollBoxSlot
+
+Padding (StructProperty)
+HorizontalAlignment (ByteProperty)
+VerticalAlignment (ByteProperty)
+Parent (ObjectProperty)

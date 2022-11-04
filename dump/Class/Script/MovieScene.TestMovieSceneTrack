@@ -1,0 +1,9 @@
+/Script/MovieScene.TestMovieSceneTrack
+
+bHighPassFilter (BoolProperty)
+SectionArray (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

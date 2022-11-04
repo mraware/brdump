@@ -1,0 +1,17 @@
+/Script/Engine.Font
+
+FontCacheType (EnumProperty)
+Characters (ArrayProperty)
+Textures (ArrayProperty)
+IsRemapped (IntProperty)
+EmScale (FloatProperty)
+Ascent (FloatProperty)
+Descent (FloatProperty)
+Leading (FloatProperty)
+Kerning (IntProperty)
+ImportOptions (StructProperty)
+NumCharacters (IntProperty)
+MaxCharHeight (ArrayProperty)
+ScalingFactor (FloatProperty)
+LegacyFontSize (IntProperty)
+LegacyFontName (NameProperty)

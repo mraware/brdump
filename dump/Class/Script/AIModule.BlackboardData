@@ -1,0 +1,5 @@
+/Script/AIModule.BlackboardData
+
+Parent (ObjectProperty)
+Keys (ArrayProperty)
+bHasSynchronizedKeys (BoolProperty)

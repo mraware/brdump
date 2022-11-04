@@ -1,0 +1,18 @@
+/Script/Engine.InterpTrackFloatAnimBPParam
+
+AnimBlueprintClass (ClassProperty)
+AnimClass (ClassProperty)
+ParamName (NameProperty)
+FloatTrack (StructProperty)
+CurveTension (FloatProperty)
+SubTracks (ArrayProperty)
+TrackInstClass (ClassProperty)
+ActiveCondition (ByteProperty)
+TrackTitle (StrProperty)
+bOnePerGroup (BoolProperty)
+bDirGroupOnly (BoolProperty)
+bDisableTrack (BoolProperty)
+bIsSelected (BoolProperty)
+bIsAnimControlTrack (BoolProperty)
+bSubTrackOnly (BoolProperty)
+bVisible (BoolProperty)

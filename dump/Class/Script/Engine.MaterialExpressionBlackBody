@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionBlackBody
+
+Temp (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,12 @@
+/Script/EngineSettings.ConsoleSettings
+
+MaxScrollbackSize (IntProperty)
+ManualAutoCompleteList (ArrayProperty)
+AutoCompleteMapPaths (ArrayProperty)
+BackgroundOpacityPercentage (FloatProperty)
+bOrderTopToBottom (BoolProperty)
+bDisplayHelpInAutoComplete (BoolProperty)
+InputColor (StructProperty)
+HistoryColor (StructProperty)
+AutoCompleteCommandColor (StructProperty)
+AutoCompleteCVarColor (StructProperty)

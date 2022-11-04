@@ -1,0 +1,5 @@
+/Script/AIModule.BehaviorTree
+
+RootNode (ObjectProperty)
+BlackboardAsset (ObjectProperty)
+RootDecorators (ArrayProperty)

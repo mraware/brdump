@@ -1,0 +1,8 @@
+/Script/MovieScene.TestMovieSceneEvalHookTrack
+
+SectionArray (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

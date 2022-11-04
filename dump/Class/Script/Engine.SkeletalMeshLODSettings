@@ -1,0 +1,9 @@
+/Script/Engine.SkeletalMeshLODSettings
+
+MinLOD (StructProperty)
+DisableBelowMinLodStripping (StructProperty)
+bOverrideLODStreamingSettings (BoolProperty)
+bSupportLODStreaming (StructProperty)
+MaxNumStreamedLODs (StructProperty)
+MaxNumOptionalLODs (StructProperty)
+LODGroups (ArrayProperty)

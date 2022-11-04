@@ -1,0 +1,14 @@
+/Script/AnimGraphRuntime.AnimSequencerInstance
+
+CurrentSkeleton (ObjectProperty)
+RootMotionMode (ByteProperty)
+bUseMultiThreadedAnimationUpdate (BoolProperty)
+bUsingCopyPoseFromMesh (BoolProperty)
+bReceiveNotifiesFromLinkedInstances (BoolProperty)
+bPropagateNotifiesToLinkedInstances (BoolProperty)
+bQueueMontageEvents (BoolProperty)
+OnMontageBlendingOut (MulticastInlineDelegateProperty)
+OnMontageStarted (MulticastInlineDelegateProperty)
+OnMontageEnded (MulticastInlineDelegateProperty)
+OnAllMontageInstancesEnded (MulticastInlineDelegateProperty)
+NotifyQueue (StructProperty)

@@ -1,0 +1,10 @@
+/Script/Niagara.NiagaraScript
+
+Usage (EnumProperty)
+UsageId (StructProperty)
+RapidIterationParameters (StructProperty)
+ScriptExecutionParamStore (StructProperty)
+ScriptExecutionBoundParameters (ArrayProperty)
+CachedScriptVMId (StructProperty)
+CachedScriptVM (StructProperty)
+CachedParameterCollectionReferences (ArrayProperty)

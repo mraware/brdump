@@ -1,0 +1,9 @@
+/Script/MovieScene.TestMovieSceneSubTrack
+
+SectionArray (ArrayProperty)
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

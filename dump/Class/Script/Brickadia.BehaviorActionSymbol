@@ -1,0 +1,10 @@
+/Script/Brickadia.BehaviorActionSymbol
+
+NumChildLists (IntProperty)
+AddOnSymbols (ArrayProperty)
+Factory (ObjectProperty)
+TableName (NameProperty)
+DisplayName (TextProperty)
+Description (TextProperty)
+Category (TextProperty)
+Overloads (ArrayProperty)

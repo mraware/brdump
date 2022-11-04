@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionNamedRerouteDeclaration
+
+Input (StructProperty)
+Name (NameProperty)
+VariableGuid (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

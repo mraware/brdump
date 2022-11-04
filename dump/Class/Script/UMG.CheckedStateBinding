@@ -1,0 +1,6 @@
+/Script/UMG.CheckedStateBinding
+
+LayoutData (StructProperty)
+bAutoSize (BoolProperty)
+ZOrder (IntProperty)
+Parent (ObjectProperty)

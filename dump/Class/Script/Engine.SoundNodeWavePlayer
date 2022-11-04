@@ -1,0 +1,5 @@
+/Script/Engine.SoundNodeWavePlayer
+
+SoundWaveAssetPtr (SoftObjectProperty)
+SoundWave (ObjectProperty)
+bLooping (BoolProperty)

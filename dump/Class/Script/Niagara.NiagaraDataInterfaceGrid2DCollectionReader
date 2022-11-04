@@ -1,0 +1,11 @@
+/Script/Niagara.NiagaraDataInterfaceGrid2DCollectionReader
+
+EmitterName (StrProperty)
+DIName (StrProperty)
+NumCellsX (IntProperty)
+NumCellsY (IntProperty)
+NumCellsMaxAxis (IntProperty)
+NumAttributes (IntProperty)
+SetGridFromMaxAxis (BoolProperty)
+WorldBBoxSize (StructProperty)
+OutputShaderStages (SetProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionSphericalParticleOpacity
+
+Density (StructProperty)
+ConstantDensity (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

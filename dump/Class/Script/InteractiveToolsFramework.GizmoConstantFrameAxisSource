@@ -1,0 +1,5 @@
+/Script/InteractiveToolsFramework.GizmoConstantFrameAxisSource
+
+Origin (StructProperty)
+Direction (StructProperty)
+TangentX (StructProperty)

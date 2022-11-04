@@ -1,0 +1,14 @@
+/Script/Engine.ParticleModuleCollisionBase
+
+bSpawnModule (BoolProperty)
+bUpdateModule (BoolProperty)
+bFinalUpdateModule (BoolProperty)
+bUpdateForGPUEmitter (BoolProperty)
+bCurvesAsColor (BoolProperty)
+b3DDrawMode (BoolProperty)
+bSupported3DDrawMode (BoolProperty)
+bEnabled (BoolProperty)
+bEditable (BoolProperty)
+LODDuplicate (BoolProperty)
+bSupportsRandomSeed (BoolProperty)
+bRequiresLoopingNotification (BoolProperty)

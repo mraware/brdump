@@ -1,0 +1,4 @@
+/Script/Brickadia.BRWeaponStateBehavior_Reloading
+
+ReloadTime (FloatProperty)
+ReloadAmount (IntProperty)

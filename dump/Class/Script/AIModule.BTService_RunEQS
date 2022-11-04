@@ -1,0 +1,10 @@
+/Script/AIModule.BTService_RunEQS
+
+EQSRequest (StructProperty)
+BlackboardKey (StructProperty)
+Interval (FloatProperty)
+RandomDeviation (FloatProperty)
+bCallTickOnSearchStart (BoolProperty)
+bRestartTimerOnEachActivation (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

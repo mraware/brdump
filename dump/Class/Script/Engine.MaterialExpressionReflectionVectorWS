@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionReflectionVectorWS
+
+CustomWorldNormal (StructProperty)
+bNormalizeCustomWorldNormal (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

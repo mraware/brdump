@@ -1,0 +1,8 @@
+/Script/Brickadia.BehaviorEnum
+
+EnumInternalName (NameProperty)
+EnumDisplayName (TextProperty)
+EnumDescription (TextProperty)
+NativeEnumIfAny (ObjectProperty)
+Entries (ArrayProperty)
+ValueLookupMap (MapProperty)

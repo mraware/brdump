@@ -1,0 +1,9 @@
+/Script/Engine.CurveLinearColor
+
+FloatCurves (StructProperty)
+AdjustHue (FloatProperty)
+AdjustSaturation (FloatProperty)
+AdjustBrightness (FloatProperty)
+AdjustBrightnessCurve (FloatProperty)
+AdjustVibrance (FloatProperty)
+AdjustMinAlpha (FloatProperty)

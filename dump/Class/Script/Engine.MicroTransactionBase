@@ -1,0 +1,5 @@
+/Script/Engine.MicroTransactionBase
+
+AvailableProducts (ArrayProperty)
+LastError (StrProperty)
+LastErrorSolution (StrProperty)

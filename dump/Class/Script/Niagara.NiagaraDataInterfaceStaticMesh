@@ -1,0 +1,8 @@
+/Script/Niagara.NiagaraDataInterfaceStaticMesh
+
+SourceMode (EnumProperty)
+DefaultMesh (ObjectProperty)
+Source (ObjectProperty)
+SourceComponent (ObjectProperty)
+SectionFilter (StructProperty)
+bUsePhysicsBodyVelocity (BoolProperty)

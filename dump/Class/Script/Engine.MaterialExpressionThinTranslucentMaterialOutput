@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionThinTranslucentMaterialOutput
+
+TransmittanceColor (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

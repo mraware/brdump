@@ -1,0 +1,12 @@
+/Script/Engine.MaterialExpressionCurveAtlasRowParameter
+
+Curve (ObjectProperty)
+Atlas (ObjectProperty)
+InputTime (StructProperty)
+DefaultValue (FloatProperty)
+bUseCustomPrimitiveData (BoolProperty)
+PrimitiveDataIndex (ByteProperty)
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

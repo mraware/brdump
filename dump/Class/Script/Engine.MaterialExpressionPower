@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionPower
+
+Base (StructProperty)
+Exponent (StructProperty)
+ConstExponent (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,10 @@
+/Script/Landscape.MaterialExpressionLandscapeLayerWeight
+
+Base (StructProperty)
+Layer (StructProperty)
+ParameterName (NameProperty)
+PreviewWeight (FloatProperty)
+ConstBase (StructProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

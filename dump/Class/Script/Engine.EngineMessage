@@ -1,0 +1,9 @@
+/Script/Engine.EngineMessage
+
+FailedPlaceMessage (StrProperty)
+MaxedOutMessage (StrProperty)
+EnteredMessage (StrProperty)
+LeftMessage (StrProperty)
+GlobalNameChange (StrProperty)
+SpecEnteredMessage (StrProperty)
+NewPlayerMessage (StrProperty)

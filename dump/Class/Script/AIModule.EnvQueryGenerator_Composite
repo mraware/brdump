@@ -1,0 +1,9 @@
+/Script/AIModule.EnvQueryGenerator_Composite
+
+Generators (ArrayProperty)
+bAllowDifferentItemTypes (BoolProperty)
+bHasMatchingItemType (BoolProperty)
+ForcedItemType (ClassProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

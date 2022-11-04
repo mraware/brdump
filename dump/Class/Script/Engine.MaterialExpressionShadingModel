@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionShadingModel
+
+ShadingModel (ByteProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

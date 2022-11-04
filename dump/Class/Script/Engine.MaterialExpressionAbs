@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionAbs
+
+Input (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

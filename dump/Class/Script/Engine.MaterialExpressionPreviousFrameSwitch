@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionPreviousFrameSwitch
+
+CurrentFrame (StructProperty)
+PreviousFrame (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

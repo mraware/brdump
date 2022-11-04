@@ -1,0 +1,4 @@
+/Script/EngineSettings.GameSessionSettings
+
+MaxSpectators (IntProperty)
+MaxPlayers (IntProperty)

@@ -1,0 +1,9 @@
+/Script/Engine.TouchInterface
+
+Controls (ArrayProperty)
+ActiveOpacity (FloatProperty)
+InactiveOpacity (FloatProperty)
+TimeUntilDeactive (FloatProperty)
+TimeUntilReset (FloatProperty)
+ActivationDelay (FloatProperty)
+bPreventRecenter (BoolProperty)

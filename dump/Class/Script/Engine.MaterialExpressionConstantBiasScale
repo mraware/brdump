@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionConstantBiasScale
+
+Input (StructProperty)
+Bias (FloatProperty)
+Scale (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

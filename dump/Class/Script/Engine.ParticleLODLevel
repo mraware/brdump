@@ -1,0 +1,15 @@
+/Script/Engine.ParticleLODLevel
+
+Level (IntProperty)
+bEnabled (BoolProperty)
+RequiredModule (ObjectProperty)
+Modules (ArrayProperty)
+TypeDataModule (ObjectProperty)
+SpawnModule (ObjectProperty)
+EventGenerator (ObjectProperty)
+SpawningModules (ArrayProperty)
+SpawnModules (ArrayProperty)
+UpdateModules (ArrayProperty)
+OrbitModules (ArrayProperty)
+EventReceiverModules (ArrayProperty)
+ConvertedModules (BoolProperty)

@@ -1,0 +1,6 @@
+/Script/Niagara.NiagaraDataInterfaceIntRenderTarget2D
+
+Size (StructProperty)
+RenderTargetUserParameter (StructProperty)
+ManagedRenderTargets (MapProperty)
+OutputShaderStages (SetProperty)

@@ -1,0 +1,13 @@
+/Script/Engine.AssetManagerSettings
+
+PrimaryAssetTypesToScan (ArrayProperty)
+DirectoriesToExclude (ArrayProperty)
+PrimaryAssetRules (ArrayProperty)
+CustomPrimaryAssetRules (ArrayProperty)
+bOnlyCookProductionAssets (BoolProperty)
+bShouldManagerDetermineTypeAndName (BoolProperty)
+bShouldGuessTypeAndNameInEditor (BoolProperty)
+bShouldAcquireMissingChunksOnLoad (BoolProperty)
+PrimaryAssetIdRedirects (ArrayProperty)
+PrimaryAssetTypeRedirects (ArrayProperty)
+AssetPathRedirects (ArrayProperty)

@@ -1,0 +1,14 @@
+/Script/Niagara.NiagaraDataInterfaceColorCurve
+
+RedCurve (StructProperty)
+GreenCurve (StructProperty)
+BlueCurve (StructProperty)
+AlphaCurve (StructProperty)
+ShaderLUT (ArrayProperty)
+LUTMinTime (FloatProperty)
+LUTMaxTime (FloatProperty)
+LUTInvTimeRange (FloatProperty)
+LUTNumSamplesMinusOne (FloatProperty)
+bUseLUT (BoolProperty)
+bExposeCurve (BoolProperty)
+ExposedName (NameProperty)

@@ -1,0 +1,11 @@
+/Script/AugmentedReality.ARTrackedObject
+
+DetectedObject (ObjectProperty)
+UniqueId (StructProperty)
+LocalToTrackingTransform (StructProperty)
+LocalToAlignedTrackingTransform (StructProperty)
+TrackingState (EnumProperty)
+UnderlyingMesh (ObjectProperty)
+ObjectClassification (EnumProperty)
+SpatialMeshUsageFlags (EnumProperty)
+LastUpdateFrameNumber (IntProperty)

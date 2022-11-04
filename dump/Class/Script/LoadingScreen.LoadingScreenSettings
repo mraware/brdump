@@ -1,0 +1,7 @@
+/Script/LoadingScreen.LoadingScreenSettings
+
+StartupScreen (StructProperty)
+DefaultScreen (StructProperty)
+TipFont (StructProperty)
+LoadingFont (StructProperty)
+TipWrapAt (FloatProperty)

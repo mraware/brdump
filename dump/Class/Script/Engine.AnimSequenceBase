@@ -1,0 +1,8 @@
+/Script/Engine.AnimSequenceBase
+
+Notifies (ArrayProperty)
+SequenceLength (FloatProperty)
+RateScale (FloatProperty)
+RawCurveData (StructProperty)
+Skeleton (ObjectProperty)
+MetaData (ArrayProperty)

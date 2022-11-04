@@ -1,0 +1,10 @@
+/Script/Engine.MaterialExpressionChannelMaskParameter
+
+MaskChannel (ByteProperty)
+DefaultValue (StructProperty)
+bUseCustomPrimitiveData (BoolProperty)
+PrimitiveDataIndex (ByteProperty)
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

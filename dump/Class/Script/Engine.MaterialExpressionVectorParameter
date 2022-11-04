@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionVectorParameter
+
+DefaultValue (StructProperty)
+bUseCustomPrimitiveData (BoolProperty)
+PrimitiveDataIndex (ByteProperty)
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

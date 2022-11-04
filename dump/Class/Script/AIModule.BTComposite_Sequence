@@ -1,0 +1,7 @@
+/Script/AIModule.BTComposite_Sequence
+
+Children (ArrayProperty)
+Services (ArrayProperty)
+bApplyDecoratorScope (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

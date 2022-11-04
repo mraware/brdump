@@ -1,0 +1,8 @@
+/Script/Engine.MaterialExpressionSceneColor
+
+InputMode (ByteProperty)
+Input (StructProperty)
+OffsetFraction (StructProperty)
+ConstInput (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

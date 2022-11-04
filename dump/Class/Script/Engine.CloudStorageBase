@@ -1,0 +1,4 @@
+/Script/Engine.CloudStorageBase
+
+LocalCloudFiles (ArrayProperty)
+bSuppressDelegateCalls (BoolProperty)

@@ -1,0 +1,11 @@
+/Script/MovieSceneTracks.MovieSceneEventTrack
+
+bFireEventsWhenForwards (BoolProperty)
+bFireEventsWhenBackwards (BoolProperty)
+EventPosition (EnumProperty)
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

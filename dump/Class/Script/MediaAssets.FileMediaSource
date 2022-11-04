@@ -1,0 +1,4 @@
+/Script/MediaAssets.FileMediaSource
+
+FilePath (StrProperty)
+PrecacheFile (BoolProperty)

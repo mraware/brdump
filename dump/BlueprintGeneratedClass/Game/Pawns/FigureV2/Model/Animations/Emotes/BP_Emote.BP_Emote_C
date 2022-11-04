@@ -1,0 +1,10 @@
+/Game/Pawns/FigureV2/Model/Animations/Emotes/BP_Emote.BP_Emote_C
+
+AnimMontage (ObjectProperty)
+Icon (ObjectProperty)
+DisplayName (StrProperty)
+CameraOffset (StructProperty)
+IsPriorityEmote (BoolProperty)
+CancelByMovement (BoolProperty)
+OnlyThirdPerson (BoolProperty)
+bCanUseWithItems (BoolProperty)

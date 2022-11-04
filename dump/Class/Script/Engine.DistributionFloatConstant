@@ -1,0 +1,4 @@
+/Script/Engine.DistributionFloatConstant
+
+Constant (FloatProperty)
+bCanBeBaked (BoolProperty)

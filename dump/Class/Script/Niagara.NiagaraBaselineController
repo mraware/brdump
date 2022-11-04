@@ -1,0 +1,5 @@
+/Script/Niagara.NiagaraBaselineController
+
+TestDuration (FloatProperty)
+EffectType (ObjectProperty)
+Owner (ObjectProperty)

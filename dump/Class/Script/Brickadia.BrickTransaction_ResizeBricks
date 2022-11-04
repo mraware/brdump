@@ -1,0 +1,12 @@
+/Script/Brickadia.BrickTransaction_ResizeBricks
+
+NewSizes (ArrayProperty)
+NewPositions (ArrayProperty)
+NumBricksInvalid (IntProperty)
+NumBricksBlocked (IntProperty)
+BrickPersistentHandles (ArrayProperty)
+NumBricksChanged (IntProperty)
+NumBricksSkipped (IntProperty)
+NumBricksUntrusted (IntProperty)
+NumBricksNotFound (IntProperty)
+SavedIndex (IntProperty)

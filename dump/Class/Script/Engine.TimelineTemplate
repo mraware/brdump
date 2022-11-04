@@ -1,0 +1,18 @@
+/Script/Engine.TimelineTemplate
+
+TimelineLength (FloatProperty)
+LengthMode (ByteProperty)
+bAutoPlay (BoolProperty)
+bLoop (BoolProperty)
+bReplicated (BoolProperty)
+bIgnoreTimeDilation (BoolProperty)
+EventTracks (ArrayProperty)
+FloatTracks (ArrayProperty)
+VectorTracks (ArrayProperty)
+LinearColorTracks (ArrayProperty)
+MetaDataArray (ArrayProperty)
+TimelineGuid (StructProperty)
+TimelineTickGroup (ByteProperty)
+VariableName (NameProperty)
+DirectionPropertyName (NameProperty)
+UpdateFunctionName (NameProperty)

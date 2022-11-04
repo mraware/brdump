@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionDDX
+
+Value (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

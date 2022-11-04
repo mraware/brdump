@@ -1,0 +1,10 @@
+/Script/MovieSceneTracks.MovieScene3DTransformTrack
+
+SectionToKey (ObjectProperty)
+PropertyBinding (StructProperty)
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

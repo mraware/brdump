@@ -1,0 +1,18 @@
+/Game/Weapons/Shotgun/ABP_Shotgun.ABP_Shotgun_C
+
+UberGraphFrame (StructProperty)
+AnimGraphNode_Root (StructProperty)
+AnimGraphNode_Slot (StructProperty)
+AnimGraphNode_SequencePlayer (StructProperty)
+CurrentSkeleton (ObjectProperty)
+RootMotionMode (ByteProperty)
+bUseMultiThreadedAnimationUpdate (BoolProperty)
+bUsingCopyPoseFromMesh (BoolProperty)
+bReceiveNotifiesFromLinkedInstances (BoolProperty)
+bPropagateNotifiesToLinkedInstances (BoolProperty)
+bQueueMontageEvents (BoolProperty)
+OnMontageBlendingOut (MulticastInlineDelegateProperty)
+OnMontageStarted (MulticastInlineDelegateProperty)
+OnMontageEnded (MulticastInlineDelegateProperty)
+OnAllMontageInstancesEnded (MulticastInlineDelegateProperty)
+NotifyQueue (StructProperty)

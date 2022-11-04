@@ -1,0 +1,13 @@
+/Script/Brickadia.BRGameSettingsBase_Controls
+
+bTapToSprint (BoolProperty)
+MouseSensitivityX (FloatProperty)
+MouseSensitivityY (FloatProperty)
+bEnableMouseSmoothing (BoolProperty)
+LeftStickSensitivityX (FloatProperty)
+LeftStickSensitivityY (FloatProperty)
+RightStickSensitivityX (FloatProperty)
+RightStickSensitivityY (FloatProperty)
+ExportedActionOverrides (ArrayProperty)
+ExportedAxisOverrides (ArrayProperty)
+OnSettingsLiveChanged (MulticastInlineDelegateProperty)

@@ -1,0 +1,8 @@
+/Script/Engine.MaterialExpressionSceneDepth
+
+InputMode (ByteProperty)
+Input (StructProperty)
+Coordinates (StructProperty)
+ConstInput (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

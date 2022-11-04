@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionDistanceFieldGradient
+
+Position (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

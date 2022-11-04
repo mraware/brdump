@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionRotateAboutAxis
+
+NormalizedRotationAxis (StructProperty)
+RotationAngle (StructProperty)
+PivotPoint (StructProperty)
+Position (StructProperty)
+Period (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

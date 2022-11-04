@@ -1,0 +1,9 @@
+/Script/AIModule.AISenseConfig_Hearing
+
+Implementation (ClassProperty)
+HearingRange (FloatProperty)
+LoSHearingRange (FloatProperty)
+bUseLoSHearing (BoolProperty)
+DetectionByAffiliation (StructProperty)
+DebugColor (StructProperty)
+MaxAge (FloatProperty)

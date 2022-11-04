@@ -1,0 +1,15 @@
+/Script/Water.GerstnerWaterWaveGeneratorSimple
+
+NumWaves (IntProperty)
+Seed (IntProperty)
+Randomness (FloatProperty)
+MinWavelength (FloatProperty)
+MaxWavelength (FloatProperty)
+WavelengthFalloff (FloatProperty)
+MinAmplitude (FloatProperty)
+MaxAmplitude (FloatProperty)
+AmplitudeFalloff (FloatProperty)
+WindAngleDeg (FloatProperty)
+DirectionAngularSpreadDeg (FloatProperty)
+SmallWaveSteepness (FloatProperty)
+LargeWaveSteepness (FloatProperty)

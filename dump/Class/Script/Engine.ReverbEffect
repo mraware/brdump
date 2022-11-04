@@ -1,0 +1,15 @@
+/Script/Engine.ReverbEffect
+
+bBypassEarlyReflections (BoolProperty)
+ReflectionsDelay (FloatProperty)
+GainHF (FloatProperty)
+ReflectionsGain (FloatProperty)
+bBypassLateReflections (BoolProperty)
+LateDelay (FloatProperty)
+DecayTime (FloatProperty)
+Density (FloatProperty)
+Diffusion (FloatProperty)
+AirAbsorptionGainHF (FloatProperty)
+DecayHFRatio (FloatProperty)
+LateGain (FloatProperty)
+Gain (FloatProperty)

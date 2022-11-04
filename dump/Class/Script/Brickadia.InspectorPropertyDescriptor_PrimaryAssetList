@@ -1,0 +1,16 @@
+/Script/Brickadia.InspectorPropertyDescriptor_PrimaryAssetList
+
+PrimaryAssetType (StructProperty)
+Filter (ClassProperty)
+bCanBeNull (BoolProperty)
+Name (NameProperty)
+DisplayName (TextProperty)
+Tooltip (TextProperty)
+bCanSetToDefault (BoolProperty)
+WidgetClassOverride (ClassProperty)
+bUseGetFunction (BoolProperty)
+bUseSetFunction (BoolProperty)
+GetFunctionOverride (NameProperty)
+SetFunctionOverride (NameProperty)
+bUseIsEnabledFunction (BoolProperty)
+IsEnabledFunctionOrProperty (NameProperty)

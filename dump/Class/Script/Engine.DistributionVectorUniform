@@ -1,0 +1,10 @@
+/Script/Engine.DistributionVectorUniform
+
+Max (StructProperty)
+Min (StructProperty)
+bLockAxes (BoolProperty)
+LockedAxes (ByteProperty)
+MirrorFlags (ByteProperty)
+bUseExtremes (BoolProperty)
+bCanBeBaked (BoolProperty)
+bIsDirty (BoolProperty)

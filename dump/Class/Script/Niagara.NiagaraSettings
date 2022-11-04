@@ -1,0 +1,11 @@
+/Script/Niagara.NiagaraSettings
+
+DefaultEffectType (StructProperty)
+QualityLevels (ArrayProperty)
+ComponentRendererWarningsPerClass (MapProperty)
+DefaultRenderTargetFormat (ByteProperty)
+DefaultGridFormat (EnumProperty)
+DefaultRendererMotionVectorSetting (EnumProperty)
+NDISkelMesh_GpuMaxInfluences (ByteProperty)
+NDISkelMesh_GpuUniformSamplingFormat (ByteProperty)
+NDISkelMesh_AdjacencyTriangleIndexFormat (ByteProperty)

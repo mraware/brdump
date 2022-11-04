@@ -1,0 +1,6 @@
+/Script/OnlineSubsystemUtils.SpectatorBeaconState
+
+SessionName (NameProperty)
+NumConsumedReservations (IntProperty)
+MaxReservations (IntProperty)
+bRestrictCrossConsole (BoolProperty)

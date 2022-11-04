@@ -1,0 +1,16 @@
+/Script/MovieScene.MovieScene
+
+Spawnables (ArrayProperty)
+Possessables (ArrayProperty)
+ObjectBindings (ArrayProperty)
+BindingGroups (MapProperty)
+MasterTracks (ArrayProperty)
+CameraCutTrack (ObjectProperty)
+SelectionRange (StructProperty)
+PlaybackRange (StructProperty)
+TickResolution (StructProperty)
+DisplayRate (StructProperty)
+EvaluationType (EnumProperty)
+ClockSource (EnumProperty)
+CustomClockSourcePath (StructProperty)
+MarkedFrames (ArrayProperty)

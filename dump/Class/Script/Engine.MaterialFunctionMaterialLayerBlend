@@ -1,0 +1,6 @@
+/Script/Engine.MaterialFunctionMaterialLayerBlend
+
+Description (StrProperty)
+bExposeToLibrary (BoolProperty)
+bPrefixParameterNames (BoolProperty)
+StateId (StructProperty)

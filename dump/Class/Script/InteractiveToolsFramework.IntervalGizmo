@@ -1,0 +1,8 @@
+/Script/InteractiveToolsFramework.IntervalGizmo
+
+StateTarget (ObjectProperty)
+TransformProxy (ObjectProperty)
+ActiveComponents (ArrayProperty)
+ActiveGizmos (ArrayProperty)
+AxisYSource (ObjectProperty)
+AxisZSource (ObjectProperty)

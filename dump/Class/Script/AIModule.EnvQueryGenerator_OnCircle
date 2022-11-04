@@ -1,0 +1,18 @@
+/Script/AIModule.EnvQueryGenerator_OnCircle
+
+CircleRadius (StructProperty)
+SpaceBetween (StructProperty)
+NumberOfPoints (StructProperty)
+PointOnCircleSpacingMethod (EnumProperty)
+ArcDirection (StructProperty)
+ArcAngle (StructProperty)
+AngleRadians (FloatProperty)
+CircleCenter (ClassProperty)
+bIgnoreAnyContextActorsWhenGeneratingCircle (BoolProperty)
+CircleCenterZOffset (StructProperty)
+TraceData (StructProperty)
+bDefineArc (BoolProperty)
+ProjectionData (StructProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

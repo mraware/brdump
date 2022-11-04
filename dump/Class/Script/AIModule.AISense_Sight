@@ -1,0 +1,12 @@
+/Script/AIModule.AISense_Sight
+
+MaxTracesPerTick (IntProperty)
+MinQueriesPerTimeSliceCheck (IntProperty)
+MaxTimeSlicePerTick (DoubleProperty)
+HighImportanceQueryDistanceThreshold (FloatProperty)
+MaxQueryImportance (FloatProperty)
+SightLimitQueryImportance (FloatProperty)
+DefaultExpirationAge (FloatProperty)
+NotifyType (EnumProperty)
+bWantsNewPawnNotification (BoolProperty)
+bAutoRegisterAllPawnsAsSources (BoolProperty)

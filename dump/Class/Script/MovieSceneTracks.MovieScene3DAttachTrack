@@ -1,0 +1,8 @@
+/Script/MovieSceneTracks.MovieScene3DAttachTrack
+
+ConstraintSections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

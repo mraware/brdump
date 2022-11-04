@@ -1,0 +1,6 @@
+/Script/UMG.SizeBoxSlot
+
+Padding (StructProperty)
+HorizontalAlignment (ByteProperty)
+VerticalAlignment (ByteProperty)
+Parent (ObjectProperty)

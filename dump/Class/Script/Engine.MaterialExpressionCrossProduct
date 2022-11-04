@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionCrossProduct
+
+A (StructProperty)
+B (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

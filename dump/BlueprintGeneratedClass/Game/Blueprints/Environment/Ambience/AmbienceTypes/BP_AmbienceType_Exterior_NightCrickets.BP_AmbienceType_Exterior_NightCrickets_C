@@ -1,0 +1,4 @@
+/Game/Blueprints/Environment/Ambience/AmbienceTypes/BP_AmbienceType_Exterior_NightCrickets.BP_AmbienceType_Exterior_NightCrickets_C
+
+DisplayName (TextProperty)
+Sound (ObjectProperty)

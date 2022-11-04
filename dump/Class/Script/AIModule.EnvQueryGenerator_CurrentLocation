@@ -1,0 +1,6 @@
+/Script/AIModule.EnvQueryGenerator_CurrentLocation
+
+QueryContext (ClassProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

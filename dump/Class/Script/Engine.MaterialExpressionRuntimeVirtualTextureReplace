@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionRuntimeVirtualTextureReplace
+
+Default (StructProperty)
+VirtualTextureOutput (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

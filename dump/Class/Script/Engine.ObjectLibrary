@@ -1,0 +1,7 @@
+/Script/Engine.ObjectLibrary
+
+ObjectBaseClass (ClassProperty)
+bHasBlueprintClasses (BoolProperty)
+Objects (ArrayProperty)
+WeakObjects (ArrayProperty)
+bUseWeakReferences (BoolProperty)

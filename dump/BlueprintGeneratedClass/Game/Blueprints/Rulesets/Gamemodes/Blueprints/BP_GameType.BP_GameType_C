@@ -1,0 +1,13 @@
+/Game/Blueprints/Rulesets/Gamemodes/Blueprints/BP_GameType.BP_GameType_C
+
+PropertyDescriptorList (ClassProperty)
+TeamClass (ClassProperty)
+TeamPolicy (EnumProperty)
+UnassignedTeamSettings (StructProperty)
+TeamSettings (ArrayProperty)
+bHonorAlwaysSwitchTeam (BoolProperty)
+HUDWidgets (ArrayProperty)
+PlayerControllerComponents (ArrayProperty)
+LeaderboardColumns (ArrayProperty)
+DisabledGameplayPermissions (ArrayProperty)
+bUseSeparatedBrickTransactionContext (BoolProperty)

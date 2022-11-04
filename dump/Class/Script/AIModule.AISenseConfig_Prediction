@@ -1,0 +1,4 @@
+/Script/AIModule.AISenseConfig_Prediction
+
+DebugColor (StructProperty)
+MaxAge (FloatProperty)

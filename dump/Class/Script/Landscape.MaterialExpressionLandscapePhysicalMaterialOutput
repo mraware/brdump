@@ -1,0 +1,5 @@
+/Script/Landscape.MaterialExpressionLandscapePhysicalMaterialOutput
+
+Inputs (ArrayProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

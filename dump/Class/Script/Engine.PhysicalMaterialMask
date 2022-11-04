@@ -1,0 +1,4 @@
+/Script/Engine.PhysicalMaterialMask
+
+UVChannelIndex (IntProperty)
+AddressX (ByteProperty)

@@ -1,0 +1,16 @@
+/Script/Engine.Blueprint
+
+ParentClass (ClassProperty)
+BlueprintType (ByteProperty)
+bRecompileOnLoad (BoolProperty)
+bHasBeenRegenerated (BoolProperty)
+bIsRegeneratingOnLoad (BoolProperty)
+BlueprintSystemVersion (IntProperty)
+SimpleConstructionScript (ObjectProperty)
+ComponentTemplates (ArrayProperty)
+Timelines (ArrayProperty)
+ComponentClassOverrides (ArrayProperty)
+InheritableComponentHandler (ObjectProperty)
+SkeletonGeneratedClass (ClassProperty)
+GeneratedClass (ClassProperty)
+bLegacyNeedToPurgeSkelRefs (BoolProperty)

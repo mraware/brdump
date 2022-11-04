@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionComment
+
+SizeX (IntProperty)
+SizeY (IntProperty)
+Text (StrProperty)
+CommentColor (StructProperty)
+FontSize (IntProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

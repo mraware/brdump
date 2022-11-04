@@ -1,0 +1,5 @@
+/Script/Engine.PhysicsCollisionHandler
+
+ImpactThreshold (FloatProperty)
+ImpactReFireDelay (FloatProperty)
+DefaultImpactSound (ObjectProperty)

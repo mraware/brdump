@@ -1,0 +1,8 @@
+/Engine/EngineDamageTypes/DmgTypeBP_Environmental.DmgTypeBP_Environmental_C
+
+bCausedByWorld (BoolProperty)
+bScaleMomentumByMass (BoolProperty)
+bRadialDamageVelChange (BoolProperty)
+DamageImpulse (FloatProperty)
+DestructibleImpulse (FloatProperty)
+DestructibleDamageSpreadScale (FloatProperty)

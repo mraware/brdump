@@ -1,0 +1,5 @@
+/Script/Engine.Player
+
+PlayerController (ObjectProperty)
+CurrentNetSpeed (IntProperty)
+ConfiguredInternetSpeed (IntProperty)

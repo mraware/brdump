@@ -1,0 +1,5 @@
+/Script/InteractiveToolsFramework.TransformProxy
+
+bRotatePerObject (BoolProperty)
+bSetPivotMode (BoolProperty)
+SharedTransform (StructProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionShadingPathSwitch
+
+Default (StructProperty)
+Inputs (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

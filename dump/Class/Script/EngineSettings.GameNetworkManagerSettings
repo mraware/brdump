@@ -1,0 +1,12 @@
+/Script/EngineSettings.GameNetworkManagerSettings
+
+MinDynamicBandwidth (IntProperty)
+MaxDynamicBandwidth (IntProperty)
+TotalNetBandwidth (IntProperty)
+BadPingThreshold (IntProperty)
+bIsStandbyCheckingEnabled (BoolProperty)
+StandbyRxCheatTime (FloatProperty)
+StandbyTxCheatTime (FloatProperty)
+PercentMissingForRxStandby (FloatProperty)
+PercentMissingForTxStandby (FloatProperty)
+PercentForBadPing (FloatProperty)

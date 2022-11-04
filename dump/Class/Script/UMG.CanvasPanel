@@ -1,0 +1,10 @@
+/Script/UMG.CanvasPanel
+
+Slots (ArrayProperty)
+Slot (ObjectProperty)
+bIsEnabledDelegate (DelegateProperty)
+ToolTipText (TextProperty)
+ToolTipTextDelegate (DelegateProperty)
+ToolTipWidget (ObjectProperty)
+ToolTipWidgetDelegate (DelegateProperty)
+VisibilityDelegate (DelegateProperty)

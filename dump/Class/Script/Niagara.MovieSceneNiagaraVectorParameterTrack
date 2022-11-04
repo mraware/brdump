@@ -1,0 +1,10 @@
+/Script/Niagara.MovieSceneNiagaraVectorParameterTrack
+
+ChannelsUsed (IntProperty)
+Parameter (StructProperty)
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

@@ -1,0 +1,9 @@
+/Script/AIModule.BTTask_SetTagCooldown
+
+CooldownTag (StructProperty)
+bAddToExistingDuration (BoolProperty)
+CooldownDuration (FloatProperty)
+Services (ArrayProperty)
+bIgnoreRestartSelf (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

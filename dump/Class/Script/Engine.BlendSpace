@@ -1,0 +1,15 @@
+/Script/Engine.BlendSpace
+
+AxisToScaleAnimation (ByteProperty)
+bRotationBlendInMeshSpace (BoolProperty)
+AnimLength (FloatProperty)
+InterpolationParam (StructProperty)
+TargetWeightInterpolationSpeedPerSec (FloatProperty)
+NotifyTriggerMode (ByteProperty)
+PerBoneBlend (ArrayProperty)
+SampleIndexWithMarkers (IntProperty)
+SampleData (ArrayProperty)
+GridSamples (ArrayProperty)
+BlendParameters (StructProperty)
+Skeleton (ObjectProperty)
+MetaData (ArrayProperty)

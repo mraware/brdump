@@ -1,0 +1,9 @@
+/Script/Engine.SoundNodeRandom
+
+Weights (ArrayProperty)
+HasBeenUsed (ArrayProperty)
+NumRandomUsed (IntProperty)
+PreselectAtLevelLoad (IntProperty)
+bShouldExcludeFromBranchCulling (BoolProperty)
+bSoundCueExcludedFromBranchCulling (BoolProperty)
+bRandomizeWithoutReplacement (BoolProperty)

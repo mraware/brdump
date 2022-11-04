@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionDepthOfFieldFunction
+
+FunctionValue (ByteProperty)
+Depth (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

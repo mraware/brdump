@@ -1,0 +1,7 @@
+/Script/Engine.DistributionVectorConstant
+
+Constant (StructProperty)
+bLockAxes (BoolProperty)
+LockedAxes (ByteProperty)
+bCanBeBaked (BoolProperty)
+bIsDirty (BoolProperty)

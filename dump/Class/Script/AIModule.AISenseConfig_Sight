@@ -1,0 +1,12 @@
+/Script/AIModule.AISenseConfig_Sight
+
+Implementation (ClassProperty)
+SightRadius (FloatProperty)
+LoseSightRadius (FloatProperty)
+PeripheralVisionAngleDegrees (FloatProperty)
+DetectionByAffiliation (StructProperty)
+AutoSuccessRangeFromLastSeenLocation (FloatProperty)
+PointOfViewBackwardOffset (FloatProperty)
+NearClippingRadius (FloatProperty)
+DebugColor (StructProperty)
+MaxAge (FloatProperty)

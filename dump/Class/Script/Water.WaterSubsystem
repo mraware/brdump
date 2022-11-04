@@ -1,0 +1,8 @@
+/Script/Water.WaterSubsystem
+
+BuoyancyManager (ObjectProperty)
+OnCameraUnderwaterStateChanged (MulticastInlineDelegateProperty)
+OnWaterScalabilityChanged (MulticastInlineDelegateProperty)
+DefaultRiverMesh (ObjectProperty)
+DefaultLakeMesh (ObjectProperty)
+WaterMeshActor (ObjectProperty)

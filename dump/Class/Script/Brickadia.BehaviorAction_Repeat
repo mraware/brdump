@@ -1,0 +1,4 @@
+/Script/Brickadia.BehaviorAction_Repeat
+
+NumRepetitions (ObjectProperty)
+Children (ArrayProperty)

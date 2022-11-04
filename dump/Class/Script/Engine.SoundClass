@@ -1,0 +1,5 @@
+/Script/Engine.SoundClass
+
+Properties (StructProperty)
+ChildClasses (ArrayProperty)
+PassiveSoundMixModifiers (ArrayProperty)

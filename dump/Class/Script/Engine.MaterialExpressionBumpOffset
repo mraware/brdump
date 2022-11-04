@@ -1,0 +1,10 @@
+/Script/Engine.MaterialExpressionBumpOffset
+
+Coordinate (StructProperty)
+Height (StructProperty)
+HeightRatioInput (StructProperty)
+HeightRatio (FloatProperty)
+ReferencePlane (FloatProperty)
+ConstCoordinate (UInt32Property)
+Material (ObjectProperty)
+Function (ObjectProperty)

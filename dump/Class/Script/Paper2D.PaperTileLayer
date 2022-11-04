@@ -1,0 +1,16 @@
+/Script/Paper2D.PaperTileLayer
+
+LayerName (TextProperty)
+LayerWidth (IntProperty)
+LayerHeight (IntProperty)
+bHiddenInGame (BoolProperty)
+bLayerCollides (BoolProperty)
+bOverrideCollisionThickness (BoolProperty)
+bOverrideCollisionOffset (BoolProperty)
+CollisionThicknessOverride (FloatProperty)
+CollisionOffsetOverride (FloatProperty)
+LayerColor (StructProperty)
+AllocatedWidth (IntProperty)
+AllocatedHeight (IntProperty)
+AllocatedCells (ArrayProperty)
+TileSet (ObjectProperty)

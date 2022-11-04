@@ -1,0 +1,4 @@
+/Script/MovieSceneCapture.ImageSequenceProtocol_EXR
+
+bCompressed (BoolProperty)
+CaptureGamut (ByteProperty)

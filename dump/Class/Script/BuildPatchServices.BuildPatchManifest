@@ -1,0 +1,15 @@
+/Script/BuildPatchServices.BuildPatchManifest
+
+ManifestFileVersion (ByteProperty)
+bIsFileData (BoolProperty)
+AppID (UInt32Property)
+AppName (StrProperty)
+BuildVersion (StrProperty)
+LaunchExe (StrProperty)
+LaunchCommand (StrProperty)
+PrereqIds (SetProperty)
+PrereqName (StrProperty)
+PrereqPath (StrProperty)
+PrereqArgs (StrProperty)
+FileManifestList (ArrayProperty)
+ChunkList (ArrayProperty)

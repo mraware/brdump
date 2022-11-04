@@ -1,0 +1,5 @@
+/Script/Engine.InGameAdManager
+
+bShouldPauseWhileAdOpen (BoolProperty)
+ClickedBannerDelegates (ArrayProperty)
+ClosedAdDelegates (ArrayProperty)

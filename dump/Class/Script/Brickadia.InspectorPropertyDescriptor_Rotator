@@ -1,0 +1,15 @@
+/Script/Brickadia.InspectorPropertyDescriptor_Rotator
+
+bLiveSlider (BoolProperty)
+DescriptorList (ClassProperty)
+Name (NameProperty)
+DisplayName (TextProperty)
+Tooltip (TextProperty)
+bCanSetToDefault (BoolProperty)
+WidgetClassOverride (ClassProperty)
+bUseGetFunction (BoolProperty)
+bUseSetFunction (BoolProperty)
+GetFunctionOverride (NameProperty)
+SetFunctionOverride (NameProperty)
+bUseIsEnabledFunction (BoolProperty)
+IsEnabledFunctionOrProperty (NameProperty)

@@ -1,0 +1,10 @@
+/Script/Brickadia.AsyncActionThreeButtonsDialog
+
+OnButton1Clicked (MulticastInlineDelegateProperty)
+OnButton2Clicked (MulticastInlineDelegateProperty)
+OnButton3Clicked (MulticastInlineDelegateProperty)
+HUD (ObjectProperty)
+Dialog (ObjectProperty)
+ButtonIcon1 (ObjectProperty)
+ButtonIcon2 (ObjectProperty)
+ButtonIcon3 (ObjectProperty)

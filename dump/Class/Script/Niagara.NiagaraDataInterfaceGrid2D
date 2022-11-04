@@ -1,0 +1,9 @@
+/Script/Niagara.NiagaraDataInterfaceGrid2D
+
+NumCellsX (IntProperty)
+NumCellsY (IntProperty)
+NumCellsMaxAxis (IntProperty)
+NumAttributes (IntProperty)
+SetGridFromMaxAxis (BoolProperty)
+WorldBBoxSize (StructProperty)
+OutputShaderStages (SetProperty)

@@ -1,0 +1,7 @@
+/Script/MovieScene.MovieSceneTrack
+
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

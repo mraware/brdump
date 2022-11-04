@@ -1,0 +1,6 @@
+/Script/AnimGraphRuntime.PlayMontageCallbackProxy
+
+OnCompleted (MulticastInlineDelegateProperty)
+OnBlendOut (MulticastInlineDelegateProperty)
+OnInterrupted (MulticastInlineDelegateProperty)
+OnNotifyBegin (MulticastInlineDelegateProperty)

@@ -1,0 +1,4 @@
+/Script/Engine.DistributionFloatUniformCurve
+
+ConstantCurve (StructProperty)
+bCanBeBaked (BoolProperty)

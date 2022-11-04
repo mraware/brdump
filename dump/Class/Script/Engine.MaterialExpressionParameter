@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionParameter
+
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,10 @@
+/Script/Engine.InterpData
+
+InterpLength (FloatProperty)
+PathBuildTime (FloatProperty)
+InterpGroups (ArrayProperty)
+CurveEdSetup (ObjectProperty)
+EdSectionStart (FloatProperty)
+EdSectionEnd (FloatProperty)
+bShouldBakeAndPrune (BoolProperty)
+CachedDirectorGroup (ObjectProperty)

@@ -1,0 +1,10 @@
+/Script/MovieSceneCapture.MovieSceneCapture
+
+ImageCaptureProtocolType (StructProperty)
+AudioCaptureProtocolType (StructProperty)
+ImageCaptureProtocol (ObjectProperty)
+AudioCaptureProtocol (ObjectProperty)
+Settings (StructProperty)
+bUseSeparateProcess (BoolProperty)
+bCloseEditorWhenCaptureStarts (BoolProperty)
+AdditionalCommandLineArguments (StrProperty)

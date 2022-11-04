@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionOneMinus
+
+Input (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

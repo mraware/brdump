@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionFontSampleParameter
+
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Group (NameProperty)
+Font (ObjectProperty)
+FontTexturePage (IntProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

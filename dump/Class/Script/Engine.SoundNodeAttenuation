@@ -1,0 +1,5 @@
+/Script/Engine.SoundNodeAttenuation
+
+AttenuationSettings (ObjectProperty)
+AttenuationOverrides (StructProperty)
+bOverrideAttenuation (BoolProperty)

@@ -1,0 +1,5 @@
+/Script/Brickadia.BrickTypeGenerator
+
+GeneratedSizeMin (StructProperty)
+GeneratedSizeMax (StructProperty)
+GeneratedSizeStep (StructProperty)

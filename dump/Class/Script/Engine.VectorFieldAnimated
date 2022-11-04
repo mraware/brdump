@@ -1,0 +1,16 @@
+/Script/Engine.VectorFieldAnimated
+
+Texture (ObjectProperty)
+ConstructionOp (ByteProperty)
+VolumeSizeX (IntProperty)
+VolumeSizeY (IntProperty)
+VolumeSizeZ (IntProperty)
+SubImagesX (IntProperty)
+SubImagesY (IntProperty)
+FrameCount (IntProperty)
+FramesPerSecond (FloatProperty)
+bLoop (BoolProperty)
+NoiseField (ObjectProperty)
+NoiseScale (FloatProperty)
+NoiseMax (FloatProperty)
+Bounds (StructProperty)

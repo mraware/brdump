@@ -1,0 +1,15 @@
+/Script/AugmentedReality.ARPlaneGeometry
+
+Orientation (EnumProperty)
+Center (StructProperty)
+Extent (StructProperty)
+BoundaryPolygon (ArrayProperty)
+SubsumedBy (ObjectProperty)
+UniqueId (StructProperty)
+LocalToTrackingTransform (StructProperty)
+LocalToAlignedTrackingTransform (StructProperty)
+TrackingState (EnumProperty)
+UnderlyingMesh (ObjectProperty)
+ObjectClassification (EnumProperty)
+SpatialMeshUsageFlags (EnumProperty)
+LastUpdateFrameNumber (IntProperty)

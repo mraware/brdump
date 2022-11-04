@@ -1,0 +1,5 @@
+/Script/Brickadia.BrickTypeGenerator_DefaultSideWedgeTile
+
+GeneratedSizeMin (StructProperty)
+GeneratedSizeMax (StructProperty)
+GeneratedSizeStep (StructProperty)

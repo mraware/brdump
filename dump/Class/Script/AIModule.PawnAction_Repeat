@@ -1,0 +1,13 @@
+/Script/AIModule.PawnAction_Repeat
+
+ActionToRepeat (ObjectProperty)
+RecentActionCopy (ObjectProperty)
+ChildFailureHandlingMode (ByteProperty)
+ChildAction (ObjectProperty)
+ParentAction (ObjectProperty)
+OwnerComponent (ObjectProperty)
+Instigator (ObjectProperty)
+BrainComp (ObjectProperty)
+bAllowNewSameClassInstance (BoolProperty)
+bReplaceActiveSameClassInstance (BoolProperty)
+bShouldPauseMovement (BoolProperty)

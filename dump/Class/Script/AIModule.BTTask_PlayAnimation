@@ -1,0 +1,11 @@
+/Script/AIModule.BTTask_PlayAnimation
+
+AnimationToPlay (ObjectProperty)
+bLooping (BoolProperty)
+bNonBlocking (BoolProperty)
+MyOwnerComp (ObjectProperty)
+CachedSkelMesh (ObjectProperty)
+Services (ArrayProperty)
+bIgnoreRestartSelf (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

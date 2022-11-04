@@ -1,0 +1,9 @@
+/Script/Engine.PoseAsset
+
+PoseContainer (StructProperty)
+bAdditivePose (BoolProperty)
+BasePoseIndex (IntProperty)
+RetargetSource (NameProperty)
+RetargetSourceAssetReferencePose (ArrayProperty)
+Skeleton (ObjectProperty)
+MetaData (ArrayProperty)

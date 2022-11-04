@@ -1,0 +1,16 @@
+/Script/Engine.ParticleEmitter
+
+EmitterName (NameProperty)
+SubUVDataOffset (IntProperty)
+EmitterRenderMode (ByteProperty)
+SignificanceLevel (EnumProperty)
+bUseLegacySpawningBehavior (BoolProperty)
+ConvertedModules (BoolProperty)
+bIsSoloing (BoolProperty)
+bCookedOut (BoolProperty)
+bDisabledLODsKeepEmitterAlive (BoolProperty)
+bDisableWhenInsignficant (BoolProperty)
+LODLevels (ArrayProperty)
+PeakActiveParticles (IntProperty)
+InitialAllocationCount (IntProperty)
+QualityLevelSpawnRateScale (FloatProperty)

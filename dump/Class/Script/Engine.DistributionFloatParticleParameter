@@ -1,0 +1,10 @@
+/Script/Engine.DistributionFloatParticleParameter
+
+ParameterName (NameProperty)
+MinInput (FloatProperty)
+MaxInput (FloatProperty)
+MinOutput (FloatProperty)
+MaxOutput (FloatProperty)
+ParamMode (ByteProperty)
+Constant (FloatProperty)
+bCanBeBaked (BoolProperty)

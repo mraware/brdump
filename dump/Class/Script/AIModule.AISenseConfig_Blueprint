@@ -1,0 +1,5 @@
+/Script/AIModule.AISenseConfig_Blueprint
+
+Implementation (ClassProperty)
+DebugColor (StructProperty)
+MaxAge (FloatProperty)

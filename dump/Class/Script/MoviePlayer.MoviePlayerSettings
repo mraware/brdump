@@ -1,0 +1,4 @@
+/Script/MoviePlayer.MoviePlayerSettings
+
+bWaitForMoviesToComplete (BoolProperty)
+bMoviesAreSkippable (BoolProperty)

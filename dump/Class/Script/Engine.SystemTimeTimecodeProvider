@@ -1,0 +1,5 @@
+/Script/Engine.SystemTimeTimecodeProvider
+
+FrameRate (StructProperty)
+bGenerateFullFrame (BoolProperty)
+bUseHighPerformanceClock (BoolProperty)

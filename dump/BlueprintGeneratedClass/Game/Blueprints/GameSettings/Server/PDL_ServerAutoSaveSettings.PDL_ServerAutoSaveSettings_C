@@ -1,0 +1,5 @@
+/Game/Blueprints/GameSettings/Server/PDL_ServerAutoSaveSettings.PDL_ServerAutoSaveSettings_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

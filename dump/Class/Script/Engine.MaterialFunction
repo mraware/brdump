@@ -1,0 +1,6 @@
+/Script/Engine.MaterialFunction
+
+Description (StrProperty)
+bExposeToLibrary (BoolProperty)
+bPrefixParameterNames (BoolProperty)
+StateId (StructProperty)

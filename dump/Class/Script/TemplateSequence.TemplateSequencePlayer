@@ -1,0 +1,18 @@
+/Script/TemplateSequence.TemplateSequencePlayer
+
+OnPlay (MulticastInlineDelegateProperty)
+OnPlayReverse (MulticastInlineDelegateProperty)
+OnStop (MulticastInlineDelegateProperty)
+OnPause (MulticastInlineDelegateProperty)
+OnFinished (MulticastInlineDelegateProperty)
+Status (ByteProperty)
+* bReversePlayback (BoolProperty)
+Sequence (ObjectProperty)
+* StartTime (StructProperty)
+* DurationFrames (IntProperty)
+* DurationSubFrames (FloatProperty)
+CurrentNumLoops (IntProperty)
+* PlaybackSettings (StructProperty)
+RootTemplateInstance (StructProperty)
+* NetSyncProps (StructProperty)
+PlaybackClient (InterfaceProperty)

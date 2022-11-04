@@ -1,0 +1,6 @@
+/Script/Engine.DataTable
+
+RowStruct (ObjectProperty)
+bStripFromClientBuilds (BoolProperty)
+bIgnoreExtraFields (BoolProperty)
+bIgnoreMissingFields (BoolProperty)

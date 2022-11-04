@@ -1,0 +1,12 @@
+/Script/AIModule.EnvQueryGenerator_Cone
+
+AlignedPointsDistance (StructProperty)
+ConeDegrees (StructProperty)
+AngleStep (StructProperty)
+Range (StructProperty)
+CenterActor (ClassProperty)
+bIncludeContextLocation (BoolProperty)
+ProjectionData (StructProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

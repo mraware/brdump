@@ -1,0 +1,9 @@
+/Script/Engine.MaterialExpressionFresnel
+
+ExponentIn (StructProperty)
+Exponent (FloatProperty)
+BaseReflectFractionIn (StructProperty)
+BaseReflectFraction (FloatProperty)
+Normal (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

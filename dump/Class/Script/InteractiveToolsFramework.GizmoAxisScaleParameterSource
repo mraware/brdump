@@ -1,0 +1,9 @@
+/Script/InteractiveToolsFramework.GizmoAxisScaleParameterSource
+
+AxisSource (InterfaceProperty)
+TransformSource (InterfaceProperty)
+ScaleMultiplier (FloatProperty)
+Parameter (FloatProperty)
+LastChange (StructProperty)
+CurScaleAxis (StructProperty)
+CurScaleOrigin (StructProperty)

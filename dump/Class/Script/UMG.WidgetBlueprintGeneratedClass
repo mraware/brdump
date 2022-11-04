@@ -1,0 +1,18 @@
+/Script/UMG.WidgetBlueprintGeneratedClass
+
+WidgetTree (ObjectProperty)
+bClassRequiresNativeTick (BoolProperty)
+Bindings (ArrayProperty)
+Animations (ArrayProperty)
+NamedSlots (ArrayProperty)
+NumReplicatedProperties (IntProperty)
+bHasNativizedParent (BoolProperty)
+bHasCookedComponentInstancingData (BoolProperty)
+DynamicBindingObjects (ArrayProperty)
+ComponentTemplates (ArrayProperty)
+Timelines (ArrayProperty)
+ComponentClassOverrides (ArrayProperty)
+SimpleConstructionScript (ObjectProperty)
+InheritableComponentHandler (ObjectProperty)
+UberGraphFramePointerProperty (ObjectProperty)
+UberGraphFunction (ObjectProperty)

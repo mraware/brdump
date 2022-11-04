@@ -1,0 +1,12 @@
+/Script/Brickadia.BRGameInstance
+
+OnRecentlyUsedBricksUpdated (MulticastInlineDelegateProperty)
+ColorPalettePresetDescriptor (ObjectProperty)
+DefaultColorPalette (ObjectProperty)
+MaxColorPaletteGroups (IntProperty)
+MaxColorPaletteRows (IntProperty)
+RecentlyUsedBricks (ArrayProperty)
+EmojiSet (ObjectProperty)
+LocalPlayers (ArrayProperty)
+OnlineSession (ObjectProperty)
+ReferencedObjects (ArrayProperty)

@@ -1,0 +1,9 @@
+/Script/Brickadia.BrickBuildingTemplate
+
+InstanceTemplates (ArrayProperty)
+ComponentTemplates (ArrayProperty)
+MinPosition (StructProperty)
+MaxPosition (StructProperty)
+MinBounds (StructProperty)
+MaxBounds (StructProperty)
+Center (StructProperty)

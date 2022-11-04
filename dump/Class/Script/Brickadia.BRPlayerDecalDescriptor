@@ -1,0 +1,7 @@
+/Script/Brickadia.BRPlayerDecalDescriptor
+
+Texture (ObjectProperty)
+Category (TextProperty)
+DisplayName (TextProperty)
+bShouldDisplayInGame (BoolProperty)
+DecalTags (ArrayProperty)

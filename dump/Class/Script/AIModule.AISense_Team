@@ -1,0 +1,7 @@
+/Script/AIModule.AISense_Team
+
+RegisteredEvents (ArrayProperty)
+DefaultExpirationAge (FloatProperty)
+NotifyType (EnumProperty)
+bWantsNewPawnNotification (BoolProperty)
+bAutoRegisterAllPawnsAsSources (BoolProperty)

@@ -1,0 +1,8 @@
+/Script/InteractiveToolsFramework.GizmoAxisRotationParameterSource
+
+AxisSource (InterfaceProperty)
+TransformSource (InterfaceProperty)
+Angle (FloatProperty)
+LastChange (StructProperty)
+CurRotationAxis (StructProperty)
+CurRotationOrigin (StructProperty)

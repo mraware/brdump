@@ -1,0 +1,8 @@
+/Script/InteractiveToolsFramework.GizmoAxisTranslationParameterSource
+
+AxisSource (InterfaceProperty)
+TransformSource (InterfaceProperty)
+Parameter (FloatProperty)
+LastChange (StructProperty)
+CurTranslationAxis (StructProperty)
+CurTranslationOrigin (StructProperty)

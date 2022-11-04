@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionStaticBool
+
+Value (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

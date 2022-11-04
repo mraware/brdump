@@ -1,0 +1,15 @@
+/Script/Niagara.NiagaraComponentRendererProperties
+
+ComponentType (ClassProperty)
+ComponentCountLimit (UInt32Property)
+EnabledBinding (StructProperty)
+RendererVisibilityTagBinding (StructProperty)
+bAssignComponentsOnParticleID (BoolProperty)
+bOnlyCreateComponentsOnParticleSpawn (BoolProperty)
+RendererVisibility (IntProperty)
+TemplateComponent (ObjectProperty)
+PropertyBindings (ArrayProperty)
+Platforms (StructProperty)
+SortOrderHint (IntProperty)
+MotionVectorSetting (EnumProperty)
+bIsEnabled (BoolProperty)

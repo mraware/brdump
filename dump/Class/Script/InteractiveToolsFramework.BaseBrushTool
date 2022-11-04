@@ -1,0 +1,9 @@
+/Script/InteractiveToolsFramework.BaseBrushTool
+
+BrushProperties (ObjectProperty)
+bInBrushStroke (BoolProperty)
+WorldToLocalScale (FloatProperty)
+LastBrushStamp (StructProperty)
+PropertyClass (SoftClassProperty)
+BrushStampIndicator (ObjectProperty)
+InputBehaviors (ObjectProperty)

@@ -1,0 +1,12 @@
+/Script/AIModule.BTService_BlueprintBase
+
+AIOwner (ObjectProperty)
+ActorOwner (ObjectProperty)
+bShowPropertyDetails (BoolProperty)
+bShowEventDetails (BoolProperty)
+Interval (FloatProperty)
+RandomDeviation (FloatProperty)
+bCallTickOnSearchStart (BoolProperty)
+bRestartTimerOnEachActivation (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

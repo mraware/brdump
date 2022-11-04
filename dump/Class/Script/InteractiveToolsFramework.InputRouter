@@ -1,0 +1,4 @@
+/Script/InteractiveToolsFramework.InputRouter
+
+bAutoInvalidateOnHover (BoolProperty)
+bAutoInvalidateOnCapture (BoolProperty)

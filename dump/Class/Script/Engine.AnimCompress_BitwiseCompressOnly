@@ -1,0 +1,6 @@
+/Script/Engine.AnimCompress_BitwiseCompressOnly
+
+bNeedsSkeleton (BoolProperty)
+TranslationCompressionFormat (ByteProperty)
+RotationCompressionFormat (ByteProperty)
+ScaleCompressionFormat (ByteProperty)

@@ -1,0 +1,17 @@
+/Script/Brickadia.BRInspectorPropertyDescriptor_PrimaryAssetCatalog
+
+PrimaryAssetType (StructProperty)
+bCanBeNull (BoolProperty)
+OverrideThumbnailProcessorClass (ClassProperty)
+OverrideCatalogWidget (ClassProperty)
+Name (NameProperty)
+DisplayName (TextProperty)
+Tooltip (TextProperty)
+bCanSetToDefault (BoolProperty)
+WidgetClassOverride (ClassProperty)
+bUseGetFunction (BoolProperty)
+bUseSetFunction (BoolProperty)
+GetFunctionOverride (NameProperty)
+SetFunctionOverride (NameProperty)
+bUseIsEnabledFunction (BoolProperty)
+IsEnabledFunctionOrProperty (NameProperty)

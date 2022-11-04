@@ -1,0 +1,8 @@
+/Script/Engine.MaterialExpressionDepthFade
+
+InOpacity (StructProperty)
+FadeDistance (StructProperty)
+OpacityDefault (FloatProperty)
+FadeDistanceDefault (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

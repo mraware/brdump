@@ -1,0 +1,11 @@
+/Script/MovieSceneTracks.MovieSceneColorTrack
+
+bIsSlateColor (BoolProperty)
+SectionToKey (ObjectProperty)
+PropertyBinding (StructProperty)
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

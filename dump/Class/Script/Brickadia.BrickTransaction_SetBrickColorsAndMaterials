@@ -1,0 +1,14 @@
+/Script/Brickadia.BrickTransaction_SetBrickColorsAndMaterials
+
+NewColors (ArrayProperty)
+NewMaterialIndices (ArrayProperty)
+NewMaterialAlphas (ArrayProperty)
+OriginalColorForMerge (StructProperty)
+OriginalMaterialIndexForMerge (ByteProperty)
+OriginalMaterialAlphaForMerge (ByteProperty)
+BrickPersistentHandles (ArrayProperty)
+NumBricksChanged (IntProperty)
+NumBricksSkipped (IntProperty)
+NumBricksUntrusted (IntProperty)
+NumBricksNotFound (IntProperty)
+SavedIndex (IntProperty)

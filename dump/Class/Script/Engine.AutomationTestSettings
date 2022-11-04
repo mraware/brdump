@@ -1,0 +1,17 @@
+/Script/Engine.AutomationTestSettings
+
+EngineTestModules (ArrayProperty)
+EditorTestModules (ArrayProperty)
+AutomationTestmap (StructProperty)
+EditorPerformanceTestMaps (ArrayProperty)
+AssetsToOpen (ArrayProperty)
+MapsToPIETest (ArrayProperty)
+BuildPromotionTest (StructProperty)
+MaterialEditorPromotionTest (StructProperty)
+ParticleEditorPromotionTest (StructProperty)
+BlueprintEditorPromotionTest (StructProperty)
+TestLevelFolders (ArrayProperty)
+ExternalTools (ArrayProperty)
+ImportExportTestDefinitions (ArrayProperty)
+LaunchOnSettings (ArrayProperty)
+DefaultScreenshotResolution (StructProperty)

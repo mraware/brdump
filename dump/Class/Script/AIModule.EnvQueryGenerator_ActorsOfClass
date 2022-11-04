@@ -1,0 +1,9 @@
+/Script/AIModule.EnvQueryGenerator_ActorsOfClass
+
+SearchedActorClass (ClassProperty)
+GenerateOnlyActorsInRadius (StructProperty)
+SearchRadius (StructProperty)
+SearchCenter (ClassProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

@@ -1,0 +1,13 @@
+/Script/Engine.DistributionVectorParameterBase
+
+ParameterName (NameProperty)
+MinInput (StructProperty)
+MaxInput (StructProperty)
+MinOutput (StructProperty)
+MaxOutput (StructProperty)
+ParamModes (ByteProperty)
+Constant (StructProperty)
+bLockAxes (BoolProperty)
+LockedAxes (ByteProperty)
+bCanBeBaked (BoolProperty)
+bIsDirty (BoolProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.AnimNotify_PlaySound
+
+Sound (ObjectProperty)
+VolumeMultiplier (FloatProperty)
+PitchMultiplier (FloatProperty)
+bFollow (BoolProperty)

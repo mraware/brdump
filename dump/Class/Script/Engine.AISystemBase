@@ -1,0 +1,4 @@
+/Script/Engine.AISystemBase
+
+AISystemClassName (StructProperty)
+AISystemModuleName (NameProperty)

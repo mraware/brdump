@@ -1,0 +1,10 @@
+/Script/Landscape.MaterialExpressionLandscapeLayerCoords
+
+MappingType (ByteProperty)
+CustomUVType (ByteProperty)
+MappingScale (FloatProperty)
+MappingRotation (FloatProperty)
+MappingPanU (FloatProperty)
+MappingPanV (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

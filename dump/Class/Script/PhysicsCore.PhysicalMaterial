@@ -1,0 +1,16 @@
+/Script/PhysicsCore.PhysicalMaterial
+
+Friction (FloatProperty)
+StaticFriction (FloatProperty)
+FrictionCombineMode (ByteProperty)
+bOverrideFrictionCombineMode (BoolProperty)
+Restitution (FloatProperty)
+RestitutionCombineMode (ByteProperty)
+bOverrideRestitutionCombineMode (BoolProperty)
+Density (FloatProperty)
+SleepLinearVelocityThreshold (FloatProperty)
+SleepAngularVelocityThreshold (FloatProperty)
+SleepCounterThreshold (IntProperty)
+RaiseMassToPower (FloatProperty)
+DestructibleDamageThresholdScale (FloatProperty)
+PhysicalMaterialProperty (ObjectProperty)

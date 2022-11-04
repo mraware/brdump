@@ -1,0 +1,4 @@
+/Script/Engine.DialogueVoice
+
+Gender (ByteProperty)
+Plurality (ByteProperty)

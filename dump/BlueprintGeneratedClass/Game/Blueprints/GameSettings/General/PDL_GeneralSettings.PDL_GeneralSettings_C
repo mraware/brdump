@@ -1,0 +1,5 @@
+/Game/Blueprints/GameSettings/General/PDL_GeneralSettings.PDL_GeneralSettings_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

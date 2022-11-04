@@ -1,0 +1,10 @@
+/Script/UMG.MovieScene2DTransformTrack
+
+SectionToKey (ObjectProperty)
+PropertyBinding (StructProperty)
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

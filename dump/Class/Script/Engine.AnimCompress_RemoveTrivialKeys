@@ -1,0 +1,9 @@
+/Script/Engine.AnimCompress_RemoveTrivialKeys
+
+MaxPosDiff (FloatProperty)
+MaxAngleDiff (FloatProperty)
+MaxScaleDiff (FloatProperty)
+bNeedsSkeleton (BoolProperty)
+TranslationCompressionFormat (ByteProperty)
+RotationCompressionFormat (ByteProperty)
+ScaleCompressionFormat (ByteProperty)

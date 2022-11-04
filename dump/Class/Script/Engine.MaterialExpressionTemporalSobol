@@ -1,0 +1,8 @@
+/Script/Engine.MaterialExpressionTemporalSobol
+
+Index (StructProperty)
+Seed (StructProperty)
+ConstIndex (UInt32Property)
+ConstSeed (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

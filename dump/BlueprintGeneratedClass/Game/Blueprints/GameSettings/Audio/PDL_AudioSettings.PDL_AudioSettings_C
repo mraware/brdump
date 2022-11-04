@@ -1,0 +1,5 @@
+/Game/Blueprints/GameSettings/Audio/PDL_AudioSettings.PDL_AudioSettings_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionGIReplace
+
+Default (StructProperty)
+StaticIndirect (StructProperty)
+DynamicIndirect (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

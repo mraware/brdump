@@ -1,0 +1,5 @@
+/Script/AIModule.EnvQueryGenerator
+
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

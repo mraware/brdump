@@ -1,0 +1,6 @@
+/Script/Brickadia.BrickComponent_Interact
+
+* bPlayInteractSound (BoolProperty)
+* Message (StrProperty)
+* ConsoleTag (StrProperty)
+* AttachmentRep (StructProperty)

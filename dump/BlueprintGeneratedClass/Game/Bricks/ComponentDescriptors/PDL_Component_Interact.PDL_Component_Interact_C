@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentDescriptors/PDL_Component_Interact.PDL_Component_Interact_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

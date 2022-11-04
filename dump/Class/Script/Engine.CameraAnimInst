@@ -1,0 +1,7 @@
+/Script/Engine.CameraAnimInst
+
+CamAnim (ObjectProperty)
+InterpGroupInst (ObjectProperty)
+PlayRate (FloatProperty)
+MoveTrack (ObjectProperty)
+MoveInst (ObjectProperty)

@@ -1,0 +1,9 @@
+/Script/Niagara.MovieSceneNiagaraParameterTrack
+
+Parameter (StructProperty)
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)

@@ -1,0 +1,12 @@
+/Script/Brickadia.ProceduralBrick
+
+GeneratorClass (ClassProperty)
+BrickMenuSizePresets (ArrayProperty)
+BrickMenuSizePresetRows (ArrayProperty)
+bEnableBrickMenuSizePresets (BoolProperty)
+DefaultEditorSize (StructProperty)
+DisplayName (TextProperty)
+Category (TextProperty)
+Tab (TextProperty)
+GeneratorInstance (ObjectProperty)
+SpecialBrickType (EnumProperty)

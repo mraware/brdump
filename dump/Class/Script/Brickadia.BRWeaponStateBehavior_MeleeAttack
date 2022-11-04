@@ -1,0 +1,11 @@
+/Script/Brickadia.BRWeaponStateBehavior_MeleeAttack
+
+DamageType (ClassProperty)
+Damage (FloatProperty)
+StateTransitionOnMiss (NameProperty)
+StateTransitionOnHitUndamageable (NameProperty)
+FreezeFrameDurationOnDamage (FloatProperty)
+ColliderComponentTag (NameProperty)
+bTraceComplex (BoolProperty)
+MissResponse (StructProperty)
+NonDamageableOverlapResponse (StructProperty)

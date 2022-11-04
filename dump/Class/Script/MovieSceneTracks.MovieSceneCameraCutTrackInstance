@@ -1,0 +1,5 @@
+/Script/MovieSceneTracks.MovieSceneCameraCutTrackInstance
+
+AnimatedObject (ObjectProperty)
+bIsMasterTrackInstance (BoolProperty)
+Linker (ObjectProperty)

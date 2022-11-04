@@ -1,0 +1,17 @@
+/Script/Engine.AnimStreamable
+
+NumFrames (IntProperty)
+Interpolation (EnumProperty)
+RetargetSource (NameProperty)
+BoneCompressionSettings (ObjectProperty)
+CurveCompressionSettings (ObjectProperty)
+bEnableRootMotion (BoolProperty)
+RootMotionRootLock (ByteProperty)
+bForceRootLock (BoolProperty)
+bUseNormalizedRootMotionScale (BoolProperty)
+Notifies (ArrayProperty)
+SequenceLength (FloatProperty)
+RateScale (FloatProperty)
+RawCurveData (StructProperty)
+Skeleton (ObjectProperty)
+MetaData (ArrayProperty)

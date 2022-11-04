@@ -1,0 +1,10 @@
+/Script/Engine.MaterialExpressionSmoothStep
+
+Min (StructProperty)
+Max (StructProperty)
+Value (StructProperty)
+ConstMin (FloatProperty)
+ConstMax (FloatProperty)
+ConstValue (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

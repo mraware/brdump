@@ -1,0 +1,17 @@
+/Script/Brickadia.BRPlayerPartDescriptor
+
+Mesh (ObjectProperty)
+Tab (TextProperty)
+Category (TextProperty)
+DisplayName (TextProperty)
+bShouldDisplayInGame (BoolProperty)
+bCanRotate (BoolProperty)
+bDetachOnRagdoll (BoolProperty)
+PartTags (ArrayProperty)
+bCanMirror (BoolProperty)
+bOverridesConnectionTags (BoolProperty)
+OverrideConnectionTags (SetProperty)
+DefaultColors (StructProperty)
+bSupportsDecals (BoolProperty)
+AllowedDecalTags (SetProperty)
+DefaultDecalDescriptor (ObjectProperty)

@@ -1,0 +1,18 @@
+/Script/Brickadia.BRWeaponStateBehavior_FiringHitscan
+
+HitExplosion (ClassProperty)
+HeadshotExplosion (ClassProperty)
+MissExplosion (ClassProperty)
+DirectDamageType (ClassProperty)
+DirectDamage (FloatProperty)
+HeadshotDamageType (ClassProperty)
+HeadshotDamage (FloatProperty)
+TraceLength (FloatProperty)
+bExcludeDirectHitsFromExplosions (BoolProperty)
+bSpawnExplosionOnTraceMiss (BoolProperty)
+bTraceComplex (BoolProperty)
+TraceChannel (ByteProperty)
+MuzzleSocket (NameProperty)
+NumberOfShots (IntProperty)
+AmmoToSubtract (IntProperty)
+SpreadConeAngle (FloatProperty)

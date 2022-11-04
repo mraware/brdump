@@ -1,0 +1,5 @@
+/Game/Blueprints/Environment/Ambience/PDL_Ambience.PDL_Ambience_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

@@ -1,0 +1,10 @@
+/Script/AIModule.BTDecorator_CheckGameplayTagsOnActor
+
+ActorToCheck (StructProperty)
+TagsToMatch (EnumProperty)
+GameplayTags (StructProperty)
+CachedDescription (StrProperty)
+bInverseCondition (BoolProperty)
+FlowAbortMode (ByteProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

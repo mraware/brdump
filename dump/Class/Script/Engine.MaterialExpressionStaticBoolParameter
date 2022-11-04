@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionStaticBoolParameter
+
+DefaultValue (BoolProperty)
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

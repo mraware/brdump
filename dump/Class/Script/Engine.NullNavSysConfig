@@ -1,0 +1,5 @@
+/Script/Engine.NullNavSysConfig
+
+NavigationSystemClass (StructProperty)
+SupportedAgentsMask (StructProperty)
+DefaultAgentName (NameProperty)

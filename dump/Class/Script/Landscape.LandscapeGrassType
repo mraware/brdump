@@ -1,0 +1,10 @@
+/Script/Landscape.LandscapeGrassType
+
+GrassVarieties (ArrayProperty)
+bEnableDensityScaling (BoolProperty)
+GrassMesh (ObjectProperty)
+GrassDensity (FloatProperty)
+PlacementJitter (FloatProperty)
+StartCullDistance (IntProperty)
+EndCullDistance (IntProperty)
+RandomRotation (BoolProperty)

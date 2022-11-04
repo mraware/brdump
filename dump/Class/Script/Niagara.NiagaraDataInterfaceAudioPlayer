@@ -1,0 +1,8 @@
+/Script/Niagara.NiagaraDataInterfaceAudioPlayer
+
+SoundToPlay (ObjectProperty)
+Attenuation (ObjectProperty)
+Concurrency (ObjectProperty)
+ParameterNames (ArrayProperty)
+bLimitPlaysPerTick (BoolProperty)
+MaxPlaysPerTick (IntProperty)

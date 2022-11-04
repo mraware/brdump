@@ -1,0 +1,5 @@
+/Script/Landscape.LandscapeLayerInfoObject
+
+LayerName (NameProperty)
+PhysMaterial (ObjectProperty)
+Hardness (FloatProperty)

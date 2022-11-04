@@ -1,0 +1,8 @@
+/Script/Engine.CompositeDataTable
+
+ParentTables (ArrayProperty)
+OldParentTables (ArrayProperty)
+RowStruct (ObjectProperty)
+bStripFromClientBuilds (BoolProperty)
+bIgnoreExtraFields (BoolProperty)
+bIgnoreMissingFields (BoolProperty)

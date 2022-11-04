@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionPerInstanceCustomData
+
+DefaultValue (StructProperty)
+ConstDefaultValue (FloatProperty)
+DataIndex (UInt32Property)
+Material (ObjectProperty)
+Function (ObjectProperty)

@@ -1,0 +1,14 @@
+/Script/Engine.AnimationSettings
+
+CompressCommandletVersion (IntProperty)
+KeyEndEffectorsMatchNameArray (ArrayProperty)
+ForceRecompression (BoolProperty)
+bForceBelowThreshold (BoolProperty)
+bFirstRecompressUsingCurrentOrDefault (BoolProperty)
+bRaiseMaxErrorToExisting (BoolProperty)
+bEnablePerformanceLog (BoolProperty)
+bStripAnimationDataOnDedicatedServer (BoolProperty)
+bTickAnimationOnSkeletalMeshInit (BoolProperty)
+BoneCustomAttributesNames (ArrayProperty)
+BoneNamesWithCustomAttributes (ArrayProperty)
+AttributeBlendModes (MapProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionCosine
+
+Input (StructProperty)
+Period (FloatProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

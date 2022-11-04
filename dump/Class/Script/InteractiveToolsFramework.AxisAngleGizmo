@@ -1,0 +1,15 @@
+/Script/InteractiveToolsFramework.AxisAngleGizmo
+
+AxisSource (InterfaceProperty)
+AngleSource (InterfaceProperty)
+HitTarget (InterfaceProperty)
+StateTarget (InterfaceProperty)
+bInInteraction (BoolProperty)
+RotationOrigin (StructProperty)
+RotationAxis (StructProperty)
+RotationPlaneX (StructProperty)
+RotationPlaneY (StructProperty)
+InteractionStartPoint (StructProperty)
+InteractionCurPoint (StructProperty)
+InteractionStartAngle (FloatProperty)
+InteractionCurAngle (FloatProperty)

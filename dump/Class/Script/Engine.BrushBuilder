@@ -1,0 +1,8 @@
+/Script/Engine.BrushBuilder
+
+BitmapFilename (StrProperty)
+Tooltip (StrProperty)
+NotifyBadParams (BoolProperty)
+Vertices (ArrayProperty)
+Polys (ArrayProperty)
+Layer (NameProperty)

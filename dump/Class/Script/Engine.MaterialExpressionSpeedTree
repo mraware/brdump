@@ -1,0 +1,13 @@
+/Script/Engine.MaterialExpressionSpeedTree
+
+GeometryInput (StructProperty)
+WindInput (StructProperty)
+LODInput (StructProperty)
+ExtraBendWS (StructProperty)
+GeometryType (ByteProperty)
+WindType (ByteProperty)
+LODType (ByteProperty)
+BillboardThreshold (FloatProperty)
+bAccurateWindVelocities (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

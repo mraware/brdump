@@ -1,0 +1,7 @@
+/Script/Engine.AnimNotifyState_Trail
+
+PSTemplate (ObjectProperty)
+FirstSocketName (NameProperty)
+SecondSocketName (NameProperty)
+WidthScaleMode (ByteProperty)
+WidthScaleCurve (NameProperty)

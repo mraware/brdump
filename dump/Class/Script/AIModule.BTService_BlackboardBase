@@ -1,0 +1,9 @@
+/Script/AIModule.BTService_BlackboardBase
+
+BlackboardKey (StructProperty)
+Interval (FloatProperty)
+RandomDeviation (FloatProperty)
+bCallTickOnSearchStart (BoolProperty)
+bRestartTimerOnEachActivation (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

@@ -1,0 +1,5 @@
+/Script/Engine.SoundNodeDoppler
+
+DopplerIntensity (FloatProperty)
+bUseSmoothing (BoolProperty)
+SmoothingInterpSpeed (FloatProperty)

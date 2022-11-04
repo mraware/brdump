@@ -1,0 +1,10 @@
+/Script/Engine.DistributionVectorUniformCurve
+
+ConstantCurve (StructProperty)
+bLockAxes1 (BoolProperty)
+bLockAxes2 (BoolProperty)
+LockedAxes (ByteProperty)
+MirrorFlags (ByteProperty)
+bUseExtremes (BoolProperty)
+bCanBeBaked (BoolProperty)
+bIsDirty (BoolProperty)

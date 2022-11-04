@@ -1,0 +1,17 @@
+/Script/Engine.GarbageCollectionSettings
+
+TimeBetweenPurgingPendingKillObjects (FloatProperty)
+FlushStreamingOnGC (BoolProperty)
+AllowParallelGC (BoolProperty)
+IncrementalBeginDestroyEnabled (BoolProperty)
+MultithreadedDestructionEnabled (BoolProperty)
+CreateGCClusters (BoolProperty)
+AssetClusteringEnabled (BoolProperty)
+ActorClusteringEnabled (BoolProperty)
+BlueprintClusteringEnabled (BoolProperty)
+UseDisregardForGCOnDedicatedServers (BoolProperty)
+MinGCClusterSize (IntProperty)
+NumRetriesBeforeForcingGC (IntProperty)
+MaxObjectsNotConsideredByGC (IntProperty)
+SizeOfPermanentObjectPool (IntProperty)
+MaxObjectsInGame (IntProperty)

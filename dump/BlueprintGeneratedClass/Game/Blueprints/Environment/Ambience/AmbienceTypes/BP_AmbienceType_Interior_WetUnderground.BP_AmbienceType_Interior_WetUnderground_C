@@ -1,0 +1,4 @@
+/Game/Blueprints/Environment/Ambience/AmbienceTypes/BP_AmbienceType_Interior_WetUnderground.BP_AmbienceType_Interior_WetUnderground_C
+
+DisplayName (TextProperty)
+Sound (ObjectProperty)

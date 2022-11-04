@@ -1,0 +1,4 @@
+/Script/AIModule.BTAuxiliaryNode
+
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

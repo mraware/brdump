@@ -1,0 +1,16 @@
+/Script/Engine.SoundNodeEnveloper
+
+LoopStart (FloatProperty)
+LoopEnd (FloatProperty)
+DurationAfterLoop (FloatProperty)
+LoopCount (IntProperty)
+bLoopIndefinitely (BoolProperty)
+bLoop (BoolProperty)
+VolumeInterpCurve (ObjectProperty)
+PitchInterpCurve (ObjectProperty)
+VolumeCurve (StructProperty)
+PitchCurve (StructProperty)
+PitchMin (FloatProperty)
+PitchMax (FloatProperty)
+VolumeMin (FloatProperty)
+VolumeMax (FloatProperty)

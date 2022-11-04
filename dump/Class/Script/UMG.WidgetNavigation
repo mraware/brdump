@@ -1,0 +1,7 @@
+/Script/UMG.WidgetNavigation
+
+Up (StructProperty)
+Down (StructProperty)
+Left (StructProperty)
+Right (StructProperty)
+Next (StructProperty)

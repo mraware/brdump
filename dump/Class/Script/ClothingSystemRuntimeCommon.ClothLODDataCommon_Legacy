@@ -1,0 +1,4 @@
+/Script/ClothingSystemRuntimeCommon.ClothLODDataCommon_Legacy
+
+PhysicalMeshData (ObjectProperty)
+ClothPhysicalMeshData (StructProperty)

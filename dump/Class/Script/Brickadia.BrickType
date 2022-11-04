@@ -1,0 +1,9 @@
+/Script/Brickadia.BrickType
+
+Tab (TextProperty)
+Category (TextProperty)
+DisplayName (TextProperty)
+bDisplayInCatalog (BoolProperty)
+BodySetup (ObjectProperty)
+HalfSize (StructProperty)
+Studs (ArrayProperty)

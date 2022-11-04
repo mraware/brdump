@@ -1,0 +1,6 @@
+/Script/Foliage.ProceduralFoliageSpawner
+
+RandomSeed (IntProperty)
+TileSize (FloatProperty)
+NumUniqueTiles (IntProperty)
+MinimumQuadTreeSize (FloatProperty)

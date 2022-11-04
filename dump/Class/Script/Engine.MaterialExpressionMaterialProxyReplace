@@ -1,0 +1,6 @@
+/Script/Engine.MaterialExpressionMaterialProxyReplace
+
+Realtime (StructProperty)
+MaterialProxy (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

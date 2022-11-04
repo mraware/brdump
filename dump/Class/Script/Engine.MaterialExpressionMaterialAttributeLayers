@@ -1,0 +1,13 @@
+/Script/Engine.MaterialExpressionMaterialAttributeLayers
+
+ParameterName (NameProperty)
+ExpressionGUID (StructProperty)
+Input (StructProperty)
+DefaultLayers (StructProperty)
+LayerCallers (ArrayProperty)
+NumActiveLayerCallers (IntProperty)
+BlendCallers (ArrayProperty)
+NumActiveBlendCallers (IntProperty)
+bIsLayerGraphBuilt (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

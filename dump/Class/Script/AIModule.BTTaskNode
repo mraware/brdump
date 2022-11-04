@@ -1,0 +1,6 @@
+/Script/AIModule.BTTaskNode
+
+Services (ArrayProperty)
+bIgnoreRestartSelf (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

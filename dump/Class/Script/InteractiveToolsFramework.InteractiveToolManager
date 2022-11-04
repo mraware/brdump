@@ -1,0 +1,4 @@
+/Script/InteractiveToolsFramework.InteractiveToolManager
+
+ActiveLeftTool (ObjectProperty)
+ActiveRightTool (ObjectProperty)

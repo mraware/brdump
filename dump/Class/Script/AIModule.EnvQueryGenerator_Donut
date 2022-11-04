@@ -1,0 +1,15 @@
+/Script/AIModule.EnvQueryGenerator_Donut
+
+InnerRadius (StructProperty)
+OuterRadius (StructProperty)
+NumberOfRings (StructProperty)
+PointsPerRing (StructProperty)
+ArcDirection (StructProperty)
+ArcAngle (StructProperty)
+bUseSpiralPattern (BoolProperty)
+Center (ClassProperty)
+bDefineArc (BoolProperty)
+ProjectionData (StructProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

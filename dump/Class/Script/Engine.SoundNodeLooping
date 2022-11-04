@@ -1,0 +1,4 @@
+/Script/Engine.SoundNodeLooping
+
+LoopCount (IntProperty)
+bLoopIndefinitely (BoolProperty)

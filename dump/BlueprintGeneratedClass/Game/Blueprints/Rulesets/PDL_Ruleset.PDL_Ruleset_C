@@ -1,0 +1,5 @@
+/Game/Blueprints/Rulesets/PDL_Ruleset.PDL_Ruleset_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

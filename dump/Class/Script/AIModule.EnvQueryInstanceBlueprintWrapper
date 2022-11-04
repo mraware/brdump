@@ -1,0 +1,5 @@
+/Script/AIModule.EnvQueryInstanceBlueprintWrapper
+
+QueryID (IntProperty)
+ItemType (ClassProperty)
+OptionIndex (IntProperty)

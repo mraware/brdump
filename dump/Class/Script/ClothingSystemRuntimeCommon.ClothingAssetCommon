@@ -1,0 +1,11 @@
+/Script/ClothingSystemRuntimeCommon.ClothingAssetCommon
+
+PhysicsAsset (ObjectProperty)
+ClothConfigs (MapProperty)
+LODData (ArrayProperty)
+LodMap (ArrayProperty)
+UsedBoneNames (ArrayProperty)
+UsedBoneIndices (ArrayProperty)
+ReferenceBoneIndex (IntProperty)
+CustomData (ObjectProperty)
+ImportedFilePath (StrProperty)

@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionSceneTexture
+
+Coordinates (StructProperty)
+SceneTextureId (ByteProperty)
+bFiltered (BoolProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

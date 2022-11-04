@@ -1,0 +1,16 @@
+/Script/Brickadia.BRServerSettingsBase_General
+
+* ServerName (StrProperty)
+* ServerDescription (StrProperty)
+* ServerPassword (StrProperty)
+* MaxPlayers (IntProperty)
+* bPubliclyListed (BoolProperty)
+* WelcomeMessage (StrProperty)
+* bGlobalRulesetSelfDamage (BoolProperty)
+* bGlobalRulesetPhysicsDamage (BoolProperty)
+* bGlobalRulesetEnableCameraBlockedEffects (BoolProperty)
+* UploadTimeout (FloatProperty)
+* MaxPrefabBricks (IntProperty)
+* MaxPrefabComponents (IntProperty)
+* MaxPrefabSize (StructProperty)
+OnSettingsLiveChanged (MulticastInlineDelegateProperty)

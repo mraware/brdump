@@ -1,0 +1,4 @@
+/Script/GameplayTasks.GameplayTaskResource
+
+ManualResourceID (IntProperty)
+AutoResourceID (Int8Property)

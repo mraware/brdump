@@ -1,0 +1,10 @@
+/Script/Niagara.NiagaraDataInterfaceRenderTarget2D
+
+Size (StructProperty)
+MipMapGeneration (EnumProperty)
+OverrideRenderTargetFormat (ByteProperty)
+bInheritUserParameterSettings (BoolProperty)
+bOverrideFormat (BoolProperty)
+RenderTargetUserParameter (StructProperty)
+ManagedRenderTargets (MapProperty)
+OutputShaderStages (SetProperty)

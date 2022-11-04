@@ -1,0 +1,7 @@
+/Script/Brickadia.BrickAssetThumbnailProcessor
+
+PlaneMesh (ObjectProperty)
+GridMaterial (ObjectProperty)
+PlaneComponent (ObjectProperty)
+BrickComponent (ObjectProperty)
+SkyTextureCube (ObjectProperty)

@@ -1,0 +1,6 @@
+/Script/UMG.WidgetSwitcherSlot
+
+Padding (StructProperty)
+HorizontalAlignment (ByteProperty)
+VerticalAlignment (ByteProperty)
+Parent (ObjectProperty)

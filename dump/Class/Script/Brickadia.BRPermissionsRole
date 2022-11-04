@@ -1,0 +1,8 @@
+/Script/Brickadia.BRPermissionsRole
+
+OnUpdated (MulticastInlineDelegateProperty)
+OnRoleIDChanged (MulticastInlineDelegateProperty)
+* Name (StrProperty)
+* Permissions (ArrayProperty)
+* Color (StructProperty)
+* bHasColor (BoolProperty)

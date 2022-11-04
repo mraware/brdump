@@ -1,0 +1,15 @@
+/Script/Brickadia.BRAssetManager
+
+ObjectReferenceList (ArrayProperty)
+bIsGlobalAsyncScanEnvironment (BoolProperty)
+bShouldGuessTypeAndName (BoolProperty)
+bShouldUseSynchronousLoad (BoolProperty)
+bIsLoadingFromPakFiles (BoolProperty)
+bShouldAcquireMissingChunksOnLoad (BoolProperty)
+bOnlyCookProductionAssets (BoolProperty)
+bIsBulkScanning (BoolProperty)
+bIsPrimaryAssetDirectoryCurrent (BoolProperty)
+bIsManagementDatabaseCurrent (BoolProperty)
+bUpdateManagementDatabaseAfterScan (BoolProperty)
+bIncludeOnlyOnDiskAssets (BoolProperty)
+bHasCompletedInitialScan (BoolProperty)

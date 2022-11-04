@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionVertexInterpolator
+
+Input (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

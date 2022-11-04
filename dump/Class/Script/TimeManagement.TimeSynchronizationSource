@@ -1,0 +1,3 @@
+/Script/TimeManagement.TimeSynchronizationSource
+
+bUseForSynchronization (BoolProperty)

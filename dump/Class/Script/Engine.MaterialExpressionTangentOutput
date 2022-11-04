@@ -1,0 +1,5 @@
+/Script/Engine.MaterialExpressionTangentOutput
+
+Input (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

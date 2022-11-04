@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionDesaturation
+
+Input (StructProperty)
+Fraction (StructProperty)
+LuminanceFactors (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

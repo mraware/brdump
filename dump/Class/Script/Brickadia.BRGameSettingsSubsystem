@@ -1,0 +1,4 @@
+/Script/Brickadia.BRGameSettingsSubsystem
+
+ServerSettingsClasses (ArrayProperty)
+OnServerSettingsBecomeAvailable (MulticastInlineDelegateProperty)

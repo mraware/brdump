@@ -1,0 +1,8 @@
+/Script/AIModule.EnvQueryGenerator_BlueprintBase
+
+GeneratorsActionDescription (TextProperty)
+Context (ClassProperty)
+GeneratedItemType (ClassProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)

@@ -1,0 +1,9 @@
+/Script/AIModule.BTTask_RunBehaviorDynamic
+
+InjectionTag (StructProperty)
+DefaultBehaviorAsset (ObjectProperty)
+BehaviorAsset (ObjectProperty)
+Services (ArrayProperty)
+bIgnoreRestartSelf (BoolProperty)
+NodeName (StrProperty)
+TreeAsset (ObjectProperty)

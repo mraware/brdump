@@ -1,0 +1,13 @@
+/Script/Paper2D.PaperSprite
+
+AdditionalSourceTextures (ArrayProperty)
+BakedSourceUV (StructProperty)
+BakedSourceDimension (StructProperty)
+BakedSourceTexture (ObjectProperty)
+DefaultMaterial (ObjectProperty)
+AlternateMaterial (ObjectProperty)
+Sockets (ArrayProperty)
+SpriteCollisionDomain (ByteProperty)
+PixelsPerUnrealUnit (FloatProperty)
+BodySetup (ObjectProperty)
+AlternateMaterialSplitIndex (IntProperty)

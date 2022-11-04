@@ -1,0 +1,7 @@
+/Script/Brickadia.BRAnimNotifyState_WeaponTrail
+
+PSTemplate (ObjectProperty)
+FirstSocketName (NameProperty)
+SecondSocketName (NameProperty)
+WidthScaleMode (ByteProperty)
+WidthScaleCurve (NameProperty)

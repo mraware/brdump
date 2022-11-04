@@ -1,0 +1,15 @@
+/Script/InteractiveToolsFramework.AxisPositionGizmo
+
+AxisSource (InterfaceProperty)
+ParameterSource (InterfaceProperty)
+HitTarget (InterfaceProperty)
+StateTarget (InterfaceProperty)
+bEnableSignedAxis (BoolProperty)
+bInInteraction (BoolProperty)
+InteractionOrigin (StructProperty)
+InteractionAxis (StructProperty)
+InteractionStartPoint (StructProperty)
+InteractionCurPoint (StructProperty)
+InteractionStartParameter (FloatProperty)
+InteractionCurParameter (FloatProperty)
+ParameterSign (FloatProperty)

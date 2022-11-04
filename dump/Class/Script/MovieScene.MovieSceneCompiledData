@@ -1,0 +1,11 @@
+/Script/MovieScene.MovieSceneCompiledData
+
+EvaluationTemplate (StructProperty)
+Hierarchy (StructProperty)
+EntityComponentField (StructProperty)
+TrackTemplateField (StructProperty)
+DeterminismFences (ArrayProperty)
+CompiledSignature (StructProperty)
+CompilerVersion (StructProperty)
+AccumulatedMask (StructProperty)
+AllocatedMask (StructProperty)

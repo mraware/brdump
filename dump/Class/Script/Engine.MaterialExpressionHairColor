@@ -1,0 +1,7 @@
+/Script/Engine.MaterialExpressionHairColor
+
+Melanin (StructProperty)
+Redness (StructProperty)
+DyeColor (StructProperty)
+Material (ObjectProperty)
+Function (ObjectProperty)

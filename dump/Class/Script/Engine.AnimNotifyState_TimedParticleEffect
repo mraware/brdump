@@ -1,0 +1,6 @@
+/Script/Engine.AnimNotifyState_TimedParticleEffect
+
+PSTemplate (ObjectProperty)
+SocketName (NameProperty)
+LocationOffset (StructProperty)
+RotationOffset (StructProperty)
