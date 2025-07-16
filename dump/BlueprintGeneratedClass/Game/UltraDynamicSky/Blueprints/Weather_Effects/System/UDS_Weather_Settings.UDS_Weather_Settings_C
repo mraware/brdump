@@ -1,0 +1,16 @@
+/Game/UltraDynamicSky/Blueprints/Weather_Effects/System/UDS_Weather_Settings.UDS_Weather_Settings_C
+
+Cloud Coverage (DoubleProperty)
+Rain (DoubleProperty)
+Snow (DoubleProperty)
+Thunder/Lightning (DoubleProperty)
+Wind Intensity (DoubleProperty)
+Fog (DoubleProperty)
+Dust (DoubleProperty)
+Material Wetness (DoubleProperty)
+Material Snow Coverage (DoubleProperty)
+Material Dust Coverage (DoubleProperty)
+Sky Modifier (ObjectProperty)
+Icon Texture (SoftObjectProperty)
+User Friendly Name (TextProperty)
+State Sources (MapProperty)

@@ -1,6 +1,11 @@
 /Script/NiagaraAnimNotifies.AnimNotifyState_TimedNiagaraEffectAdvanced
 
+bEnableNormalizedNotifyProgress (BoolProperty)
+bApplyRateScaleToProgress (BoolProperty)
+NotifyProgressUserParameter (NameProperty)
+AnimCurves (ArrayProperty)
 Template (ObjectProperty)
 SocketName (NameProperty)
 LocationOffset (StructProperty)
 RotationOffset (StructProperty)
+bApplyRateScaleAsTimeDilation (BoolProperty)

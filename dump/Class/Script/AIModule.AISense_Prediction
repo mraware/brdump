@@ -1,7 +1,6 @@
 /Script/AIModule.AISense_Prediction
 
 RegisteredEvents (ArrayProperty)
-DefaultExpirationAge (FloatProperty)
 NotifyType (EnumProperty)
 bWantsNewPawnNotification (BoolProperty)
 bAutoRegisterAllPawnsAsSources (BoolProperty)

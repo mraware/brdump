@@ -1,0 +1,10 @@
+/Script/Brickadia.BRPhysicsCollisionHandler
+
+BrickSoundAttenuation (ObjectProperty)
+BrickSoundConcurrency (ObjectProperty)
+ImpactVelocityVolumeMultiplier (FloatProperty)
+ImpactVelocityVolumeMax (FloatProperty)
+GlobalImpactVolumeMultiplier (FloatProperty)
+ImpactThreshold (FloatProperty)
+ImpactReFireDelay (FloatProperty)
+DefaultImpactSound (ObjectProperty)

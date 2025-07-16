@@ -1,0 +1,13 @@
+/Script/Niagara.NiagaraDataInterfaceGrid3DCollectionReader
+
+EmitterName (StrProperty)
+DIName (StrProperty)
+NumAttributes (IntProperty)
+RenderTargetUserParameter (StructProperty)
+OverrideBufferFormat (EnumProperty)
+bOverrideFormat (BoolProperty)
+ClearBeforeNonIterationStage (BoolProperty)
+NumCells (StructProperty)
+CellSize (FloatProperty)
+NumCellsMaxAxis (IntProperty)
+SetResolutionMethod (EnumProperty)

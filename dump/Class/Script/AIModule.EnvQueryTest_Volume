@@ -3,6 +3,7 @@
 VolumeContext (ClassProperty)
 VolumeClass (ClassProperty)
 bDoComplexVolumeTest (BoolProperty)
+bSkipTestIfNoVolumes (BoolProperty)
 TestOrder (IntProperty)
 TestPurpose (ByteProperty)
 TestComment (StrProperty)

@@ -1,0 +1,6 @@
+/Script/GameplayCameras.Rotator3fCameraVariable
+
+DefaultValue (StructProperty)
+bAutoReset (BoolProperty)
+bIsPrivate (BoolProperty)
+bIsInput (BoolProperty)

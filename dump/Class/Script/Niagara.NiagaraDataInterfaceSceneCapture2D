@@ -1,0 +1,18 @@
+/Script/Niagara.NiagaraDataInterfaceSceneCapture2D
+
+SourceMode (EnumProperty)
+SceneCaptureUserParameter (StructProperty)
+bAutoMoveWithComponent (BoolProperty)
+AutoMoveOffsetLocationMode (EnumProperty)
+AutoMoveOffsetLocation (StructProperty)
+AutoMoveOffsetRotationMode (EnumProperty)
+AutoMoveOffsetRotation (StructProperty)
+ManagedCaptureSource (ByteProperty)
+ManagedTextureSize (StructProperty)
+ManagedTextureFormat (ByteProperty)
+ManagedProjectionType (ByteProperty)
+ManagedFOVAngle (FloatProperty)
+ManagedOrthoWidth (FloatProperty)
+bManagedCaptureEveryFrame (BoolProperty)
+bManagedCaptureOnMovement (BoolProperty)
+ManagedShowOnlyActors (ArrayProperty)

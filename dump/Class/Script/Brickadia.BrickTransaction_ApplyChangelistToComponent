@@ -1,9 +1,0 @@
-/Script/Brickadia.BrickTransaction_ApplyChangelistToComponent
-
-Descriptor (ObjectProperty)
-Changelist (StructProperty)
-BrickPersistentHandle (StructProperty)
-bBrickChanged (BoolProperty)
-bBrickSkipped (BoolProperty)
-bBrickUntrusted (BoolProperty)
-bBrickNotFound (BoolProperty)

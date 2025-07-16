@@ -1,0 +1,10 @@
+/Script/Engine.HLODLayer
+
+LayerType (EnumProperty)
+HLODBuilderClass (ClassProperty)
+HLODBuilderSettings (ObjectProperty)
+bIsSpatiallyLoaded (BoolProperty)
+CellSize (IntProperty)
+LoadingRange (DoubleProperty)
+ParentLayer (ObjectProperty)
+HLODActorClass (ClassProperty)

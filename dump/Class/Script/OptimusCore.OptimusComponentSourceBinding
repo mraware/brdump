@@ -1,0 +1,5 @@
+/Script/OptimusCore.OptimusComponentSourceBinding
+
+BindingName (NameProperty)
+ComponentType (ClassProperty)
+ComponentTags (ArrayProperty)

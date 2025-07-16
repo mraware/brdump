@@ -1,6 +1,6 @@
 /Script/Engine.ParticleModuleAttractorPointGravity
 
-Position (StructProperty)
+position (StructProperty)
 Radius (FloatProperty)
 Strength (ObjectProperty)
 StrengthRaw (StructProperty)

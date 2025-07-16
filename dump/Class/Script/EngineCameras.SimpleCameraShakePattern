@@ -1,0 +1,4 @@
+/Script/EngineCameras.SimpleCameraShakePattern
+
+Duration (FloatProperty)
+BlendInTime (FloatProperty)

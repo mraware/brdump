@@ -1,0 +1,9 @@
+/Script/OptimusCore.OptimusKernelSource
+
+Source (StrProperty)
+EntryPoint (StrProperty)
+GroupSize (StructProperty)
+PermutationSet (StructProperty)
+DefinitionsSet (StructProperty)
+AdditionalSources (ArrayProperty)
+ExternalInputs (ArrayProperty)

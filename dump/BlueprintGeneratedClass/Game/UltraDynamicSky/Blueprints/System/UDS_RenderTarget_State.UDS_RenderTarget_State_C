@@ -1,0 +1,13 @@
+/Game/UltraDynamicSky/Blueprints/System/UDS_RenderTarget_State.UDS_RenderTarget_State_C
+
+Is Active (BoolProperty)
+Center Location (StructProperty)
+Size (DoubleProperty)
+Render Target (ObjectProperty)
+Buffer Target (ObjectProperty)
+Resolution (IntProperty)
+Half Size (DoubleProperty)
+Size to Res Ratio (DoubleProperty)
+Top Corner (StructProperty)
+Center 2D (StructProperty)
+Top Corner 2D (StructProperty)

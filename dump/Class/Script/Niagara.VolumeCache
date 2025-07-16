@@ -1,0 +1,6 @@
+/Script/Niagara.VolumeCache
+
+FilePath (StrProperty)
+CacheType (EnumProperty)
+Resolution (StructProperty)
+FrameRangeStart (IntProperty)

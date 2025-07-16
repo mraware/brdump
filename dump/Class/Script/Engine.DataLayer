@@ -1,0 +1,7 @@
+/Script/Engine.DataLayer
+
+DataLayerLabel (NameProperty)
+bIsRuntime (BoolProperty)
+InitialRuntimeState (EnumProperty)
+DebugColor (StructProperty)
+Parent (ObjectProperty)

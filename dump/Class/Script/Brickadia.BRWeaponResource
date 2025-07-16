@@ -1,0 +1,10 @@
+/Script/Brickadia.BRWeaponResource
+
+DisplayName (TextProperty)
+bPlayerHas (BoolProperty)
+PlayerMin (IntProperty)
+PlayerMax (IntProperty)
+PlayerStarting (IntProperty)
+PlayerPickupSound (ObjectProperty)
+ResourceUsageOverride (EnumProperty)
+HudIcon (ObjectProperty)

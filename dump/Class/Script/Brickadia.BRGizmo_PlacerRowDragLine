@@ -1,0 +1,16 @@
+/Script/Brickadia.BRGizmo_PlacerRowDragLine
+
+ScreenSpaceIndicatorSize (FloatProperty)
+ScreenSpaceAxisLineThickness (FloatProperty)
+SizeTextActorClass (ClassProperty)
+AxisLineElement (ObjectProperty)
+OriginIndicatorElement (ObjectProperty)
+OriginIndicatorElementContainer (ObjectProperty)
+StartIndicatorElement (ObjectProperty)
+StartIndicatorElementContainer (ObjectProperty)
+EndIndicatorElement (ObjectProperty)
+EndIndicatorElementContainer (ObjectProperty)
+SizeTextActor (ObjectProperty)
+ActiveTarget (ObjectProperty)
+GizmoElementRoot (ObjectProperty)
+HitTarget (ObjectProperty)

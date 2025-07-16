@@ -2,3 +2,4 @@
 
 EnumType (ObjectProperty)
 EnumName (StrProperty)
+DefaultValue (ByteProperty)

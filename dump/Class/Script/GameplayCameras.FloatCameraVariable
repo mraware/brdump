@@ -1,0 +1,6 @@
+/Script/GameplayCameras.FloatCameraVariable
+
+DefaultValue (FloatProperty)
+bAutoReset (BoolProperty)
+bIsPrivate (BoolProperty)
+bIsInput (BoolProperty)

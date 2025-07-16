@@ -1,0 +1,6 @@
+/Script/Niagara.NiagaraAssetTagDefinitions
+
+DisplayName (TextProperty)
+Description (TextProperty)
+TagDefinitions (ArrayProperty)
+bDisplayTagsAsFlatList (BoolProperty)

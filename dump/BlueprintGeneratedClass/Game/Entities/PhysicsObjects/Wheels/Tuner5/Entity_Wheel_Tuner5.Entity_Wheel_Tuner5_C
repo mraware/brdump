@@ -1,0 +1,9 @@
+/Game/Entities/PhysicsObjects/Wheels/Tuner5/Entity_Wheel_Tuner5.Entity_Wheel_Tuner5_C
+
+ActorClass (ClassProperty)
+PreviewMesh (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+CatalogData (StructProperty)
+CurrentVersion (IntProperty)
+bPlayerPlaceable (BoolProperty)

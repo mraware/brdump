@@ -1,0 +1,5 @@
+/Script/GameplayCameras.OffsetCameraNode
+
+TranslationOffset (StructProperty)
+RotationOffset (StructProperty)
+OffsetSpace (EnumProperty)

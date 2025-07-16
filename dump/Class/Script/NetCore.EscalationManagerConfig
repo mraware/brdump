@@ -1,0 +1,4 @@
+/Script/NetCore.EscalationManagerConfig
+
+EscalationSeverity (ArrayProperty)
+PerObjectConfigSection (StrProperty)

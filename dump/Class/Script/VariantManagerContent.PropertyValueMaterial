@@ -1,0 +1,11 @@
+/Script/VariantManagerContent.PropertyValueMaterial
+
+Properties (ArrayProperty)
+PropertyIndices (ArrayProperty)
+CapturedPropSegments (ArrayProperty)
+FullDisplayString (StrProperty)
+PropertySetterName (NameProperty)
+PropertySetterParameterDefaults (MapProperty)
+bHasRecordedData (BoolProperty)
+LeafPropertyClass (ClassProperty)
+ValueBytes (ArrayProperty)

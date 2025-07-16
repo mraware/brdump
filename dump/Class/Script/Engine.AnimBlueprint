@@ -2,8 +2,10 @@
 
 TargetSkeleton (ObjectProperty)
 Groups (ArrayProperty)
+bIsTemplate (BoolProperty)
 bUseMultiThreadedAnimationUpdate (BoolProperty)
 bWarnAboutBlueprintUsage (BoolProperty)
+bEnableLinkedAnimLayerInstanceSharing (BoolProperty)
 ParentClass (ClassProperty)
 BlueprintType (ByteProperty)
 bRecompileOnLoad (BoolProperty)

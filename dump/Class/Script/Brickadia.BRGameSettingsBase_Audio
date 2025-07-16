@@ -1,0 +1,4 @@
+/Script/Brickadia.BRGameSettingsBase_Audio
+
+BackgroundMusicMode (EnumProperty)
+OnSettingsLiveChanged (MulticastInlineDelegateProperty)

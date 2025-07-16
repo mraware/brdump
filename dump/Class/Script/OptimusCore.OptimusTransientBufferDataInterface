@@ -1,0 +1,6 @@
+/Script/OptimusCore.OptimusTransientBufferDataInterface
+
+bZeroInitForAtomicWrites (BoolProperty)
+ValueType (StructProperty)
+DataDomain (StructProperty)
+ComponentSourceBinding (WeakObjectProperty)

@@ -1,0 +1,11 @@
+/Script/LiveLinkInterface.LiveLinkSubjectSettings
+
+PreProcessors (ArrayProperty)
+InterpolationProcessor (ObjectProperty)
+Translators (ArrayProperty)
+Remapper (ObjectProperty)
+Role (ClassProperty)
+FrameRate (StructProperty)
+bAllowModifyingRebroadcast (BoolProperty)
+bRebroadcastSubject (BoolProperty)
+OriginalSourceName (NameProperty)

@@ -1,0 +1,7 @@
+/Script/Niagara.NiagaraStatelessModule_ScaleSpriteSizeBySpeed
+
+VelocityThreshold (StructProperty)
+MinScaleFactor (StructProperty)
+MaxScaleFactor (StructProperty)
+bSampleScaleFactorByCurve (BoolProperty)
+SampleFactorCurve (StructProperty)

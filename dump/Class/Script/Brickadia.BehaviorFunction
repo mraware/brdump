@@ -1,7 +1,0 @@
-/Script/Brickadia.BehaviorFunction
-
-ReturnValueInfo (StructProperty)
-FunctionName (StrProperty)
-ActionList (ArrayProperty)
-VariableList (ArrayProperty)
-NumArguments (IntProperty)

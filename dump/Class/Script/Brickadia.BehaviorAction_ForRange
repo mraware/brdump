@@ -1,6 +1,0 @@
-/Script/Brickadia.BehaviorAction_ForRange
-
-IteratorVar (StructProperty)
-FirstInRange (ObjectProperty)
-LastInRange (ObjectProperty)
-Children (ArrayProperty)

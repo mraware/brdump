@@ -1,0 +1,6 @@
+/Script/MassEntity.MassProcessor
+
+ExecutionOrder (StructProperty)
+ProcessingPhase (EnumProperty)
+ExecutionFlags (ByteProperty)
+bAutoRegisterWithProcessingPhases (BoolProperty)

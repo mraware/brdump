@@ -1,0 +1,9 @@
+/Script/RigVM.RigVM
+
+LiteralMemoryStorage (StructProperty)
+DefaultWorkMemoryStorage (StructProperty)
+DefaultDebugMemoryStorage (StructProperty)
+ByteCodeStorage (StructProperty)
+Instructions (StructProperty)
+FunctionNamesStorage (ArrayProperty)
+Parameters (ArrayProperty)

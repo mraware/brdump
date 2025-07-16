@@ -1,0 +1,8 @@
+/Script/GameplayCameras.OcclusionMaterialCameraNode
+
+OcclusionTransparencyMaterial (ObjectProperty)
+OcclusionSphereRadius (StructProperty)
+OcclusionChannel (ByteProperty)
+OcclusionTargetPosition (EnumProperty)
+OcclusionTargetOffsetSpace (EnumProperty)
+OcclusionTargetOffset (StructProperty)

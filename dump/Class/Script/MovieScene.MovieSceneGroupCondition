@@ -1,0 +1,5 @@
+/Script/MovieScene.MovieSceneGroupCondition
+
+Operator (EnumProperty)
+SubConditions (ArrayProperty)
+bInvert (BoolProperty)

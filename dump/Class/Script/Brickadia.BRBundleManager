@@ -1,0 +1,9 @@
+/Script/Brickadia.BRBundleManager
+
+WorldBundle (ObjectProperty)
+PendingWorldBundle (ObjectProperty)
+OpenBundles (MapProperty)
+LocalListingProvider (InterfaceProperty)
+GalleryListingProvider (InterfaceProperty)
+LocalPrefabListingProvider (InterfaceProperty)
+GalleryDownloadsListingProvider (InterfaceProperty)

@@ -1,0 +1,4 @@
+/Script/InteractiveToolsFramework.GizmoElementHitTarget
+
+GizmoElement (ObjectProperty)
+GizmoViewContext (ObjectProperty)

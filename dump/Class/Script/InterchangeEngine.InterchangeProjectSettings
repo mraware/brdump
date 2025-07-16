@@ -1,0 +1,8 @@
+/Script/InterchangeEngine.InterchangeProjectSettings
+
+ContentImportSettings (StructProperty)
+SceneImportSettings (StructProperty)
+FilePickerClass (SoftClassProperty)
+bStaticMeshUseSmoothEdgesIfSmoothingInformationIsMissing (BoolProperty)
+GenericPipelineClass (SoftClassProperty)
+ConverterDefaultPipeline (StructProperty)

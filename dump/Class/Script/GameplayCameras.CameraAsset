@@ -1,0 +1,6 @@
+/Script/GameplayCameras.CameraAsset
+
+CameraDirector (ObjectProperty)
+CameraRigs (ArrayProperty)
+EnterTransitions (ArrayProperty)
+ExitTransitions (ArrayProperty)

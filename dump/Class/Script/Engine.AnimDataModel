@@ -1,0 +1,11 @@
+/Script/Engine.AnimDataModel
+
+BracketCounter (IntProperty)
+ModifiedEventDynamic (MulticastInlineDelegateProperty)
+BoneAnimationTracks (ArrayProperty)
+PlayLength (FloatProperty)
+FrameRate (StructProperty)
+NumberOfFrames (IntProperty)
+NumberOfKeys (IntProperty)
+CurveData (StructProperty)
+AnimatedBoneAttributes (ArrayProperty)

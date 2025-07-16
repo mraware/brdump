@@ -1,0 +1,7 @@
+/Script/AudioMixer.AudioDeviceNotificationSubsystem
+
+DefaultCaptureDeviceChanged (MulticastInlineDelegateProperty)
+DefaultRenderDeviceChanged (MulticastInlineDelegateProperty)
+DeviceAdded (MulticastInlineDelegateProperty)
+DeviceRemoved (MulticastInlineDelegateProperty)
+DeviceStateChanged (MulticastInlineDelegateProperty)

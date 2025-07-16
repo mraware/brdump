@@ -1,0 +1,4 @@
+/Script/GameplayCameras.TargetRayCastCameraNode
+
+TraceChannel (ByteProperty)
+AutoFocus (StructProperty)

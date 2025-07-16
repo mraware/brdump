@@ -1,0 +1,18 @@
+/Script/ControlRig.ControlRigAnimInstance
+
+CurrentSkeleton (ObjectProperty)
+RootMotionMode (ByteProperty)
+bUseMultiThreadedAnimationUpdate (BoolProperty)
+bUsingCopyPoseFromMesh (BoolProperty)
+bReceiveNotifiesFromLinkedInstances (BoolProperty)
+bPropagateNotifiesToLinkedInstances (BoolProperty)
+bUseMainInstanceMontageEvaluationData (BoolProperty)
+bQueueMontageEvents (BoolProperty)
+OnMontageBlendingOut (MulticastInlineDelegateProperty)
+OnMontageBlendedIn (MulticastInlineDelegateProperty)
+OnMontageStarted (MulticastInlineDelegateProperty)
+OnMontageEnded (MulticastInlineDelegateProperty)
+OnAllMontageInstancesEnded (MulticastInlineDelegateProperty)
+SlotGroupInertializationRequestDataMap (MapProperty)
+NotifyQueue (StructProperty)
+ActiveAnimNotifyState (ArrayProperty)

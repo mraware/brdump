@@ -1,0 +1,6 @@
+/Script/VariantManagerContent.VariantObjectBinding
+
+CachedActorLabel (StrProperty)
+ObjectPtr (StructProperty)
+LazyObjectPtr (LazyObjectProperty)
+CapturedProperties (ArrayProperty)

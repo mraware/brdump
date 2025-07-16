@@ -1,6 +1,6 @@
 /Script/Niagara.NiagaraParameterCollection
 
-Namespace (NameProperty)
+NameSpace (NameProperty)
 Parameters (ArrayProperty)
 SourceMaterialCollection (ObjectProperty)
 DefaultInstance (ObjectProperty)

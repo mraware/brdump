@@ -1,0 +1,7 @@
+/Script/LiveLinkInterface.LiveLinkCurveRemapSettings
+
+CurveConversionSettings (StructProperty)
+Mode (EnumProperty)
+BufferSettings (StructProperty)
+ConnectionString (StrProperty)
+Factory (ClassProperty)

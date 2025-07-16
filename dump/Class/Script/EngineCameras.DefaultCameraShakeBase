@@ -1,0 +1,5 @@
+/Script/EngineCameras.DefaultCameraShakeBase
+
+bSingleInstance (BoolProperty)
+ShakeScale (FloatProperty)
+RootShakePattern (ObjectProperty)

@@ -1,4 +1,5 @@
 /Script/Brickadia.BRWeaponStateBehavior_Reloading
 
 ReloadTime (FloatProperty)
-ReloadAmount (IntProperty)
+LegacyAmmoReloadAmount (IntProperty)
+bReloadEmptiesLegacyMagazine (BoolProperty)

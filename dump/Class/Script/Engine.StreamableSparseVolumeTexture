@@ -1,0 +1,18 @@
+/Script/Engine.StreamableSparseVolumeTexture
+
+VolumeResolution (StructProperty)
+NumMipLevels (IntProperty)
+NumFrames (IntProperty)
+FormatA (ByteProperty)
+FormatB (ByteProperty)
+FallbackValueA (StructProperty)
+FallbackValueB (StructProperty)
+AddressX (ByteProperty)
+AddressY (ByteProperty)
+AddressZ (ByteProperty)
+bLocalDDCOnly (BoolProperty)
+StreamingPoolSizeFactor (FloatProperty)
+NumberOfPrefetchFrames (IntProperty)
+PrefetchPercentageStepSize (FloatProperty)
+PrefetchPercentageBias (FloatProperty)
+AssetUserData (ArrayProperty)

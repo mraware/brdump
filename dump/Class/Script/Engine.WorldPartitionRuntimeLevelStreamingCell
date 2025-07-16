@@ -1,0 +1,12 @@
+/Script/Engine.WorldPartitionRuntimeLevelStreamingCell
+
+LevelStreaming (ObjectProperty)
+bIsAlwaysLoaded (BoolProperty)
+DataLayers (StructProperty)
+bClientOnlyVisible (BoolProperty)
+bIsHLOD (BoolProperty)
+bBlockOnSlowLoading (BoolProperty)
+ContentBundleID (StructProperty)
+CellDebugColor (StructProperty)
+CellGuid (StructProperty)
+SourceCellGuid (StructProperty)

@@ -1,0 +1,10 @@
+/Script/Brickadia.BRRegistry
+
+CachedGlobalBrickGridActor (ObjectProperty)
+CachedGlobalBrickGrid (ObjectProperty)
+MaterialCollections (ArrayProperty)
+BrickAssetNetworkLookup (ArrayProperty)
+ComponentTypes (ArrayProperty)
+AllReplicationClients (ArrayProperty)
+AllPlayerControllers (ArrayProperty)
+EntityTypes (ArrayProperty)

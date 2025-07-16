@@ -1,0 +1,11 @@
+/Script/Brickadia.BREmote
+
+AnimMontage (ObjectProperty)
+Icon (ObjectProperty)
+DisplayText (TextProperty)
+CameraOffset (StructProperty)
+IsPriorityEmote (BoolProperty)
+CancelByMovement (BoolProperty)
+OnlyThirdPerson (BoolProperty)
+bCanUseWithItems (BoolProperty)
+bHideInList (BoolProperty)

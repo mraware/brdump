@@ -1,0 +1,4 @@
+/Script/GameplayCameras.AttachToPlayerPawnCameraNode
+
+AttachToLocation (StructProperty)
+AttachToRotation (StructProperty)

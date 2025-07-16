@@ -1,6 +1,6 @@
 /Script/AIModule.BTDecorator_KeepInCone
 
-ConeHalfAngle (FloatProperty)
+ConeHalfAngle (StructProperty)
 ConeOrigin (StructProperty)
 Observed (StructProperty)
 bUseSelfAsOrigin (BoolProperty)

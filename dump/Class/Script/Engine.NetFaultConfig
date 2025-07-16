@@ -1,0 +1,4 @@
+/Script/Engine.NetFaultConfig
+
+EscalationSeverity (ArrayProperty)
+PerObjectConfigSection (StrProperty)

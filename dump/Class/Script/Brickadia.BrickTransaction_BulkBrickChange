@@ -1,8 +1,0 @@
-/Script/Brickadia.BrickTransaction_BulkBrickChange
-
-BrickPersistentHandles (ArrayProperty)
-NumBricksChanged (IntProperty)
-NumBricksSkipped (IntProperty)
-NumBricksUntrusted (IntProperty)
-NumBricksNotFound (IntProperty)
-SavedIndex (IntProperty)

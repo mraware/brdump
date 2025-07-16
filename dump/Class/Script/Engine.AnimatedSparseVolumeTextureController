@@ -1,0 +1,7 @@
+/Script/Engine.AnimatedSparseVolumeTextureController
+
+SparseVolumeTexture (ObjectProperty)
+Time (FloatProperty)
+bIsPlaying (BoolProperty)
+FrameRate (FloatProperty)
+MipLevel (IntProperty)

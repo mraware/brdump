@@ -1,0 +1,8 @@
+/Script/Brickadia.BRInteractiveToolsContext
+
+GizmoManagerComponent (ObjectProperty)
+InputRouter (ObjectProperty)
+TargetManager (ObjectProperty)
+ToolManager (ObjectProperty)
+GizmoManager (ObjectProperty)
+ContextObjectStore (ObjectProperty)

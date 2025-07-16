@@ -3,7 +3,6 @@
 ListenerDataType (ClassProperty)
 ListenerContainer (ArrayProperty)
 UnprocessedEvents (ArrayProperty)
-DefaultExpirationAge (FloatProperty)
 NotifyType (EnumProperty)
 bWantsNewPawnNotification (BoolProperty)
 bAutoRegisterAllPawnsAsSources (BoolProperty)

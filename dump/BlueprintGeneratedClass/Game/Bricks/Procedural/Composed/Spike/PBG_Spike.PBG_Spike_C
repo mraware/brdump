@@ -1,0 +1,15 @@
+/Game/Bricks/Procedural/Composed/Spike/PBG_Spike.PBG_Spike_C
+
+DisplayName (TextProperty)
+Category (TextProperty)
+Tab (TextProperty)
+Summary (TextProperty)
+OverridePlacementModeName (NameProperty)
+Layers (ArrayProperty)
+NameStyle (EnumProperty)
+bMultipleCategories (BoolProperty)
+NameBaseSize (StructProperty)
+bHasNameBaseSize (BoolProperty)
+GeneratedSizeMin (StructProperty)
+GeneratedSizeMax (StructProperty)
+GeneratedSizeStep (StructProperty)

@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/PDL_Component_CheckPoint.PDL_Component_CheckPoint_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

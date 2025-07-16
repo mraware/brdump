@@ -1,0 +1,9 @@
+/Script/EnhancedInput.InputTriggerPulse
+
+bTriggerOnStart (BoolProperty)
+Interval (FloatProperty)
+TriggerLimit (IntProperty)
+HeldDuration (FloatProperty)
+bAffectedByTimeDilation (BoolProperty)
+ActuationThreshold (FloatProperty)
+bShouldAlwaysTick (BoolProperty)

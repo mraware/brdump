@@ -1,6 +1,9 @@
 /Script/Engine.MaterialFunction
 
 Description (StrProperty)
+UserExposedCaption (StrProperty)
 bExposeToLibrary (BoolProperty)
 bPrefixParameterNames (BoolProperty)
+bEnableExecWire (BoolProperty)
+bEnableNewHLSLGenerator (BoolProperty)
 StateId (StructProperty)

@@ -2,9 +2,8 @@
 
 Size (StructProperty)
 MipMapGeneration (EnumProperty)
+MipMapGenerationType (EnumProperty)
 OverrideRenderTargetFormat (ByteProperty)
+OverrideRenderTargetFilter (ByteProperty)
 bInheritUserParameterSettings (BoolProperty)
 bOverrideFormat (BoolProperty)
-RenderTargetUserParameter (StructProperty)
-ManagedRenderTargets (MapProperty)
-OutputShaderStages (SetProperty)

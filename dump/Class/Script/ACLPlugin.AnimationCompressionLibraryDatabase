@@ -1,0 +1,5 @@
+/Script/ACLPlugin.AnimationCompressionLibraryDatabase
+
+CookedCompressedBytes (ArrayProperty)
+CookedAnimSequenceMappings (ArrayProperty)
+MaxStreamRequestSizeKB (UInt32Property)

@@ -1,0 +1,12 @@
+/Script/MovieSceneTracks.MovieSceneRotatorTrack
+
+SectionToKey (ObjectProperty)
+PropertyBinding (StructProperty)
+Sections (ArrayProperty)
+EvalOptions (StructProperty)
+ConditionContainer (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)
+TrackRowMetadata (MapProperty)

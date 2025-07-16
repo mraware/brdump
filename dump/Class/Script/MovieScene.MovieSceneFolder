@@ -2,4 +2,4 @@
 
 FolderName (NameProperty)
 ChildFolders (ArrayProperty)
-ChildMasterTracks (ArrayProperty)
+ChildTracks (ArrayProperty)

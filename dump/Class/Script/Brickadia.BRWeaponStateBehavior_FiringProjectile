@@ -1,7 +1,9 @@
 /Script/Brickadia.BRWeaponStateBehavior_FiringProjectile
 
 ProjectileClass (ClassProperty)
+bApplyHomingTarget (BoolProperty)
 MuzzleSocket (NameProperty)
 NumberOfShots (IntProperty)
-AmmoToSubtract (IntProperty)
+LegacyAmmoToSubtract (IntProperty)
 SpreadConeAngle (FloatProperty)
+bSpreadBiasedTowardsCenter (BoolProperty)

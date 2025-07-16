@@ -1,0 +1,5 @@
+/Game/Entities/PhysicsObjects/PDL_Wheel.PDL_Wheel_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

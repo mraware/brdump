@@ -1,0 +1,11 @@
+/Script/Niagara.NiagaraStatelessModule_InitializeParticle
+
+LifetimeDistribution (StructProperty)
+ColorDistribution (StructProperty)
+MassDistribution (StructProperty)
+SpriteSizeDistribution (StructProperty)
+SpriteRotationDistribution (StructProperty)
+MeshScaleDistribution (StructProperty)
+bWriteRibbonWidth (BoolProperty)
+RibbonWidthDistribution (StructProperty)
+InitialPositionDistribution (StructProperty)

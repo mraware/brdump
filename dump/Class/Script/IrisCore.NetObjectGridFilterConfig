@@ -1,0 +1,9 @@
+/Script/IrisCore.NetObjectGridFilterConfig
+
+ViewPosRelevancyFrameCount (UInt32Property)
+DefaultFrameCountBeforeCulling (UInt16Property)
+CellSizeX (FloatProperty)
+CellSizeY (FloatProperty)
+MaxCullDistance (FloatProperty)
+DefaultCullDistance (FloatProperty)
+bUseExactCullDistance (BoolProperty)

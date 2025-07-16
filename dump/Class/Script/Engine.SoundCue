@@ -1,15 +1,15 @@
 /Script/Engine.SoundCue
 
-bPrimeOnLoad (BoolProperty)
 FirstNode (ObjectProperty)
 VolumeMultiplier (FloatProperty)
 PitchMultiplier (FloatProperty)
 AttenuationOverrides (StructProperty)
 SubtitlePriority (FloatProperty)
+bPrimeOnLoad (BoolProperty)
 bOverrideAttenuation (BoolProperty)
 bExcludeFromRandomNodeBranchCulling (BoolProperty)
-CookedQualityIndex (IntProperty)
 bHasPlayWhenSilent (BoolProperty)
+CookedQualityIndex (IntProperty)
 SoundClassObject (ObjectProperty)
 bDebug (BoolProperty)
 bOverrideConcurrency (BoolProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.DataLayerAsset
+
+DataLayerType (EnumProperty)
+bSupportsActorFilters (BoolProperty)
+DebugColor (StructProperty)
+LoadFilter (EnumProperty)

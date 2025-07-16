@@ -1,6 +1,7 @@
 /Script/AIModule.BTService_RunEQS
 
 EQSRequest (StructProperty)
+bUpdateBBOnFail (BoolProperty)
 BlackboardKey (StructProperty)
 Interval (FloatProperty)
 RandomDeviation (FloatProperty)

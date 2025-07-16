@@ -3,3 +3,4 @@
 OptionName (StrProperty)
 ItemType (ClassProperty)
 bAutoSortTests (BoolProperty)
+bCanRunAsync (BoolProperty)

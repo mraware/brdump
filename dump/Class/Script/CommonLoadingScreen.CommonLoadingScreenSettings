@@ -1,0 +1,10 @@
+/Script/CommonLoadingScreen.CommonLoadingScreenSettings
+
+LoadingScreenWidget (StructProperty)
+LoadingScreenZOrder (IntProperty)
+HoldLoadingScreenAdditionalSecs (FloatProperty)
+LoadingScreenHeartbeatHangDuration (FloatProperty)
+LogLoadingScreenHeartbeatInterval (FloatProperty)
+LogLoadingScreenReasonEveryFrame (BoolProperty)
+ForceLoadingScreenVisible (BoolProperty)
+HoldLoadingScreenAdditionalSecsEvenInEditor (BoolProperty)

@@ -2,7 +2,8 @@
 
 Notifies (ArrayProperty)
 SequenceLength (FloatProperty)
-RateScale (FloatProperty)
 RawCurveData (StructProperty)
+RateScale (FloatProperty)
+bLoop (BoolProperty)
 Skeleton (ObjectProperty)
 MetaData (ArrayProperty)

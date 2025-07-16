@@ -1,0 +1,14 @@
+/Script/Niagara.NiagaraStatelessModule_AddVelocity
+
+VelocityType (EnumProperty)
+LinearVelocityDistribution (StructProperty)
+LinearVelocityScale (FloatProperty)
+ConeVelocityDistribution (StructProperty)
+ConeRotation (StructProperty)
+ConeAngle (FloatProperty)
+InnerCone (FloatProperty)
+PointVelocityDistribution (StructProperty)
+PointOrigin (StructProperty)
+bSpeedFalloffFromConeAxisEnabled (BoolProperty)
+SpeedFalloffFromConeAxis (FloatProperty)
+CoordinateSpace (EnumProperty)

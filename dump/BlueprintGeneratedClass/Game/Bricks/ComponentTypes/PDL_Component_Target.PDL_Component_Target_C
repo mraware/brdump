@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/PDL_Component_Target.PDL_Component_Target_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

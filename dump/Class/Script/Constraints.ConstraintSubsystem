@@ -1,0 +1,4 @@
+/Script/Constraints.ConstraintSubsystem
+
+OnConstraintAddedToSystem_BP (MulticastSparseDelegateProperty)
+OnConstraintRemovedFromSystem_BP (MulticastSparseDelegateProperty)

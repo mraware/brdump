@@ -1,0 +1,4 @@
+/Script/EnhancedInput.InputTriggerDown
+
+ActuationThreshold (FloatProperty)
+bShouldAlwaysTick (BoolProperty)

@@ -1,0 +1,6 @@
+/Script/ControlRig.ControlRigShapeLibrary
+
+DefaultShape (StructProperty)
+DefaultMaterial (SoftObjectProperty)
+XRayMaterial (SoftObjectProperty)
+MaterialColorParameter (NameProperty)

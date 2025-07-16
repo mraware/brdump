@@ -1,0 +1,8 @@
+/Script/MassEntity.MassCompositeProcessor
+
+ChildPipeline (StructProperty)
+GroupName (NameProperty)
+ExecutionOrder (StructProperty)
+ProcessingPhase (EnumProperty)
+ExecutionFlags (ByteProperty)
+bAutoRegisterWithProcessingPhases (BoolProperty)

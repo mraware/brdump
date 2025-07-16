@@ -1,0 +1,5 @@
+/Game/Weapons/Melee/Sabre/WeaponStateBehavior_SabreCharge.WeaponStateBehavior_SabreCharge_C
+
+ImpulseGrounded (StructProperty)
+ImpulseAirborne (StructProperty)
+bAdvanceStateCallbackRequired (BoolProperty)

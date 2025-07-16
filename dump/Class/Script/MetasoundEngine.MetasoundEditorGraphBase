@@ -1,0 +1,6 @@
+/Script/MetasoundEngine.MetasoundEditorGraphBase
+
+Schema (ClassProperty)
+Nodes (ArrayProperty)
+bEditable (BoolProperty)
+bAllowDeletion (BoolProperty)

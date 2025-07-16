@@ -1,0 +1,15 @@
+/Script/GameplayCameras.InputAxisBinding2DCameraNode
+
+AxisActions (ArrayProperty)
+RevertAxisX (StructProperty)
+RevertAxisY (StructProperty)
+Multiplier (StructProperty)
+InputSlotParameters (StructProperty)
+ClampX (StructProperty)
+ClampY (StructProperty)
+NormalizeX (StructProperty)
+NormalizeY (StructProperty)
+BuiltInVariable (EnumProperty)
+CustomVariable (StructProperty)
+TransientVariableID (StructProperty)
+VariableID (StructProperty)

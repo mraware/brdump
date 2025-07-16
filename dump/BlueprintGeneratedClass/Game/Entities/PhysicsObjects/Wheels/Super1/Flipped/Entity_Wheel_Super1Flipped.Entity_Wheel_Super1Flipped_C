@@ -1,0 +1,9 @@
+/Game/Entities/PhysicsObjects/Wheels/Super1/Flipped/Entity_Wheel_Super1Flipped.Entity_Wheel_Super1Flipped_C
+
+ActorClass (ClassProperty)
+PreviewMesh (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+CatalogData (StructProperty)
+CurrentVersion (IntProperty)
+bPlayerPlaceable (BoolProperty)

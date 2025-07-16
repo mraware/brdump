@@ -1,0 +1,6 @@
+/Script/AudioSynesthesia.SynesthesiaSpectrumAnalysisSettings
+
+AnalysisPeriod (FloatProperty)
+FFTSize (EnumProperty)
+SpectrumType (EnumProperty)
+WindowType (EnumProperty)

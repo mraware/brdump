@@ -1,0 +1,18 @@
+/Script/GameplayCameras.CameraRigCameraNode
+
+CameraRigReference (StructProperty)
+CameraRig (ObjectProperty)
+BooleanOverrides (ArrayProperty)
+Integer32Overrides (ArrayProperty)
+FloatOverrides (ArrayProperty)
+DoubleOverrides (ArrayProperty)
+Vector2fOverrides (ArrayProperty)
+Vector2dOverrides (ArrayProperty)
+Vector3fOverrides (ArrayProperty)
+Vector3dOverrides (ArrayProperty)
+Vector4fOverrides (ArrayProperty)
+Vector4dOverrides (ArrayProperty)
+Rotator3fOverrides (ArrayProperty)
+Rotator3dOverrides (ArrayProperty)
+Transform3fOverrides (ArrayProperty)
+Transform3dOverrides (ArrayProperty)

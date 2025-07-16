@@ -1,0 +1,6 @@
+/Script/OptimusCore.OptimusNodeGraph
+
+GraphType (EnumProperty)
+Nodes (ArrayProperty)
+Links (ArrayProperty)
+NodePairs (ArrayProperty)

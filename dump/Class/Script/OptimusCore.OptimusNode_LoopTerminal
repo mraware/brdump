@@ -1,0 +1,11 @@
+/Script/OptimusCore.OptimusNode_LoopTerminal
+
+TerminalType (EnumProperty)
+LoopInfo (StructProperty)
+IndexPin (ObjectProperty)
+CountPin (ObjectProperty)
+PinPairInfos (ArrayProperty)
+DisplayName (TextProperty)
+GraphPosition (StructProperty)
+Pins (ArrayProperty)
+ExpandedPins (SetProperty)

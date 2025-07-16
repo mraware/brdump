@@ -1,0 +1,6 @@
+/Script/ComputeFramework.ComputeGraph
+
+KernelInvocations (ArrayProperty)
+DataInterfaces (ArrayProperty)
+GraphEdges (ArrayProperty)
+Bindings (ArrayProperty)

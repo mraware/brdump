@@ -1,8 +1,9 @@
 /Script/UMG.WrapBoxSlot
 
 Padding (StructProperty)
-bFillEmptySpace (BoolProperty)
 FillSpanWhenLessThan (FloatProperty)
 HorizontalAlignment (ByteProperty)
 VerticalAlignment (ByteProperty)
+bFillEmptySpace (BoolProperty)
+bForceNewLine (BoolProperty)
 Parent (ObjectProperty)

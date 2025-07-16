@@ -2,9 +2,10 @@
 
 AnimMontage (ObjectProperty)
 Icon (ObjectProperty)
-DisplayName (StrProperty)
+DisplayText (TextProperty)
 CameraOffset (StructProperty)
 IsPriorityEmote (BoolProperty)
 CancelByMovement (BoolProperty)
 OnlyThirdPerson (BoolProperty)
 bCanUseWithItems (BoolProperty)
+bHideInList (BoolProperty)

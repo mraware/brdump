@@ -2,8 +2,11 @@
 
 MPC (ObjectProperty)
 Sections (ArrayProperty)
+SectionToKey (ObjectProperty)
 EvalOptions (StructProperty)
+ConditionContainer (StructProperty)
 bIsEvalDisabled (BoolProperty)
 RowsDisabled (ArrayProperty)
 EvaluationFieldGuid (StructProperty)
 EvaluationField (StructProperty)
+TrackRowMetadata (MapProperty)

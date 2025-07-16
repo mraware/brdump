@@ -1,0 +1,7 @@
+/Script/LiveLink.LiveLinkCustomTimeStep
+
+LiveLinkDataRate (StructProperty)
+SubjectKey (StructProperty)
+bLockStepMode (BoolProperty)
+FrameRateDivider (UInt32Property)
+TimeoutInSeconds (DoubleProperty)

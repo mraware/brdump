@@ -1,0 +1,11 @@
+/Script/GameplayCameras.AutoRotateInput2DCameraNode
+
+Direction (EnumProperty)
+WaitTime (StructProperty)
+DeactivationThreshold (StructProperty)
+Interpolator (ObjectProperty)
+FreezeControlRotation (StructProperty)
+EnableAutoRotate (StructProperty)
+AutoRotateYaw (StructProperty)
+AutoRotatePitch (StructProperty)
+InputNode (ObjectProperty)

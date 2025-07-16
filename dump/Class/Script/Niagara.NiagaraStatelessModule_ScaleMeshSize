@@ -1,0 +1,4 @@
+/Script/Niagara.NiagaraStatelessModule_ScaleMeshSize
+
+ScaleDistribution (StructProperty)
+ScaleCurveRange (StructProperty)

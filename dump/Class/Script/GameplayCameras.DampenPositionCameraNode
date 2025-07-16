@@ -1,0 +1,6 @@
+/Script/GameplayCameras.DampenPositionCameraNode
+
+ForwardDampingFactor (StructProperty)
+LateralDampingFactor (StructProperty)
+VerticalDampingFactor (StructProperty)
+DampenSpace (EnumProperty)

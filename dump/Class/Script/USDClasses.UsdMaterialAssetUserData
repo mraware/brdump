@@ -1,0 +1,6 @@
+/Script/USDClasses.UsdMaterialAssetUserData
+
+ParameterToPrimvar (MapProperty)
+PrimvarToUVIndex (MapProperty)
+PrimPaths (ArrayProperty)
+StageIdentifierToMetadata (MapProperty)

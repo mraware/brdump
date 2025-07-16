@@ -1,0 +1,5 @@
+/Script/EnhancedInput.EnhancedPlayerMappableKeyProfile
+
+ProfileIdentifier (StructProperty)
+OwningUserId (StructProperty)
+DisplayName (TextProperty)

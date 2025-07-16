@@ -1,0 +1,4 @@
+/Script/Engine.ContentBundleDescriptor
+
+DisplayName (StrProperty)
+DebugColor (StructProperty)

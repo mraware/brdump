@@ -1,6 +1,6 @@
 /Script/AIModule.BTDecorator_ConeCheck
 
-ConeHalfAngle (FloatProperty)
+ConeHalfAngle (StructProperty)
 ConeOrigin (StructProperty)
 ConeDirection (StructProperty)
 Observed (StructProperty)

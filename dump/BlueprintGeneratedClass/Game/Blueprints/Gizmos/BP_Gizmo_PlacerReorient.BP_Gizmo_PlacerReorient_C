@@ -1,0 +1,15 @@
+/Game/Blueprints/Gizmos/BP_Gizmo_PlacerReorient.BP_Gizmo_PlacerReorient_C
+
+ScreenSpaceIndicatorHalfSize (FloatProperty)
+ScreenSpaceAxisIndicatorTailLength (FloatProperty)
+ScreenSpaceAxisIndicatorTailRadius (FloatProperty)
+ScreenSpaceAxisIndicatorConeLength (FloatProperty)
+ScreenSpaceAxisIndicatorConeRadius (FloatProperty)
+AxisTextOffset (StructProperty)
+AxisTextActorClass (ClassProperty)
+OriginIndicatorElement (ObjectProperty)
+DirectionIndicatorElement (ObjectProperty)
+AxisTextActor (ObjectProperty)
+ActiveTarget (ObjectProperty)
+GizmoElementRoot (ObjectProperty)
+HitTarget (ObjectProperty)

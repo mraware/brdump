@@ -1,0 +1,7 @@
+/Script/ControlRig.ControlRigTestData
+
+ControlRigObjectPath (StructProperty)
+Initial (StructProperty)
+InputFrames (ArrayProperty)
+OutputFrames (ArrayProperty)
+FramesToSkip (ArrayProperty)

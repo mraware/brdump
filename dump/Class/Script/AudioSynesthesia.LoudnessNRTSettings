@@ -1,0 +1,6 @@
+/Script/AudioSynesthesia.LoudnessNRTSettings
+
+AnalysisPeriod (FloatProperty)
+MinimumFrequency (FloatProperty)
+MaximumFrequency (FloatProperty)
+CurveType (EnumProperty)

@@ -1,0 +1,8 @@
+/Script/InterchangeMessages.InterchangeResultMeshWarning_TooManyUVs
+
+ExcessUVs (IntProperty)
+MeshName (StrProperty)
+SourceAssetName (StrProperty)
+DestinationAssetName (StrProperty)
+AssetFriendlyName (StrProperty)
+AssetType (ClassProperty)

@@ -1,4 +1,7 @@
 /Script/Brickadia.PlayerPartThumbnailProcessor
 
 PartComponent (ObjectProperty)
+PlaneMesh (ObjectProperty)
+GridMaterial (ObjectProperty)
+PlaneComponent (ObjectProperty)
 SkyTextureCube (ObjectProperty)

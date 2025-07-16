@@ -1,0 +1,18 @@
+/Script/LiveLink.LiveLinkSettings
+
+DefaultRoleSettings (ArrayProperty)
+DefaultSettingsClass (StructProperty)
+FrameInterpolationProcessor (ClassProperty)
+DefaultLiveLinkPreset (SoftObjectProperty)
+ClockOffsetCorrectionStep (FloatProperty)
+DefaultMessageBusSourceMode (EnumProperty)
+MessageBusPingRequestFrequency (DoubleProperty)
+MessageBusHeartbeatFrequency (DoubleProperty)
+MessageBusHeartbeatTimeout (DoubleProperty)
+MessageBusTimeBeforeRemovingInactiveSource (DoubleProperty)
+bPreProcessRebroadcastFrames (BoolProperty)
+bTranslateRebroadcastFrames (BoolProperty)
+TimeWithoutFrameToBeConsiderAsInvalid (DoubleProperty)
+ValidColor (StructProperty)
+InvalidColor (StructProperty)
+TextSizeSource (ByteProperty)

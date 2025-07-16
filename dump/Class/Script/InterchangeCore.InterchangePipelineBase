@@ -1,0 +1,7 @@
+/Script/InterchangeCore.InterchangePipelineBase
+
+DestinationName (StrProperty)
+ContentImportPath (StrProperty)
+ReimportLevel (StructProperty)
+bFromReimportOrOverride (BoolProperty)
+Results (ObjectProperty)

@@ -1,0 +1,13 @@
+/Script/IrisCore.FieldOfViewNetObjectPrioritizerConfig
+
+InnerSphereRadius (FloatProperty)
+InnerSpherePriority (FloatProperty)
+OuterSphereRadius (FloatProperty)
+OuterSpherePriority (FloatProperty)
+ConeFieldOfViewDegrees (FloatProperty)
+InnerConeLength (FloatProperty)
+ConeLength (FloatProperty)
+MinConePriority (FloatProperty)
+MaxConePriority (FloatProperty)
+LineOfSightWidth (FloatProperty)
+LineOfSightPriority (FloatProperty)

@@ -1,0 +1,8 @@
+/Script/GameplayCameras.FilmbackCameraNode
+
+SensorWidth (StructProperty)
+SensorHeight (StructProperty)
+ISO (StructProperty)
+ConstrainAspectRatio (StructProperty)
+OverrideAspectRatioAxisConstraint (StructProperty)
+AspectRatioAxisConstraint (ByteProperty)

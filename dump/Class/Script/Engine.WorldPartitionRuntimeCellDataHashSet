@@ -1,0 +1,7 @@
+/Script/Engine.WorldPartitionRuntimeCellDataHashSet
+
+bIs2D (BoolProperty)
+ContentBounds (StructProperty)
+CellBounds (OptionalProperty)
+GridName (NameProperty)
+Priority (IntProperty)

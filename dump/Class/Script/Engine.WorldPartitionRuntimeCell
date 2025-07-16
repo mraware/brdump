@@ -1,0 +1,11 @@
+/Script/Engine.WorldPartitionRuntimeCell
+
+bIsAlwaysLoaded (BoolProperty)
+DataLayers (StructProperty)
+bClientOnlyVisible (BoolProperty)
+bIsHLOD (BoolProperty)
+bBlockOnSlowLoading (BoolProperty)
+ContentBundleID (StructProperty)
+CellDebugColor (StructProperty)
+CellGuid (StructProperty)
+SourceCellGuid (StructProperty)

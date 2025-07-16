@@ -1,0 +1,6 @@
+/Script/IrisCore.SphereNetObjectPrioritizerConfig
+
+InnerRadius (FloatProperty)
+OuterRadius (FloatProperty)
+InnerPriority (FloatProperty)
+OuterPriority (FloatProperty)

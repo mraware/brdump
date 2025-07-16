@@ -1,9 +1,0 @@
-/Script/Engine.CameraAnim
-
-CameraInterpGroup (ObjectProperty)
-AnimLength (FloatProperty)
-BoundingBox (StructProperty)
-bRelativeToInitialTransform (BoolProperty)
-bRelativeToInitialFOV (BoolProperty)
-BaseFOV (FloatProperty)
-BasePostProcessSettings (StructProperty)

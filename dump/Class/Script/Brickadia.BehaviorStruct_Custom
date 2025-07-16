@@ -1,6 +1,0 @@
-/Script/Brickadia.BehaviorStruct_Custom
-
-StructInternalName (NameProperty)
-StructDisplayName (TextProperty)
-StructDescription (TextProperty)
-bIsAdvanced (BoolProperty)

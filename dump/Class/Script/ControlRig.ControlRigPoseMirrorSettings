@@ -1,0 +1,5 @@
+/Script/ControlRig.ControlRigPoseMirrorSettings
+
+RightSide (StrProperty)
+LeftSide (StrProperty)
+MirrorAxis (ByteProperty)

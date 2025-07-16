@@ -1,3 +1,4 @@
 /Script/Engine.BlendProfile
 
 OwningSkeleton (ObjectProperty)
+ProfileEntries (ArrayProperty)

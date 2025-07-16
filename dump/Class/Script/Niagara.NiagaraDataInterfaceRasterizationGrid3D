@@ -1,0 +1,10 @@
+/Script/Niagara.NiagaraDataInterfaceRasterizationGrid3D
+
+NumAttributes (IntProperty)
+Precision (FloatProperty)
+ResetValue (IntProperty)
+ClearBeforeNonIterationStage (BoolProperty)
+NumCells (StructProperty)
+CellSize (FloatProperty)
+NumCellsMaxAxis (IntProperty)
+SetResolutionMethod (EnumProperty)

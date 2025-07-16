@@ -1,0 +1,7 @@
+/Script/LiveLink.LiveLinkTimecodeProvider
+
+SubjectKey (StructProperty)
+Evaluation (EnumProperty)
+bOverrideFrameRate (BoolProperty)
+OverrideFrameRate (StructProperty)
+BufferSize (IntProperty)

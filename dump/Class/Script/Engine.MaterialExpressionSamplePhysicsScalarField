@@ -1,6 +1,0 @@
-/Script/Engine.MaterialExpressionSamplePhysicsScalarField
-
-WorldPosition (StructProperty)
-FieldTarget (ByteProperty)
-Material (ObjectProperty)
-Function (ObjectProperty)

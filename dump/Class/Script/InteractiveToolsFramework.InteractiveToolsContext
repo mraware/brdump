@@ -1,5 +1,7 @@
 /Script/InteractiveToolsFramework.InteractiveToolsContext
 
 InputRouter (ObjectProperty)
+TargetManager (ObjectProperty)
 ToolManager (ObjectProperty)
 GizmoManager (ObjectProperty)
+ContextObjectStore (ObjectProperty)

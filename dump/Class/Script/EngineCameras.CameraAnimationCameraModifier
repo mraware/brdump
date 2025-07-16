@@ -1,0 +1,10 @@
+/Script/EngineCameras.CameraAnimationCameraModifier
+
+ActiveAnimations (ArrayProperty)
+NextInstanceSerialNumber (UInt16Property)
+bDebug (BoolProperty)
+bExclusive (BoolProperty)
+Priority (ByteProperty)
+CameraOwner (ObjectProperty)
+AlphaInTime (FloatProperty)
+AlphaOutTime (FloatProperty)

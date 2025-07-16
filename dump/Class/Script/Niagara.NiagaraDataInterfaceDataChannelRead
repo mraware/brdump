@@ -1,0 +1,6 @@
+/Script/Niagara.NiagaraDataInterfaceDataChannelRead
+
+Channel (ObjectProperty)
+bReadCurrentFrame (BoolProperty)
+bUpdateSourceDataEveryTick (BoolProperty)
+bOverrideSpawnGroupToDataChannelIndex (BoolProperty)

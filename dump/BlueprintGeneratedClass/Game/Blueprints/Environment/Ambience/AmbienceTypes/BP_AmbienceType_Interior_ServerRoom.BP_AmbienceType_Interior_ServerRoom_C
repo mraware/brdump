@@ -1,4 +1,0 @@
-/Game/Blueprints/Environment/Ambience/AmbienceTypes/BP_AmbienceType_Interior_ServerRoom.BP_AmbienceType_Interior_ServerRoom_C
-
-DisplayName (TextProperty)
-Sound (ObjectProperty)

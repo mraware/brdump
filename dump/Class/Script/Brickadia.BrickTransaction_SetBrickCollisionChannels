@@ -1,9 +1,0 @@
-/Script/Brickadia.BrickTransaction_SetBrickCollisionChannels
-
-NewCollisionChannels (ArrayProperty)
-BrickPersistentHandles (ArrayProperty)
-NumBricksChanged (IntProperty)
-NumBricksSkipped (IntProperty)
-NumBricksUntrusted (IntProperty)
-NumBricksNotFound (IntProperty)
-SavedIndex (IntProperty)

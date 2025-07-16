@@ -1,0 +1,6 @@
+/Script/Brickadia.BRGameViewportClient
+
+ViewportConsole (ObjectProperty)
+DebugProperties (ArrayProperty)
+MaxSplitscreenPlayers (IntProperty)
+World (ObjectProperty)

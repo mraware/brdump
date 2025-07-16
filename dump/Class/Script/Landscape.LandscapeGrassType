@@ -2,6 +2,7 @@
 
 GrassVarieties (ArrayProperty)
 bEnableDensityScaling (BoolProperty)
+StateHash (UInt32Property)
 GrassMesh (ObjectProperty)
 GrassDensity (FloatProperty)
 PlacementJitter (FloatProperty)

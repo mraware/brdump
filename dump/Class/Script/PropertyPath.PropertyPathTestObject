@@ -1,0 +1,13 @@
+/Script/PropertyPath.PropertyPathTestObject
+
+bool (BoolProperty)
+EnumOne (ByteProperty)
+EnumTwo (ByteProperty)
+EnumThree (ByteProperty)
+EnumFour (ByteProperty)
+Integer (IntProperty)
+String (StrProperty)
+float (FloatProperty)
+Struct (StructProperty)
+StructRef (StructProperty)
+StructConstRef (StructProperty)

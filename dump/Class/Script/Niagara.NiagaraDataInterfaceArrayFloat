@@ -1,3 +1,4 @@
 /Script/Niagara.NiagaraDataInterfaceArrayFloat
 
 FloatData (ArrayProperty)
+GpuSyncMode (EnumProperty)

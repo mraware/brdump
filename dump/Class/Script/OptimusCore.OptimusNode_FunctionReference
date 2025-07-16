@@ -1,0 +1,8 @@
+/Script/OptimusCore.OptimusNode_FunctionReference
+
+FunctionGraph (SoftObjectProperty)
+DefaultComponentPin (WeakObjectProperty)
+DisplayName (TextProperty)
+GraphPosition (StructProperty)
+Pins (ArrayProperty)
+ExpandedPins (SetProperty)

@@ -1,0 +1,6 @@
+/Script/GameplayCameras.CameraRigInterfaceParameter
+
+TARGET (ObjectProperty)
+TargetPropertyName (NameProperty)
+InterfaceParameterName (StrProperty)
+Guid (StructProperty)

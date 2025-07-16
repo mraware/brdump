@@ -1,0 +1,6 @@
+/Script/WaveTable.WaveTableBank
+
+SampleMode (EnumProperty)
+Resolution (EnumProperty)
+SampleRate (IntProperty)
+bBipolar (BoolProperty)

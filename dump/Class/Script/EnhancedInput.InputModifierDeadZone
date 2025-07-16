@@ -1,0 +1,4 @@
+/Script/EnhancedInput.InputModifierDeadZone
+
+LowerThreshold (FloatProperty)
+UpperThreshold (FloatProperty)

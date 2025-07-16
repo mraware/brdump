@@ -1,0 +1,5 @@
+/Script/Niagara.NiagaraDataChannel
+
+ChannelVariables (ArrayProperty)
+bKeepPreviousFrameData (BoolProperty)
+bEnforceTickGroupReadWriteOrder (BoolProperty)

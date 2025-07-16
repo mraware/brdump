@@ -1,0 +1,13 @@
+/Script/Niagara.NiagaraDataChannel_Islands
+
+Mode (EnumProperty)
+InitialExtents (StructProperty)
+MaxExtents (StructProperty)
+PerElementExtents (StructProperty)
+Systems (ArrayProperty)
+IslandPoolSize (IntProperty)
+DebugDrawSettings (StructProperty)
+SystemsInternal (ArrayProperty)
+ChannelVariables (ArrayProperty)
+bKeepPreviousFrameData (BoolProperty)
+bEnforceTickGroupReadWriteOrder (BoolProperty)

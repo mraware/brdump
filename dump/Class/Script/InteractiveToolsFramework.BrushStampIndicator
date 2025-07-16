@@ -1,11 +1,14 @@
 /Script/InteractiveToolsFramework.BrushStampIndicator
 
+bVisible (BoolProperty)
 BrushRadius (FloatProperty)
 BrushFalloff (FloatProperty)
+BrushStrength (FloatProperty)
 BrushPosition (StructProperty)
 BrushNormal (StructProperty)
 bDrawIndicatorLines (BoolProperty)
 bDrawRadiusCircle (BoolProperty)
+bScaleNormalByStrength (BoolProperty)
 SampleStepCount (IntProperty)
 LineColor (StructProperty)
 LineThickness (FloatProperty)

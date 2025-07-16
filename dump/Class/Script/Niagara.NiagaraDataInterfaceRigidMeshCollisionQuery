@@ -1,0 +1,11 @@
+/Script/Niagara.NiagaraDataInterfaceRigidMeshCollisionQuery
+
+ActorTags (ArrayProperty)
+ComponentTags (ArrayProperty)
+SourceActors (ArrayProperty)
+OnlyUseMoveable (BoolProperty)
+UseComplexCollisions (BoolProperty)
+bFilterByObjectType (BoolProperty)
+GlobalSearchAllowed (BoolProperty)
+GlobalSearchForced (BoolProperty)
+GlobalSearchFallback_Unscripted (BoolProperty)

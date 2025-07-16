@@ -1,4 +1,7 @@
 /Script/LevelSequence.LevelSequenceDirector
 
-Player (ObjectProperty)
 SubSequenceID (IntProperty)
+WeakLinker (WeakObjectProperty)
+InstanceId (UInt16Property)
+InstanceSerial (UInt16Property)
+Player (ObjectProperty)

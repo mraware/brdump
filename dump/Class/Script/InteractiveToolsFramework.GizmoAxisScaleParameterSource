@@ -3,6 +3,7 @@
 AxisSource (InterfaceProperty)
 TransformSource (InterfaceProperty)
 ScaleMultiplier (FloatProperty)
+bClampToZero (BoolProperty)
 Parameter (FloatProperty)
 LastChange (StructProperty)
 CurScaleAxis (StructProperty)

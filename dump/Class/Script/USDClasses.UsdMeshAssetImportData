@@ -1,0 +1,4 @@
+/Script/USDClasses.UsdMeshAssetImportData
+
+MaterialSlotToPrimPaths (MapProperty)
+PrimPath (StrProperty)

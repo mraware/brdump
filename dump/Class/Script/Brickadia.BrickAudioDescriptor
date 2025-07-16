@@ -1,4 +1,6 @@
 /Script/Brickadia.BrickAudioDescriptor
 
 CatalogData (StructProperty)
+WidgetIconOverride (ObjectProperty)
+bShowLoudnessWarning (BoolProperty)
 Sound (ObjectProperty)

@@ -1,0 +1,8 @@
+/Script/OptimusCore.OptimusNode_ComponentSource
+
+Binding (ObjectProperty)
+DuplicationInfo (StructProperty)
+DisplayName (TextProperty)
+GraphPosition (StructProperty)
+Pins (ArrayProperty)
+ExpandedPins (SetProperty)

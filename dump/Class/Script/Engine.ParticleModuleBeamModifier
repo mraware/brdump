@@ -2,7 +2,7 @@
 
 ModifierType (ByteProperty)
 PositionOptions (StructProperty)
-Position (StructProperty)
+position (StructProperty)
 TangentOptions (StructProperty)
 Tangent (StructProperty)
 bAbsoluteTangent (BoolProperty)

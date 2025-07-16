@@ -1,0 +1,4 @@
+/Script/Engine.InputDeviceAudioBasedVibrationProperty
+
+Data (StructProperty)
+DeviceOverrideData (MapProperty)

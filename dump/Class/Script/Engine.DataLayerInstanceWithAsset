@@ -1,0 +1,5 @@
+/Script/Engine.DataLayerInstanceWithAsset
+
+DataLayerAsset (ObjectProperty)
+InitialRuntimeState (EnumProperty)
+Parent (ObjectProperty)

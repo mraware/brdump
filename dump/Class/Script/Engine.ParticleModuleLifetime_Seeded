@@ -1,7 +1,7 @@
 /Script/Engine.ParticleModuleLifetime_Seeded
 
 RandomSeedInfo (StructProperty)
-LifeTime (StructProperty)
+Lifetime (StructProperty)
 bSpawnModule (BoolProperty)
 bUpdateModule (BoolProperty)
 bFinalUpdateModule (BoolProperty)

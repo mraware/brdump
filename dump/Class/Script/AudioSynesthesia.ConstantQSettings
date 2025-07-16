@@ -1,0 +1,12 @@
+/Script/AudioSynesthesia.ConstantQSettings
+
+StartingFrequencyHz (FloatProperty)
+NumBands (IntProperty)
+NumBandsPerOctave (FloatProperty)
+AnalysisPeriodInSeconds (FloatProperty)
+bDownmixToMono (BoolProperty)
+FFTSize (EnumProperty)
+WindowType (EnumProperty)
+SpectrumType (EnumProperty)
+BandWidthStretch (FloatProperty)
+CQTNormalization (EnumProperty)

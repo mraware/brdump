@@ -1,0 +1,16 @@
+/Script/Niagara.NiagaraStatelessEmitter
+
+UniqueEmitterName (StrProperty)
+EmitterTemplateClass (ClassProperty)
+bDeterministic (BoolProperty)
+AllowedFeatureMask (UInt32Property)
+RandomSeed (IntProperty)
+FixedBounds (StructProperty)
+EmitterState (StructProperty)
+SpawnInfos (ArrayProperty)
+Modules (ArrayProperty)
+RendererProperties (ArrayProperty)
+Platforms (StructProperty)
+ScalabilityOverrides (StructProperty)
+ParticleDataSetCompiledData (StructProperty)
+ComponentOffsets (ArrayProperty)

@@ -1,6 +1,0 @@
-/Script/Engine.MaterialExpressionSamplePhysicsIntegerField
-
-WorldPosition (StructProperty)
-FieldTarget (ByteProperty)
-Material (ObjectProperty)
-Function (ObjectProperty)

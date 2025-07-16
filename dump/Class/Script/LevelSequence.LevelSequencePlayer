@@ -1,6 +1,7 @@
 /Script/LevelSequence.LevelSequencePlayer
 
 OnCameraCut (MulticastInlineDelegateProperty)
+* Observer (InterfaceProperty)
 OnPlay (MulticastInlineDelegateProperty)
 OnPlayReverse (MulticastInlineDelegateProperty)
 OnStop (MulticastInlineDelegateProperty)
@@ -13,6 +14,7 @@ Sequence (ObjectProperty)
 * DurationFrames (IntProperty)
 * DurationSubFrames (FloatProperty)
 CurrentNumLoops (IntProperty)
+SerialNumber (IntProperty)
 * PlaybackSettings (StructProperty)
 RootTemplateInstance (StructProperty)
 * NetSyncProps (StructProperty)

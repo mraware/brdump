@@ -1,0 +1,5 @@
+/Script/CoreUObject.OptionalPropertyTestObject
+
+OptionalString (OptionalProperty)
+OptionalText (OptionalProperty)
+OptionalName (OptionalProperty)

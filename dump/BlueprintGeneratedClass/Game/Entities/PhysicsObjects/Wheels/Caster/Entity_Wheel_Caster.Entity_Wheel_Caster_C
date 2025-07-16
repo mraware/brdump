@@ -1,0 +1,9 @@
+/Game/Entities/PhysicsObjects/Wheels/Caster/Entity_Wheel_Caster.Entity_Wheel_Caster_C
+
+ActorClass (ClassProperty)
+PreviewMesh (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+CatalogData (StructProperty)
+CurrentVersion (IntProperty)
+bPlayerPlaceable (BoolProperty)

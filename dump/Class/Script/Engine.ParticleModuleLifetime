@@ -1,6 +1,6 @@
 /Script/Engine.ParticleModuleLifetime
 
-LifeTime (StructProperty)
+Lifetime (StructProperty)
 bSpawnModule (BoolProperty)
 bUpdateModule (BoolProperty)
 bFinalUpdateModule (BoolProperty)

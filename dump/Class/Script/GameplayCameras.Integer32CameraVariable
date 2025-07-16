@@ -1,0 +1,6 @@
+/Script/GameplayCameras.Integer32CameraVariable
+
+DefaultValue (IntProperty)
+bAutoReset (BoolProperty)
+bIsPrivate (BoolProperty)
+bIsInput (BoolProperty)

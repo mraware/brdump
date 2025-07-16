@@ -1,0 +1,18 @@
+/Script/Brickadia.BrickComponentType_InteractableBase
+
+DefaultPromptLabel (TextProperty)
+DataStruct (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+Category (TextProperty)
+DisplayName (TextProperty)
+Description (TextProperty)
+bPlayerSpawnable (BoolProperty)
+Icon (ObjectProperty)
+CurrentVersion (IntProperty)
+NoWireProperties (ArrayProperty)
+WireInputPorts (MapProperty)
+WireOutputPorts (MapProperty)
+bUseInteractPressAnimation (BoolProperty)
+UserQuota (IntProperty)
+InspectorListInstance (ObjectProperty)

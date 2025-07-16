@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/Internal/PDL_Component_Internal_WheelEngine.PDL_Component_Internal_WheelEngine_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

@@ -1,0 +1,9 @@
+/Game/Entities/PhysicsObjects/Wheels/Super2/Entity_Wheel_Super2.Entity_Wheel_Super2_C
+
+ActorClass (ClassProperty)
+PreviewMesh (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+CatalogData (StructProperty)
+CurrentVersion (IntProperty)
+bPlayerPlaceable (BoolProperty)

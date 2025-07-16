@@ -1,0 +1,4 @@
+/Script/Niagara.NiagaraBakerOutputSimCache
+
+SimCacheAssetPathFormat (StrProperty)
+CreateParameters (StructProperty)

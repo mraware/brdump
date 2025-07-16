@@ -1,0 +1,5 @@
+/Script/InterchangeImport.InterchangeFbxTranslatorSettings
+
+bConvertScene (BoolProperty)
+bForceFrontXAxis (BoolProperty)
+bConvertSceneUnit (BoolProperty)

@@ -1,0 +1,8 @@
+/Script/Niagara.NiagaraStatelessModule_RotateAroundPoint
+
+RateMin (FloatProperty)
+RateMax (FloatProperty)
+RadiusMin (FloatProperty)
+RadiusMax (FloatProperty)
+InitialPhaseMin (FloatProperty)
+InitialPhaseMax (FloatProperty)

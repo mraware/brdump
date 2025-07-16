@@ -1,0 +1,12 @@
+/Game/Weapons/Sci-Fi/PlasmaPistol/BP_PlasmaPistol_StateMachine.BP_PlasmaPistol_StateMachine_C
+
+EquipDuration (FloatProperty)
+UnequipDuration (FloatProperty)
+EquipSound (ObjectProperty)
+EquippedFootstepLayer (ObjectProperty)
+WeaponEquipAnimation (ObjectProperty)
+PlayerEquipAnimation (ObjectProperty)
+UnequipSound (ObjectProperty)
+WeaponUnequipAnimation (ObjectProperty)
+PlayerUnequipAnimation (ObjectProperty)
+Resources (StructProperty)

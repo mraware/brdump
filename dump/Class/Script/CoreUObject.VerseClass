@@ -1,0 +1,11 @@
+/Script/CoreUObject.VerseClass
+
+SolClassFlags (UInt32Property)
+TaskClasses (ArrayProperty)
+InitInstanceFunction (ObjectProperty)
+PersistentVars (ArrayProperty)
+SessionVars (ArrayProperty)
+VarAccessors (MapProperty)
+ConstructorEffects (EnumProperty)
+MangledPackageVersePath (NameProperty)
+PackageRelativeVersePath (StrProperty)

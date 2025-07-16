@@ -1,0 +1,7 @@
+/Script/Engine.RuntimeHashExternalStreamingObjectBase
+
+SubObjectsToCellRemapping (MapProperty)
+ContainerResolver (StructProperty)
+OuterWorld (SoftObjectProperty)
+CellToStreamingData (MapProperty)
+DataLayerInstances (SetProperty)

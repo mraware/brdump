@@ -2,5 +2,10 @@
 
 CollisionChannelForWaterTraces (ByteProperty)
 MaterialParameterCollection (SoftObjectProperty)
-WaterBodyIconWorldSize (FloatProperty)
 WaterBodyIconWorldZOffset (FloatProperty)
+DefaultWaterCollisionProfileName (NameProperty)
+DefaultWaterInfoMaterial (SoftObjectProperty)
+WaterBodyRiverComponentClass (ClassProperty)
+WaterBodyLakeComponentClass (ClassProperty)
+WaterBodyOceanComponentClass (ClassProperty)
+WaterBodyCustomComponentClass (ClassProperty)

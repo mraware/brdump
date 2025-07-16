@@ -1,0 +1,17 @@
+/Script/ControlRig.MovieSceneControlRigParameterTrack
+
+SectionToKeyPerControl (MapProperty)
+ControlRig (ObjectProperty)
+SectionToKey (ObjectProperty)
+Sections (ArrayProperty)
+TrackName (NameProperty)
+ControlsRotationOrder (MapProperty)
+PriorityOrder (IntProperty)
+GameWorldControlRigs (MapProperty)
+EvalOptions (StructProperty)
+ConditionContainer (StructProperty)
+bIsEvalDisabled (BoolProperty)
+RowsDisabled (ArrayProperty)
+EvaluationFieldGuid (StructProperty)
+EvaluationField (StructProperty)
+TrackRowMetadata (MapProperty)

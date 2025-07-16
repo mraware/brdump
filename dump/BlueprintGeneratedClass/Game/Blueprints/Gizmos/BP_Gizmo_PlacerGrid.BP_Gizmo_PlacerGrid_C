@@ -1,0 +1,6 @@
+/Game/Blueprints/Gizmos/BP_Gizmo_PlacerGrid.BP_Gizmo_PlacerGrid_C
+
+GridActorClass (ClassProperty)
+GridActor (ObjectProperty)
+GizmoElementRoot (ObjectProperty)
+HitTarget (ObjectProperty)

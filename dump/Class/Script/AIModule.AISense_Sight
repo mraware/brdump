@@ -1,12 +1,14 @@
 /Script/AIModule.AISense_Sight
 
 MaxTracesPerTick (IntProperty)
+MaxAsyncTracesPerTick (IntProperty)
 MinQueriesPerTimeSliceCheck (IntProperty)
 MaxTimeSlicePerTick (DoubleProperty)
 HighImportanceQueryDistanceThreshold (FloatProperty)
 MaxQueryImportance (FloatProperty)
 SightLimitQueryImportance (FloatProperty)
-DefaultExpirationAge (FloatProperty)
+PendingQueriesBudgetReductionRatio (FloatProperty)
+bUseAsynchronousTraceForDefaultSightQueries (BoolProperty)
 NotifyType (EnumProperty)
 bWantsNewPawnNotification (BoolProperty)
 bAutoRegisterAllPawnsAsSources (BoolProperty)

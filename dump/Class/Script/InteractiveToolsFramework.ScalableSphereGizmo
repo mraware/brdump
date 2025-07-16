@@ -1,0 +1,12 @@
+/Script/InteractiveToolsFramework.ScalableSphereGizmo
+
+HitErrorThreshold (FloatProperty)
+TransactionDescription (TextProperty)
+Radius (FloatProperty)
+bIsHovering (BoolProperty)
+bIsDragging (BoolProperty)
+ActiveTarget (ObjectProperty)
+ActiveAxis (StructProperty)
+DragStartWorldPosition (StructProperty)
+DragCurrentPositionProjected (StructProperty)
+InteractionStartParameter (FloatProperty)

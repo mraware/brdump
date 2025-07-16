@@ -1,6 +1,5 @@
 /Script/UMG.ScaleBoxSlot
 
-Padding (StructProperty)
 HorizontalAlignment (ByteProperty)
 VerticalAlignment (ByteProperty)
 Parent (ObjectProperty)

@@ -1,0 +1,6 @@
+/Script/IrisCore.PartialNetObjectAttachmentHandlerConfig
+
+BitCountSplitThreshold (UInt32Property)
+ClientUnreliableBitCountSplitThreshold (UInt32Property)
+ServerUnreliableBitCountSplitThreshold (UInt32Property)
+MaxPartBitCount (UInt32Property)

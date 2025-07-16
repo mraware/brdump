@@ -1,0 +1,9 @@
+/Script/LiveLink.LiveLinkAnimationVirtualSubject
+
+Attachments (ArrayProperty)
+LocationBehavior (EnumProperty)
+RotationBehavior (EnumProperty)
+bAppendSubjectNameToBones (BoolProperty)
+Role (ClassProperty)
+Subjects (ArrayProperty)
+FrameTranslators (ArrayProperty)

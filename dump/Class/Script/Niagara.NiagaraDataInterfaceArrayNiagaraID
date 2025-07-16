@@ -1,0 +1,4 @@
+/Script/Niagara.NiagaraDataInterfaceArrayNiagaraID
+
+IntData (ArrayProperty)
+GpuSyncMode (EnumProperty)

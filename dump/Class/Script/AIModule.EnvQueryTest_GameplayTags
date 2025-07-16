@@ -1,6 +1,7 @@
 /Script/AIModule.EnvQueryTest_GameplayTags
 
 TagQueryToMatch (StructProperty)
+bRejectIncompatibleItems (BoolProperty)
 bUpdatedToUseQuery (BoolProperty)
 TagsToMatch (EnumProperty)
 GameplayTags (StructProperty)

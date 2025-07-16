@@ -1,0 +1,12 @@
+/Script/GameplayCameras.CollisionPushCameraNode
+
+SafePosition (EnumProperty)
+CustomSafePosition (StructProperty)
+SafePositionOffset (StructProperty)
+SafePositionOffsetSpace (EnumProperty)
+EnableCollision (StructProperty)
+CollisionSphereRadius (StructProperty)
+CollisionChannel (ByteProperty)
+PushInterpolator (ObjectProperty)
+PullInterpolator (ObjectProperty)
+bRunAsyncCollision (BoolProperty)

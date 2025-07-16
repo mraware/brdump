@@ -1,0 +1,14 @@
+/Script/VoxelCore.ApplyVoxelShaderHooksCommandlet
+
+HelpDescription (StrProperty)
+HelpUsage (StrProperty)
+HelpWebLink (StrProperty)
+HelpParamNames (ArrayProperty)
+HelpParamDescriptions (ArrayProperty)
+IsServer (BoolProperty)
+IsClient (BoolProperty)
+IsEditor (BoolProperty)
+LogToConsole (BoolProperty)
+ShowErrorCount (BoolProperty)
+ShowProgress (BoolProperty)
+FastExit (BoolProperty)

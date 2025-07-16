@@ -3,6 +3,7 @@
 BoundsBodies (ArrayProperty)
 SkeletalBodySetups (ArrayProperty)
 ConstraintSetup (ArrayProperty)
+SolverSettings (StructProperty)
 SolverIterations (StructProperty)
 SolverType (EnumProperty)
 bNotForDedicatedServer (BoolProperty)

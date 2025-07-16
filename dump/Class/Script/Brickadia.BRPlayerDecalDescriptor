@@ -3,5 +3,6 @@
 Texture (ObjectProperty)
 Category (TextProperty)
 DisplayName (TextProperty)
+Summary (TextProperty)
 bShouldDisplayInGame (BoolProperty)
 DecalTags (ArrayProperty)

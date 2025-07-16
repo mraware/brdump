@@ -1,0 +1,8 @@
+/Script/InterchangeEngine.InterchangeAssetImportData
+
+SceneImportAsset (StructProperty)
+NodeUniqueID (StrProperty)
+NodeContainer (ObjectProperty)
+Pipelines (ArrayProperty)
+TransientNodeContainer (ObjectProperty)
+TransientPipelines (ArrayProperty)

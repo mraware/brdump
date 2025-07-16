@@ -1,0 +1,8 @@
+/Script/EnhancedInput.InputTriggerHold
+
+HoldTimeThreshold (FloatProperty)
+bIsOneShot (BoolProperty)
+HeldDuration (FloatProperty)
+bAffectedByTimeDilation (BoolProperty)
+ActuationThreshold (FloatProperty)
+bShouldAlwaysTick (BoolProperty)

@@ -1,0 +1,10 @@
+/Script/Constraints.TickableLookAtConstraint
+
+Axis (StructProperty)
+ParentTRSHandle (ObjectProperty)
+ChildTRSHandle (ObjectProperty)
+bMaintainOffset (BoolProperty)
+Weight (FloatProperty)
+bDynamicOffset (BoolProperty)
+Type (EnumProperty)
+Active (BoolProperty)

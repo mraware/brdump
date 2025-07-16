@@ -1,0 +1,9 @@
+/Game/Entities/PhysicsObjects/Wheels/Sport1/Entity_Wheel_German5.Entity_Wheel_German5_C
+
+ActorClass (ClassProperty)
+PreviewMesh (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+CatalogData (StructProperty)
+CurrentVersion (IntProperty)
+bPlayerPlaceable (BoolProperty)

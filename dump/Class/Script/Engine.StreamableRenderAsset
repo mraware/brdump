@@ -2,8 +2,8 @@
 
 ForceMipLevelsToBeResidentTimestamp (DoubleProperty)
 NumCinematicMipLevels (IntProperty)
+NoRefStreamingLODBias (StructProperty)
 StreamingIndex (IntProperty)
-CachedCombinedLODBias (IntProperty)
 NeverStream (BoolProperty)
 bGlobalForceMipLevelsToBeResident (BoolProperty)
 bHasStreamingUpdatePending (BoolProperty)

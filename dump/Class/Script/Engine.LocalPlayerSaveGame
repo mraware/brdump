@@ -1,0 +1,8 @@
+/Script/Engine.LocalPlayerSaveGame
+
+OwningPlayer (ObjectProperty)
+SaveSlotName (StrProperty)
+SavedDataVersion (IntProperty)
+LoadedDataVersion (IntProperty)
+CurrentSaveRequest (IntProperty)
+LastSuccessfulSaveRequest (IntProperty)

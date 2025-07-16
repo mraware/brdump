@@ -1,0 +1,8 @@
+/Script/Engine.InputPlatformSettings
+
+MaxPlatformUserCount (IntProperty)
+MaxTriggerFeedbackPosition (IntProperty)
+MaxTriggerFeedbackStrength (IntProperty)
+MaxTriggerVibrationTriggerPosition (IntProperty)
+MaxTriggerVibrationFrequency (IntProperty)
+MaxTriggerVibrationAmplitude (IntProperty)

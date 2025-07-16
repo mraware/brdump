@@ -1,0 +1,6 @@
+/Script/InterchangeCore.InterchangeResultError_ReimportFail
+
+SourceAssetName (StrProperty)
+DestinationAssetName (StrProperty)
+AssetFriendlyName (StrProperty)
+AssetType (ClassProperty)

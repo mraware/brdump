@@ -1,0 +1,15 @@
+/Script/InterchangePipelines.InterchangeGenericLevelPipeline
+
+PipelineDisplayName (StrProperty)
+ReimportPropertyStrategy (EnumProperty)
+SceneHierarchyType (EnumProperty)
+bDeleteMissingActors (BoolProperty)
+bForceReimportDeletedActors (BoolProperty)
+bForceReimportDeletedAssets (BoolProperty)
+bDeleteMissingAssets (BoolProperty)
+bUsePhysicalInsteadOfStandardPerspectiveCamera (BoolProperty)
+DestinationName (StrProperty)
+ContentImportPath (StrProperty)
+ReimportLevel (StructProperty)
+bFromReimportOrOverride (BoolProperty)
+Results (ObjectProperty)

@@ -1,0 +1,7 @@
+/Script/Engine.WorldPartitionSettings
+
+NewMapsDataLayersLogicOperator (EnumProperty)
+bNewMapsEnableWorldPartition (BoolProperty)
+bNewMapsEnableWorldPartitionStreaming (BoolProperty)
+EditorHashDefaultClass (ClassProperty)
+RuntimeHashDefaultClass (ClassProperty)

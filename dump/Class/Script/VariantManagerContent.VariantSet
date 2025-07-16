@@ -1,0 +1,5 @@
+/Script/VariantManagerContent.VariantSet
+
+DisplayText (TextProperty)
+bExpanded (BoolProperty)
+Variants (ArrayProperty)

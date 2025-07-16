@@ -1,0 +1,6 @@
+/Script/AudioSynesthesia.SynesthesiaSpectrumAnalyzer
+
+Settings (ObjectProperty)
+OnSpectrumResults (MulticastInlineDelegateProperty)
+OnLatestSpectrumResults (MulticastInlineDelegateProperty)
+AudioBus (ObjectProperty)

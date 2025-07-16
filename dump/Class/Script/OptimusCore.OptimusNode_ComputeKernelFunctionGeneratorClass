@@ -1,0 +1,8 @@
+/Script/OptimusCore.OptimusNode_ComputeKernelFunctionGeneratorClass
+
+Category (NameProperty)
+KernelName (NameProperty)
+ExecutionDomain (StructProperty)
+GroupSize (StructProperty)
+InputBindings (ArrayProperty)
+OutputBindings (ArrayProperty)

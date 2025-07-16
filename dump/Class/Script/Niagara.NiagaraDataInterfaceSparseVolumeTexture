@@ -1,0 +1,4 @@
+/Script/Niagara.NiagaraDataInterfaceSparseVolumeTexture
+
+SparseVolumeTexture (ObjectProperty)
+SparseVolumeTextureUserParameter (StructProperty)

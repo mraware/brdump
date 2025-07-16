@@ -1,0 +1,16 @@
+/Script/Niagara.NiagaraStatelessModule_ShapeLocation
+
+ShapePrimitive (EnumProperty)
+BoxSize (StructProperty)
+bBoxSurfaceOnly (BoolProperty)
+BoxSurfaceThicknessMin (FloatProperty)
+BoxSurfaceThicknessMax (FloatProperty)
+PlaneSize (StructProperty)
+CylinderHeight (FloatProperty)
+CylinderRadius (FloatProperty)
+CylinderHeightMidpoint (FloatProperty)
+RingRadius (FloatProperty)
+DiscCoverage (FloatProperty)
+RingUDistribution (FloatProperty)
+SphereMin (FloatProperty)
+SphereMax (FloatProperty)

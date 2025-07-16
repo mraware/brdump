@@ -1,0 +1,5 @@
+/Script/MovieScene.MovieScenePlayRateCurve
+
+PlayRate (StructProperty)
+bMuted (BoolProperty)
+ReferenceToSelf (ObjectProperty)

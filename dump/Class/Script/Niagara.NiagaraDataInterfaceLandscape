@@ -2,3 +2,4 @@
 
 SourceLandscape (ObjectProperty)
 SourceMode (EnumProperty)
+PhysicalMaterials (ArrayProperty)

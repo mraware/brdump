@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/PDL_Component_Button.PDL_Component_Button_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

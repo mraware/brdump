@@ -1,0 +1,12 @@
+/Script/Brickadia.BRGizmoStorage
+
+AxisMaterialX (ObjectProperty)
+AxisMaterialY (ObjectProperty)
+AxisMaterialZ (ObjectProperty)
+CurrentAxisMaterial (ObjectProperty)
+GreyMaterial (ObjectProperty)
+WhiteMaterial (ObjectProperty)
+OpaquePlaneMaterialXY (ObjectProperty)
+GeneralSettings (ObjectProperty)
+GizmoManagerComponent (ObjectProperty)
+ActiveGizmos (ArrayProperty)

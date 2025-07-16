@@ -1,0 +1,7 @@
+/Script/AudioSynesthesia.MeterSettings
+
+AnalysisPeriod (FloatProperty)
+PeakMode (EnumProperty)
+MeterAttackTime (IntProperty)
+MeterReleaseTime (IntProperty)
+PeakHoldTime (IntProperty)

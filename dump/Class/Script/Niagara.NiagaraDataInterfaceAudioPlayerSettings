@@ -1,0 +1,5 @@
+/Script/Niagara.NiagaraDataInterfaceAudioPlayerSettings
+
+bOverrideConcurrency (BoolProperty)
+Concurrency (ObjectProperty)
+bOverrideAttenuationSettings (BoolProperty)

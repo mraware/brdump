@@ -1,0 +1,7 @@
+/Script/IrisCore.SphereWithOwnerBoostNetObjectPrioritizerConfig
+
+OwnerPriorityBoost (FloatProperty)
+InnerRadius (FloatProperty)
+OuterRadius (FloatProperty)
+InnerPriority (FloatProperty)
+OuterPriority (FloatProperty)

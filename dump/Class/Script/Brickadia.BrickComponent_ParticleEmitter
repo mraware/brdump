@@ -1,7 +1,0 @@
-/Script/Brickadia.BrickComponent_ParticleEmitter
-
-* ParticleSystemDescriptor (ObjectProperty)
-* Color (StructProperty)
-* bUseBrickColor (BoolProperty)
-ParticleSystemInstance (ObjectProperty)
-* AttachmentRep (StructProperty)

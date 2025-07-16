@@ -1,7 +1,0 @@
-/Script/AugmentedReality.ARCandidateImage
-
-CandidateTexture (ObjectProperty)
-FriendlyName (StrProperty)
-Width (FloatProperty)
-Height (FloatProperty)
-Orientation (EnumProperty)
