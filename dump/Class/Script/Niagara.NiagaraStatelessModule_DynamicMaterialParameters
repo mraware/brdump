@@ -1,0 +1,10 @@
+/Script/Niagara.NiagaraStatelessModule_DynamicMaterialParameters
+
+bParameter0Enabled (BoolProperty)
+bParameter1Enabled (BoolProperty)
+bParameter2Enabled (BoolProperty)
+bParameter3Enabled (BoolProperty)
+Parameter0 (StructProperty)
+Parameter1 (StructProperty)
+Parameter2 (StructProperty)
+Parameter3 (StructProperty)

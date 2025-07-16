@@ -1,0 +1,6 @@
+/Script/GameplayCameras.DoubleCameraVariable
+
+DefaultValue (DoubleProperty)
+bAutoReset (BoolProperty)
+bIsPrivate (BoolProperty)
+bIsInput (BoolProperty)

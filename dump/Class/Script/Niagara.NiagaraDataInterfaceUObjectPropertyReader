@@ -1,0 +1,6 @@
+/Script/Niagara.NiagaraDataInterfaceUObjectPropertyReader
+
+SourceMode (EnumProperty)
+UObjectParameterBinding (StructProperty)
+PropertyRemap (ArrayProperty)
+SourceActor (SoftObjectProperty)

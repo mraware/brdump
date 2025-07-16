@@ -1,0 +1,15 @@
+/Game/Weapons/Sci-Fi/PulseRifle/DmgType_PulseRifleRocket.DmgType_PulseRifleRocket_C
+
+Icon (StructProperty)
+bCausedByHeadshot (BoolProperty)
+bCausedByExplosion (BoolProperty)
+bCausedByPhysics (BoolProperty)
+bDismantleCharacter (BoolProperty)
+bDoNotStopHealthRegen (BoolProperty)
+SelfDamageScale (FloatProperty)
+bCausedByWorld (BoolProperty)
+bScaleMomentumByMass (BoolProperty)
+bRadialDamageVelChange (BoolProperty)
+DamageImpulse (FloatProperty)
+DestructibleImpulse (FloatProperty)
+DestructibleDamageSpreadScale (FloatProperty)

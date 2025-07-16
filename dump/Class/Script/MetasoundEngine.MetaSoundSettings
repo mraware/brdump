@@ -1,0 +1,11 @@
+/Script/MetasoundEngine.MetaSoundSettings
+
+bAutoUpdateEnabled (BoolProperty)
+AutoUpdateDenylist (ArrayProperty)
+AutoUpdateAssetDenylist (ArrayProperty)
+bAutoUpdateLogWarningOnDroppedConnection (BoolProperty)
+DirectoriesToRegister (ArrayProperty)
+DenyListCacheChangeID (IntProperty)
+TargetPageName (NameProperty)
+DefaultPageSettings (StructProperty)
+PageSettings (ArrayProperty)

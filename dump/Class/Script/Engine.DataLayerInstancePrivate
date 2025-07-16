@@ -1,0 +1,6 @@
+/Script/Engine.DataLayerInstancePrivate
+
+ShortName (StrProperty)
+DataLayerAsset (ObjectProperty)
+InitialRuntimeState (EnumProperty)
+Parent (ObjectProperty)

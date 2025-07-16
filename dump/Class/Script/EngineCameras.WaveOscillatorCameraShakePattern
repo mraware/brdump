@@ -1,0 +1,15 @@
+/Script/EngineCameras.WaveOscillatorCameraShakePattern
+
+LocationAmplitudeMultiplier (FloatProperty)
+LocationFrequencyMultiplier (FloatProperty)
+X (StructProperty)
+Y (StructProperty)
+Z (StructProperty)
+RotationAmplitudeMultiplier (FloatProperty)
+RotationFrequencyMultiplier (FloatProperty)
+Pitch (StructProperty)
+Yaw (StructProperty)
+Roll (StructProperty)
+FOV (StructProperty)
+Duration (FloatProperty)
+BlendInTime (FloatProperty)

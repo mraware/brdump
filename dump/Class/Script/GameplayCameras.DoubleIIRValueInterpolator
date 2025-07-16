@@ -1,0 +1,4 @@
+/Script/GameplayCameras.DoubleIIRValueInterpolator
+
+PrimarySpeed (FloatProperty)
+IntermediateSpeed (FloatProperty)

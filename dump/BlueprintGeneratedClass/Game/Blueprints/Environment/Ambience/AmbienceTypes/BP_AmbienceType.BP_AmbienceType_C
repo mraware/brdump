@@ -1,4 +1,6 @@
 /Game/Blueprints/Environment/Ambience/AmbienceTypes/BP_AmbienceType.BP_AmbienceType_C
 
 DisplayName (TextProperty)
+Category (TextProperty)
+Tab (TextProperty)
 Sound (ObjectProperty)

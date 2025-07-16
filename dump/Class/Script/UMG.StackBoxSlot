@@ -1,0 +1,7 @@
+/Script/UMG.StackBoxSlot
+
+Padding (StructProperty)
+Size (StructProperty)
+HorizontalAlignment (ByteProperty)
+VerticalAlignment (ByteProperty)
+Parent (ObjectProperty)

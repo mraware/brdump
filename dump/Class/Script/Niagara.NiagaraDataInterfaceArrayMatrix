@@ -1,0 +1,4 @@
+/Script/Niagara.NiagaraDataInterfaceArrayMatrix
+
+InternalMatrixData (ArrayProperty)
+GpuSyncMode (EnumProperty)

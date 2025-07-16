@@ -1,0 +1,9 @@
+/Game/Entities/PhysicsObjects/Wheels/Offroad2/Entity_Wheel_Offroad2.Entity_Wheel_Offroad2_C
+
+ActorClass (ClassProperty)
+PreviewMesh (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+CatalogData (StructProperty)
+CurrentVersion (IntProperty)
+bPlayerPlaceable (BoolProperty)

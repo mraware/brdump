@@ -1,0 +1,8 @@
+/Script/MassEntity.MassObserverProcessor
+
+bAutoRegisterWithObserverRegistry (BoolProperty)
+ObservedType (ObjectProperty)
+ExecutionOrder (StructProperty)
+ProcessingPhase (EnumProperty)
+ExecutionFlags (ByteProperty)
+bAutoRegisterWithProcessingPhases (BoolProperty)

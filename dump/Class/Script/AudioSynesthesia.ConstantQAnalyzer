@@ -1,0 +1,6 @@
+/Script/AudioSynesthesia.ConstantQAnalyzer
+
+Settings (ObjectProperty)
+OnConstantQResults (MulticastInlineDelegateProperty)
+OnLatestConstantQResults (MulticastInlineDelegateProperty)
+AudioBus (ObjectProperty)

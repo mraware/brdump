@@ -1,0 +1,4 @@
+/Script/MovieSceneTracks.MovieScenePredictionSystem
+
+PendingPredictions (ArrayProperty)
+ProcessingPredictions (ArrayProperty)

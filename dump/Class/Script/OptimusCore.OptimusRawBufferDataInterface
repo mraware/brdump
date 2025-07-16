@@ -1,0 +1,5 @@
+/Script/OptimusCore.OptimusRawBufferDataInterface
+
+ValueType (StructProperty)
+DataDomain (StructProperty)
+ComponentSourceBinding (WeakObjectProperty)

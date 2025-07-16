@@ -1,0 +1,10 @@
+/Script/OptimusCore.OptimusFunctionNodeGraph
+
+Category (NameProperty)
+AccessSpecifier (NameProperty)
+InputBindings (StructProperty)
+OutputBindings (StructProperty)
+GraphType (EnumProperty)
+Nodes (ArrayProperty)
+Links (ArrayProperty)
+NodePairs (ArrayProperty)

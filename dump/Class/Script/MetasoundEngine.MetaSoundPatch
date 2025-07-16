@@ -1,0 +1,6 @@
+/Script/MetasoundEngine.MetaSoundPatch
+
+RootMetaSoundDocument (StructProperty)
+ReferencedAssetClassKeys (SetProperty)
+ReferencedAssetClassObjects (SetProperty)
+ReferenceAssetClassCache (SetProperty)

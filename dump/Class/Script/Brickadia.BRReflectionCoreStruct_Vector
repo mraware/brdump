@@ -1,0 +1,8 @@
+/Script/Brickadia.BRReflectionCoreStruct_Vector
+
+ParentStructInfo (ClassProperty)
+TargetStruct (ObjectProperty)
+DefaultStruct (StructProperty)
+DerivedStructInfos (ArrayProperty)
+DisplayName (TextProperty)
+Properties (MapProperty)

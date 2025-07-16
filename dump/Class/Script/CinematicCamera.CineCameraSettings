@@ -1,0 +1,9 @@
+/Script/CinematicCamera.CineCameraSettings
+
+DefaultLensPresetName (StrProperty)
+DefaultLensFocalLength (FloatProperty)
+DefaultLensFStop (FloatProperty)
+LensPresets (ArrayProperty)
+DefaultFilmbackPreset (StrProperty)
+FilmbackPresets (ArrayProperty)
+DefaultCropPresetName (StrProperty)

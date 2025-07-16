@@ -1,0 +1,7 @@
+/Script/InterchangeMessages.InterchangeResultTextureWarning
+
+TextureName (StrProperty)
+SourceAssetName (StrProperty)
+DestinationAssetName (StrProperty)
+AssetFriendlyName (StrProperty)
+AssetType (ClassProperty)

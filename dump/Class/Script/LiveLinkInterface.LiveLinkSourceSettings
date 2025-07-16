@@ -1,0 +1,6 @@
+/Script/LiveLinkInterface.LiveLinkSourceSettings
+
+Mode (EnumProperty)
+BufferSettings (StructProperty)
+ConnectionString (StrProperty)
+Factory (ClassProperty)

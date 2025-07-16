@@ -1,0 +1,14 @@
+/Script/EnhancedInput.EnhancedInputDeveloperSettings
+
+DefaultMappingContexts (ArrayProperty)
+DefaultWorldSubsystemMappingContexts (ArrayProperty)
+PlatformSettings (StructProperty)
+UserSettingsClass (SoftClassProperty)
+DefaultPlayerMappableKeyProfileClass (SoftClassProperty)
+DefaultWorldInputClass (SoftClassProperty)
+bSendTriggeredEventsWhenInputIsFlushed (BoolProperty)
+bEnableUserSettings (BoolProperty)
+bEnableDefaultMappingContexts (BoolProperty)
+bShouldOnlyTriggerLastActionInChord (BoolProperty)
+bLogOnDeprecatedConfigUsed (BoolProperty)
+bEnableWorldSubsystem (BoolProperty)

@@ -1,0 +1,12 @@
+/Script/InterchangePipelines.InterchangeGenericTexturePipeline
+
+PipelineDisplayName (StrProperty)
+bImportTextures (BoolProperty)
+AssetName (StrProperty)
+bAllowNonPowerOfTwo (BoolProperty)
+BaseNodeContainer (ObjectProperty)
+DestinationName (StrProperty)
+ContentImportPath (StrProperty)
+ReimportLevel (StructProperty)
+bFromReimportOrOverride (BoolProperty)
+Results (ObjectProperty)

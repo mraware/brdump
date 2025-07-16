@@ -1,0 +1,7 @@
+/Script/GameplayCameras.BoomArmCameraNode
+
+BoomOffset (StructProperty)
+BoomLengthInterpolator (ObjectProperty)
+MaxForwardInterpolationFactor (StructProperty)
+MaxBackwardInterpolationFactor (StructProperty)
+InputSlot (ObjectProperty)

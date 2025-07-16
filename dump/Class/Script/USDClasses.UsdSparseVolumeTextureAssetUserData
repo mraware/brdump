@@ -1,0 +1,8 @@
+/Script/USDClasses.UsdSparseVolumeTextureAssetUserData
+
+SourceOpenVDBAssetPrimPaths (ArrayProperty)
+TimeSamplePathTimeCodes (ArrayProperty)
+TimeSamplePathIndices (ArrayProperty)
+TimeSamplePaths (ArrayProperty)
+PrimPaths (ArrayProperty)
+StageIdentifierToMetadata (MapProperty)

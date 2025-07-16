@@ -1,0 +1,8 @@
+/Script/AudioSynesthesia.LoudnessAnalyzer
+
+Settings (ObjectProperty)
+OnOverallLoudnessResults (MulticastInlineDelegateProperty)
+OnPerChannelLoudnessResults (MulticastInlineDelegateProperty)
+OnLatestOverallLoudnessResults (MulticastInlineDelegateProperty)
+OnLatestPerChannelLoudnessResults (MulticastInlineDelegateProperty)
+AudioBus (ObjectProperty)

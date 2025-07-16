@@ -1,0 +1,5 @@
+/Script/USDClasses.UsdAnimSequenceAssetUserData
+
+LayerStartOffsetSeconds (FloatProperty)
+PrimPaths (ArrayProperty)
+StageIdentifierToMetadata (MapProperty)

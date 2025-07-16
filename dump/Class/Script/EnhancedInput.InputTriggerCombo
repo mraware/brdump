@@ -1,0 +1,8 @@
+/Script/EnhancedInput.InputTriggerCombo
+
+CurrentComboStepIndex (IntProperty)
+CurrentTimeBetweenComboSteps (FloatProperty)
+ComboActions (ArrayProperty)
+InputCancelActions (ArrayProperty)
+ActuationThreshold (FloatProperty)
+bShouldAlwaysTick (BoolProperty)

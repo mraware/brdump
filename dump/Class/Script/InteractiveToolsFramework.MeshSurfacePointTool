@@ -1,3 +1,5 @@
 /Script/InteractiveToolsFramework.MeshSurfacePointTool
 
+TargetWorld (WeakObjectProperty)
+TARGET (ObjectProperty)
 InputBehaviors (ObjectProperty)

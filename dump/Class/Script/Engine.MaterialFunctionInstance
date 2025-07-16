@@ -1,12 +1,15 @@
 /Script/Engine.MaterialFunctionInstance
 
 Parent (ObjectProperty)
-Base (ObjectProperty)
+base (ObjectProperty)
 ScalarParameterValues (ArrayProperty)
 VectorParameterValues (ArrayProperty)
+DoubleVectorParameterValues (ArrayProperty)
 TextureParameterValues (ArrayProperty)
+TextureCollectionParameterValues (ArrayProperty)
 FontParameterValues (ArrayProperty)
 StaticSwitchParameterValues (ArrayProperty)
 StaticComponentMaskParameterValues (ArrayProperty)
 RuntimeVirtualTextureParameterValues (ArrayProperty)
+SparseVolumeTextureParameterValues (ArrayProperty)
 StateId (StructProperty)

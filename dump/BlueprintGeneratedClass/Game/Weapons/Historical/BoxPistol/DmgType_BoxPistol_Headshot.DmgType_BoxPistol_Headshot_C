@@ -1,0 +1,15 @@
+/Game/Weapons/Historical/BoxPistol/DmgType_BoxPistol_Headshot.DmgType_BoxPistol_Headshot_C
+
+Icon (StructProperty)
+bCausedByHeadshot (BoolProperty)
+bCausedByExplosion (BoolProperty)
+bCausedByPhysics (BoolProperty)
+bDismantleCharacter (BoolProperty)
+bDoNotStopHealthRegen (BoolProperty)
+SelfDamageScale (FloatProperty)
+bCausedByWorld (BoolProperty)
+bScaleMomentumByMass (BoolProperty)
+bRadialDamageVelChange (BoolProperty)
+DamageImpulse (FloatProperty)
+DestructibleImpulse (FloatProperty)
+DestructibleDamageSpreadScale (FloatProperty)

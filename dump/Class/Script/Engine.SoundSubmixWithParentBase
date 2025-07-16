@@ -1,3 +1,8 @@
 /Script/Engine.SoundSubmixWithParentBase
 
 ParentSubmix (ObjectProperty)
+DynamicParentSubmix (MapProperty)
+bIsDynamic (BoolProperty)
+bAutoDisable (BoolProperty)
+AutoDisableTime (FloatProperty)
+ChildSubmixes (ArrayProperty)

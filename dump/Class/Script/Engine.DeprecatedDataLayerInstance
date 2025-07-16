@@ -1,0 +1,8 @@
+/Script/Engine.DeprecatedDataLayerInstance
+
+Label (NameProperty)
+DeprecatedDataLayerFName (NameProperty)
+DataLayerType (EnumProperty)
+DebugColor (StructProperty)
+InitialRuntimeState (EnumProperty)
+Parent (ObjectProperty)

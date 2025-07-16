@@ -1,4 +1,0 @@
-/Script/Engine.InterpTrackInstBoolProp
-
-ResetBool (BoolProperty)
-InterpProperty (FieldPathProperty)

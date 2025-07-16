@@ -1,0 +1,10 @@
+/Script/GameplayCameras.CameraRigAsset
+
+RootNode (ObjectProperty)
+GameplayTags (StructProperty)
+Interface (StructProperty)
+EnterTransitions (ArrayProperty)
+ExitTransitions (ArrayProperty)
+InitialOrientation (EnumProperty)
+AllocationInfo (StructProperty)
+BuildStatus (EnumProperty)

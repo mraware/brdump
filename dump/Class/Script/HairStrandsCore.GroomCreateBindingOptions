@@ -1,0 +1,9 @@
+/Script/HairStrandsCore.GroomCreateBindingOptions
+
+GroomAsset (WeakObjectProperty)
+GroomBindingType (EnumProperty)
+SourceSkeletalMesh (ObjectProperty)
+TargetSkeletalMesh (ObjectProperty)
+SourceGeometryCache (ObjectProperty)
+TargetGeometryCache (ObjectProperty)
+NumInterpolationPoints (IntProperty)

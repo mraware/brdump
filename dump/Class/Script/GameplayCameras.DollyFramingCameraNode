@@ -1,0 +1,12 @@
+/Script/GameplayCameras.DollyFramingCameraNode
+
+CanMoveLaterally (StructProperty)
+CanMoveVertically (StructProperty)
+TargetLocation (StructProperty)
+HorizontalFraming (StructProperty)
+VerticalFraming (StructProperty)
+ReframeDampingFactor (StructProperty)
+LowReframeDampingFactor (StructProperty)
+ReframeUnlockRadius (StructProperty)
+DeadZone (StructProperty)
+SoftZone (StructProperty)

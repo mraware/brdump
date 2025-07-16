@@ -1,0 +1,6 @@
+/Script/GameplayCameras.Vector2fCameraVariable
+
+DefaultValue (StructProperty)
+bAutoReset (BoolProperty)
+bIsPrivate (BoolProperty)
+bIsInput (BoolProperty)

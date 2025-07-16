@@ -1,8 +1,0 @@
-/Script/MovieSceneTracks.MovieSceneCameraAnimTrack
-
-CameraAnimSections (ArrayProperty)
-EvalOptions (StructProperty)
-bIsEvalDisabled (BoolProperty)
-RowsDisabled (ArrayProperty)
-EvaluationFieldGuid (StructProperty)
-EvaluationField (StructProperty)

@@ -1,0 +1,11 @@
+/Script/ControlRig.ControlRigNumericalValidationPass
+
+bCheckControls (BoolProperty)
+bCheckBones (BoolProperty)
+bCheckCurves (BoolProperty)
+TranslationPrecision (FloatProperty)
+RotationPrecision (FloatProperty)
+ScalePrecision (FloatProperty)
+CurvePrecision (FloatProperty)
+EventNameA (NameProperty)
+EventNameB (NameProperty)

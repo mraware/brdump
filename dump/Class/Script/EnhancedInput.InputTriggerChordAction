@@ -1,0 +1,5 @@
+/Script/EnhancedInput.InputTriggerChordAction
+
+ChordAction (ObjectProperty)
+ActuationThreshold (FloatProperty)
+bShouldAlwaysTick (BoolProperty)

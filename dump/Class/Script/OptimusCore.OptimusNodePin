@@ -1,0 +1,7 @@
+/Script/OptimusCore.OptimusNodePin
+
+bIsGroupingPin (BoolProperty)
+Direction (EnumProperty)
+StorageType (EnumProperty)
+DataDomain (StructProperty)
+DataType (StructProperty)

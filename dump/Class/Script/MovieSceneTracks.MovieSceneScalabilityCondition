@@ -1,0 +1,6 @@
+/Script/MovieSceneTracks.MovieSceneScalabilityCondition
+
+Group (EnumProperty)
+Operator (EnumProperty)
+Level (EnumProperty)
+bInvert (BoolProperty)

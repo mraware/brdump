@@ -1,0 +1,9 @@
+/Script/ComputeFramework.ComputeKernelFromText
+
+SourceFile (StructProperty)
+EntryPoint (StrProperty)
+GroupSize (StructProperty)
+PermutationSet (StructProperty)
+DefinitionsSet (StructProperty)
+AdditionalSources (ArrayProperty)
+ExternalInputs (ArrayProperty)

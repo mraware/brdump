@@ -1,0 +1,17 @@
+/Script/Brickadia.BRReflectionPropertyInfo_Enum
+
+EnumInfo (ClassProperty)
+DisplayName (TextProperty)
+DisplayTooltip (TextProperty)
+DisplayCategory (TextProperty)
+GetterFunctionName (NameProperty)
+SetterFunctionName (NameProperty)
+IsEditableFunctionName (NameProperty)
+PostUpdateFunctionName (NameProperty)
+ExternalCallbackTarget (ClassProperty)
+PropertyInfoFlags (ByteProperty)
+ExtraMetadata (MapProperty)
+CachedCallbackObject (ObjectProperty)
+CachedGetter (ObjectProperty)
+CachedSetter (ObjectProperty)
+CachedPostUpdate (ObjectProperty)

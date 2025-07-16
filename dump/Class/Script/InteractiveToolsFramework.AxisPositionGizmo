@@ -2,8 +2,10 @@
 
 AxisSource (InterfaceProperty)
 ParameterSource (InterfaceProperty)
+GizmoViewContext (ObjectProperty)
 HitTarget (InterfaceProperty)
 StateTarget (InterfaceProperty)
+MouseBehavior (ObjectProperty)
 bEnableSignedAxis (BoolProperty)
 bInInteraction (BoolProperty)
 InteractionOrigin (StructProperty)

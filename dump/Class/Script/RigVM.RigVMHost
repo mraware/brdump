@@ -1,0 +1,9 @@
+/Script/RigVM.RigVMHost
+
+VMRuntimeSettings (StructProperty)
+VM (ObjectProperty)
+UserDefinedStructGuidToPathName (MapProperty)
+UserDefinedEnumToPathName (MapProperty)
+UserDefinedTypesInUse (SetProperty)
+DrawContainer (StructProperty)
+EventQueue (ArrayProperty)

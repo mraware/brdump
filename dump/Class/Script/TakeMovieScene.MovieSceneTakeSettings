@@ -1,0 +1,8 @@
+/Script/TakeMovieScene.MovieSceneTakeSettings
+
+HoursName (StrProperty)
+MinutesName (StrProperty)
+SecondsName (StrProperty)
+FramesName (StrProperty)
+SubFramesName (StrProperty)
+RateName (StrProperty)

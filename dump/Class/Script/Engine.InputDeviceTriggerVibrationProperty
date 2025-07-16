@@ -1,0 +1,5 @@
+/Script/Engine.InputDeviceTriggerVibrationProperty
+
+TriggerData (StructProperty)
+DeviceOverrideData (MapProperty)
+BaseTriggerData (StructProperty)

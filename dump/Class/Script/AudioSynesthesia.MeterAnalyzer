@@ -1,0 +1,8 @@
+/Script/AudioSynesthesia.MeterAnalyzer
+
+Settings (ObjectProperty)
+OnOverallMeterResults (MulticastInlineDelegateProperty)
+OnPerChannelMeterResults (MulticastInlineDelegateProperty)
+OnLatestOverallMeterResults (MulticastInlineDelegateProperty)
+OnLatestPerChannelMeterResults (MulticastInlineDelegateProperty)
+AudioBus (ObjectProperty)

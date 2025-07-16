@@ -1,0 +1,5 @@
+/Script/LiveLink.LiveLinkBlueprintVirtualSubject
+
+Role (ClassProperty)
+Subjects (ArrayProperty)
+FrameTranslators (ArrayProperty)

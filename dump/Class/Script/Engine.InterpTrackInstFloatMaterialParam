@@ -1,5 +1,0 @@
-/Script/Engine.InterpTrackInstFloatMaterialParam
-
-MaterialInstances (ArrayProperty)
-ResetFloats (ArrayProperty)
-PrimitiveMaterialRefs (ArrayProperty)

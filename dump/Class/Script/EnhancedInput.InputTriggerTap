@@ -1,0 +1,7 @@
+/Script/EnhancedInput.InputTriggerTap
+
+TapReleaseTimeThreshold (FloatProperty)
+HeldDuration (FloatProperty)
+bAffectedByTimeDilation (BoolProperty)
+ActuationThreshold (FloatProperty)
+bShouldAlwaysTick (BoolProperty)

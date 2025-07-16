@@ -1,0 +1,6 @@
+/Script/UMG.CanvasPanelSlot
+
+LayoutData (StructProperty)
+bAutoSize (BoolProperty)
+ZOrder (IntProperty)
+Parent (ObjectProperty)

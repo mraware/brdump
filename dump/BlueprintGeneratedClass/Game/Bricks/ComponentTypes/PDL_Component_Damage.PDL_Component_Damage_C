@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/PDL_Component_Damage.PDL_Component_Damage_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

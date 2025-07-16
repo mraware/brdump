@@ -3,3 +3,4 @@
 bUseTimeSynchronization (BoolProperty)
 FrameDelay (IntProperty)
 TimeDelay (DoubleProperty)
+bAutoDetectInput (BoolProperty)

@@ -1,0 +1,6 @@
+/Script/Niagara.NiagaraDataInterfaceActorComponent
+
+SourceMode (EnumProperty)
+LocalPlayerIndex (IntProperty)
+SourceActor (LazyObjectProperty)
+ActorOrComponentParameter (StructProperty)

@@ -2,7 +2,7 @@
 
 TargetMethod (ByteProperty)
 TargetName (NameProperty)
-Target (StructProperty)
+TARGET (StructProperty)
 bTargetAbsolute (BoolProperty)
 bLockTarget (BoolProperty)
 TargetTangentMethod (ByteProperty)

@@ -1,0 +1,8 @@
+/Script/Engine.WorldPartitionRuntimeCellDataSpatialHash
+
+position (StructProperty)
+Extent (FloatProperty)
+ContentBounds (StructProperty)
+CellBounds (OptionalProperty)
+GridName (NameProperty)
+Priority (IntProperty)

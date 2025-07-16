@@ -1,0 +1,7 @@
+/Script/EnhancedInput.EnhancedInputUserSettings
+
+OnSettingsChanged (MulticastInlineDelegateProperty)
+OnSettingsApplied (MulticastInlineDelegateProperty)
+CurrentProfileIdentifier (StructProperty)
+SavedKeyProfiles (MapProperty)
+OwningLocalPlayer (WeakObjectProperty)

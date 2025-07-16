@@ -1,0 +1,17 @@
+/Script/LiveLink.LiveLinkComponent
+
+OnLiveLinkUpdated (MulticastInlineDelegateProperty)
+PrimaryComponentTick (StructProperty)
+ComponentTags (ArrayProperty)
+AssetUserData (ArrayProperty)
+UCSSerializationIndex (IntProperty)
+bNetAddressable (BoolProperty)
+bReplicateUsingRegisteredSubObjectList (BoolProperty)
+* bReplicates (BoolProperty)
+bAutoActivate (BoolProperty)
+* bIsActive (BoolProperty)
+bEditableWhenInherited (BoolProperty)
+bCanEverAffectNavigation (BoolProperty)
+bIsEditorOnly (BoolProperty)
+CreationMethod (EnumProperty)
+OnComponentActivated (MulticastSparseDelegateProperty)

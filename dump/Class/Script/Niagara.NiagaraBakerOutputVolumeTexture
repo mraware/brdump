@@ -1,0 +1,9 @@
+/Script/Niagara.NiagaraBakerOutputVolumeTexture
+
+SourceBinding (StructProperty)
+bGenerateAtlas (BoolProperty)
+bGenerateFrames (BoolProperty)
+bExportFrames (BoolProperty)
+AtlasAssetPathFormat (StrProperty)
+FramesAssetPathFormat (StrProperty)
+FramesExportPathFormat (StrProperty)

@@ -1,0 +1,6 @@
+/Script/AudioSynesthesia.OnsetNRTSettings
+
+bDownmixToMono (BoolProperty)
+GranularityInSeconds (FloatProperty)
+Sensitivity (FloatProperty)
+MinimumFrequency (FloatProperty)

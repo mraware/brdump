@@ -1,0 +1,15 @@
+/Game/Bricks/Procedural/Composed/Baguette/PBG_Baguette.PBG_Baguette_C
+
+DisplayName (TextProperty)
+Category (TextProperty)
+Tab (TextProperty)
+Summary (TextProperty)
+OverridePlacementModeName (NameProperty)
+Layers (ArrayProperty)
+NameStyle (EnumProperty)
+bMultipleCategories (BoolProperty)
+NameBaseSize (StructProperty)
+bHasNameBaseSize (BoolProperty)
+GeneratedSizeMin (StructProperty)
+GeneratedSizeMax (StructProperty)
+GeneratedSizeStep (StructProperty)

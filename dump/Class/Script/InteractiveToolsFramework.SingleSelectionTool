@@ -1,3 +1,4 @@
 /Script/InteractiveToolsFramework.SingleSelectionTool
 
+TARGET (ObjectProperty)
 InputBehaviors (ObjectProperty)

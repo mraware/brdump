@@ -1,8 +1,0 @@
-/Script/PhysicsCore.ChaosPhysicalMaterial
-
-Friction (FloatProperty)
-StaticFriction (FloatProperty)
-Restitution (FloatProperty)
-LinearEtherDrag (FloatProperty)
-AngularEtherDrag (FloatProperty)
-SleepingLinearVelocityThreshold (FloatProperty)

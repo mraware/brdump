@@ -1,0 +1,4 @@
+/Script/Niagara.NiagaraStatelessModule_AccelerationForce
+
+AccelerationDistribution (StructProperty)
+CoordinateSpace (EnumProperty)

@@ -1,0 +1,12 @@
+/Script/GameplayCameras.PanningFramingCameraNode
+
+CanPanLaterally (StructProperty)
+CanPanVertically (StructProperty)
+TargetLocation (StructProperty)
+HorizontalFraming (StructProperty)
+VerticalFraming (StructProperty)
+ReframeDampingFactor (StructProperty)
+LowReframeDampingFactor (StructProperty)
+ReframeUnlockRadius (StructProperty)
+DeadZone (StructProperty)
+SoftZone (StructProperty)

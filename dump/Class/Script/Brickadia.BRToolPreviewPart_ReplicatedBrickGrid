@@ -1,0 +1,8 @@
+/Script/Brickadia.BRToolPreviewPart_ReplicatedBrickGrid
+
+* PreviewGrid (ObjectProperty)
+Template_ServerOnly (ObjectProperty)
+PreviewActor (ObjectProperty)
+* bUnrealEngineIsRuiningVideoGames (BoolProperty)
+* TransformParameters (StructProperty)
+* DisplayParameters (StructProperty)

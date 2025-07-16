@@ -1,11 +1,9 @@
 /Script/Brickadia.BRAuthSubsystem
 
-OnLogout (MulticastInlineDelegateProperty)
-OnLoginStart (MulticastInlineDelegateProperty)
-OnLoginSuccess (MulticastInlineDelegateProperty)
-OnLoginFailed (MulticastInlineDelegateProperty)
-OnCheckLoginStart (MulticastInlineDelegateProperty)
-OnCheckLoginSuccess (MulticastInlineDelegateProperty)
-OnCheckLoginFailed (MulticastInlineDelegateProperty)
 OnAuthStateChanged (MulticastInlineDelegateProperty)
+OnAuthStateBecomeValid (MulticastInlineDelegateProperty)
 OnChallengeRequestSent (MulticastInlineDelegateProperty)
+OnChallengeResponseReceived (MulticastInlineDelegateProperty)
+OnDisplayNameChanged (MulticastInlineDelegateProperty)
+OnServerJoinRequested (MulticastInlineDelegateProperty)
+OnServerRequestSucceeded (MulticastInlineDelegateProperty)

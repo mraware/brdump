@@ -1,4 +1,5 @@
 /Script/AIModule.AISenseConfig_Touch
 
+DetectionByAffiliation (StructProperty)
 DebugColor (StructProperty)
 MaxAge (FloatProperty)

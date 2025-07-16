@@ -1,0 +1,12 @@
+/Script/InterchangePipelines.InterchangeGenericCommonSkeletalMeshesAndAnimationsProperties
+
+bImportOnlyAnimations (BoolProperty)
+Skeleton (WeakObjectProperty)
+bImportMeshesInBoneHierarchy (BoolProperty)
+bUseT0AsRefPose (BoolProperty)
+bConvertStaticsWithMorphTargetsToSkeletals (BoolProperty)
+DestinationName (StrProperty)
+ContentImportPath (StrProperty)
+ReimportLevel (StructProperty)
+bFromReimportOrOverride (BoolProperty)
+Results (ObjectProperty)

@@ -1,0 +1,7 @@
+/Script/InterchangeCore.InterchangeResultDisplay_Generic
+
+Text (TextProperty)
+SourceAssetName (StrProperty)
+DestinationAssetName (StrProperty)
+AssetFriendlyName (StrProperty)
+AssetType (ClassProperty)

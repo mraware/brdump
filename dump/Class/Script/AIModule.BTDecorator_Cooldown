@@ -1,6 +1,6 @@
 /Script/AIModule.BTDecorator_Cooldown
 
-CoolDownTime (FloatProperty)
+CoolDownTime (StructProperty)
 bInverseCondition (BoolProperty)
 FlowAbortMode (ByteProperty)
 NodeName (StrProperty)

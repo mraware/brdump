@@ -3,6 +3,7 @@
 EvalOptions (StructProperty)
 Easing (StructProperty)
 SectionRange (StructProperty)
+ConditionContainer (StructProperty)
 PreRollFrames (StructProperty)
 PostRollFrames (StructProperty)
 RowIndex (IntProperty)

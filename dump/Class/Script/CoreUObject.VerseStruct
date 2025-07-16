@@ -1,0 +1,8 @@
+/Script/CoreUObject.VerseStruct
+
+VerseClassFlags (UInt32Property)
+InitFunction (ObjectProperty)
+ModuleClass (ClassProperty)
+Guid (StructProperty)
+FactoryFunction (ObjectProperty)
+OverrideFactoryFunction (ObjectProperty)

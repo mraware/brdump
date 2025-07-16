@@ -1,9 +1,11 @@
 /Script/Niagara.NiagaraDataInterfaceSkeletalMesh
 
 SourceMode (EnumProperty)
-Source (ObjectProperty)
-MeshUserParameter (StructProperty)
+DefaultMesh (ObjectProperty)
+SoftSourceActor (SoftObjectProperty)
+ComponentTags (ArrayProperty)
 SourceComponent (ObjectProperty)
+MeshUserParameter (StructProperty)
 SkinningMode (EnumProperty)
 SamplingRegions (ArrayProperty)
 WholeMeshLOD (IntProperty)
@@ -12,3 +14,4 @@ FilteredSockets (ArrayProperty)
 ExcludeBoneName (NameProperty)
 bExcludeBone (BoolProperty)
 UvSetIndex (IntProperty)
+bRequireCurrentFrameData (BoolProperty)

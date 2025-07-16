@@ -1,0 +1,7 @@
+/Script/TextureUtilitiesCommon.TextureImportSettings
+
+AutoVTSize (IntProperty)
+AutoLimitDimension (IntProperty)
+bEnableNormalizeNormals (BoolProperty)
+bEnableFastMipFilter (BoolProperty)
+CompressedFormatForFloatTextures (EnumProperty)

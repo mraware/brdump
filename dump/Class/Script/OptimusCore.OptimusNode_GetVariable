@@ -1,0 +1,8 @@
+/Script/OptimusCore.OptimusNode_GetVariable
+
+VariableDesc (WeakObjectProperty)
+DuplicationInfo (StructProperty)
+DisplayName (TextProperty)
+GraphPosition (StructProperty)
+Pins (ArrayProperty)
+ExpandedPins (SetProperty)

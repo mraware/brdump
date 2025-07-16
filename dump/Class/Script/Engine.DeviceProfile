@@ -2,5 +2,7 @@
 
 DeviceType (StrProperty)
 BaseProfileName (StrProperty)
+bIsVisibleForAssets (BoolProperty)
 Parent (ObjectProperty)
 CVars (ArrayProperty)
+MatchingRules (ArrayProperty)

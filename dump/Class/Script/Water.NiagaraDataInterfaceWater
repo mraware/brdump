@@ -1,0 +1,5 @@
+/Script/Water.NiagaraDataInterfaceWater
+
+bFindWaterBodyOnSpawn (BoolProperty)
+bEvaluateSystemDepth (BoolProperty)
+bEvaluateSystemDepthPerFrame (BoolProperty)

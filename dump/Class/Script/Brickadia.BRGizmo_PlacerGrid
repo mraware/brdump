@@ -1,0 +1,6 @@
+/Script/Brickadia.BRGizmo_PlacerGrid
+
+GridActorClass (ClassProperty)
+GridActor (ObjectProperty)
+GizmoElementRoot (ObjectProperty)
+HitTarget (ObjectProperty)

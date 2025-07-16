@@ -1,0 +1,13 @@
+/Script/HairStrandsCore.GroomCreateStrandsTexturesOptions
+
+Layout (EnumProperty)
+Resolution (IntProperty)
+TraceType (EnumProperty)
+TraceDistance (FloatProperty)
+MeshType (EnumProperty)
+StaticMesh (ObjectProperty)
+SkeletalMesh (ObjectProperty)
+LODIndex (IntProperty)
+SectionIndex (IntProperty)
+UVChannelIndex (IntProperty)
+GroupIndex (ArrayProperty)

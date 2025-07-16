@@ -1,0 +1,8 @@
+/Script/OptimusCore.OptimusNode_GraphTerminal
+
+TerminalType (EnumProperty)
+DefaultComponentPin (WeakObjectProperty)
+DisplayName (TextProperty)
+GraphPosition (StructProperty)
+Pins (ArrayProperty)
+ExpandedPins (SetProperty)

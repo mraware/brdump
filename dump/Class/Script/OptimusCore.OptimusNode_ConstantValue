@@ -1,0 +1,6 @@
+/Script/OptimusCore.OptimusNode_ConstantValue
+
+DisplayName (TextProperty)
+GraphPosition (StructProperty)
+Pins (ArrayProperty)
+ExpandedPins (SetProperty)

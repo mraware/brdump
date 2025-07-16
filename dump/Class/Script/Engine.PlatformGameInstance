@@ -16,3 +16,5 @@ ApplicationReceivedScreenOrientationChangedNotificationDelegate (MulticastInline
 LocalPlayers (ArrayProperty)
 OnlineSession (ObjectProperty)
 ReferencedObjects (ArrayProperty)
+OnPawnControllerChangedDelegates (MulticastInlineDelegateProperty)
+OnInputDeviceConnectionChange (MulticastInlineDelegateProperty)

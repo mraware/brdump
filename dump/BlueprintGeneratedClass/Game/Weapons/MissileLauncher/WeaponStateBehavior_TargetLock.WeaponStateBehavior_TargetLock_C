@@ -1,0 +1,3 @@
+/Game/Weapons/MissileLauncher/WeaponStateBehavior_TargetLock.WeaponStateBehavior_TargetLock_C
+
+bAdvanceStateCallbackRequired (BoolProperty)

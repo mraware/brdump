@@ -1,0 +1,6 @@
+/Script/OptimusCore.OptimusResourceDescription
+
+ResourceName (NameProperty)
+DataType (StructProperty)
+ComponentBinding (WeakObjectProperty)
+DataDomain (StructProperty)

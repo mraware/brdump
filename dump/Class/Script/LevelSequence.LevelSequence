@@ -1,9 +1,7 @@
 /Script/LevelSequence.LevelSequence
 
 MovieScene (ObjectProperty)
-ObjectReferences (StructProperty)
 BindingReferences (StructProperty)
-PossessedObjects (MapProperty)
 DirectorClass (ClassProperty)
 AssetUserData (ArrayProperty)
 CompiledData (ObjectProperty)

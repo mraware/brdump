@@ -1,0 +1,14 @@
+/Script/Brickadia.InspectorPropertyDescriptor_WireGraphPrimMathVariant
+
+ApplicableStruct (ObjectProperty)
+Name (NameProperty)
+DisplayName (TextProperty)
+Tooltip (TextProperty)
+bCanSetToDefault (BoolProperty)
+WidgetClassOverride (ClassProperty)
+bUseGetFunction (BoolProperty)
+bUseSetFunction (BoolProperty)
+GetFunctionOverride (NameProperty)
+SetFunctionOverride (NameProperty)
+IsEnabledMode (EnumProperty)
+IsEnabledFunctionOrProperty (NameProperty)

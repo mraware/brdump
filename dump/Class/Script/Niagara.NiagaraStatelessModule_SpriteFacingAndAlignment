@@ -1,0 +1,6 @@
+/Script/Niagara.NiagaraStatelessModule_SpriteFacingAndAlignment
+
+bSpriteFacingEnabled (BoolProperty)
+bSpriteAlignmentEnabled (BoolProperty)
+SpriteFacing (StructProperty)
+SpriteAlignment (StructProperty)

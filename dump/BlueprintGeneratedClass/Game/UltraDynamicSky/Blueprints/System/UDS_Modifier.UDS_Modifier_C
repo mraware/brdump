@@ -1,0 +1,11 @@
+/Game/UltraDynamicSky/Blueprints/System/UDS_Modifier.UDS_Modifier_C
+
+Float Property Overrides (MapProperty)
+Color Property Overrides (MapProperty)
+Easing Function (ByteProperty)
+Easing Blend Exponent (DoubleProperty)
+Max Alpha (DoubleProperty)
+Float Property Keys (ArrayProperty)
+Float Property Values (ArrayProperty)
+Color Property Keys (ArrayProperty)
+Color Property Values (ArrayProperty)

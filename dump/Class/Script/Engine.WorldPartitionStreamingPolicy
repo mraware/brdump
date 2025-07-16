@@ -1,0 +1,7 @@
+/Script/Engine.WorldPartitionStreamingPolicy
+
+CurrentState (StructProperty)
+CurrentStreamingPerformance (EnumProperty)
+TargetState (StructProperty)
+AsyncTaskCurrentState (StructProperty)
+AsyncTaskTargetState (StructProperty)

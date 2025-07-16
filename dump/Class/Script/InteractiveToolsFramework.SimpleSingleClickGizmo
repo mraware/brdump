@@ -1,0 +1,4 @@
+/Script/InteractiveToolsFramework.SimpleSingleClickGizmo
+
+HitTarget (InterfaceProperty)
+ClickBehavior (ObjectProperty)

@@ -1,0 +1,4 @@
+/Script/Niagara.NiagaraDataInterfaceAsyncGpuTrace
+
+MaxTracesPerParticle (IntProperty)
+MaxRetraces (IntProperty)

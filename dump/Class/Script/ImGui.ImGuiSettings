@@ -1,0 +1,9 @@
+/Script/ImGui.ImGuiSettings
+
+ImGuiInputHandlerClass (StructProperty)
+bShareKeyboardInput (BoolProperty)
+bShareGamepadInput (BoolProperty)
+bShareMouseInput (BoolProperty)
+bUseSoftwareCursor (BoolProperty)
+ToggleInput (StructProperty)
+CanvasSize (StructProperty)

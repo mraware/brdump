@@ -1,0 +1,14 @@
+/Game/UltraDynamicSky/Blueprints/System/UDS_Calendar.UDS_Calendar_C
+
+Months (MapProperty)
+Uses Leap Year (BoolProperty)
+Leap Year Month (IntProperty)
+Winter Solstice Offset (IntProperty)
+Days of the Week (ArrayProperty)
+Day of the Week Offset (IntProperty)
+Month Lengths (ArrayProperty)
+Day Count At Start of Each Month (ArrayProperty)
+Day Count At Start of Each Month (Leap Year) (ArrayProperty)
+Month Lengths (Leap Year) (ArrayProperty)
+Number of Days in Year (IntProperty)
+Calendar Data Saved (BoolProperty)

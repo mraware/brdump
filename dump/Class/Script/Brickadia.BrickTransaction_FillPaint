@@ -1,5 +1,0 @@
-/Script/Brickadia.BrickTransaction_FillPaint
-
-PaintConfig (StructProperty)
-NumBricksChanged (IntProperty)
-NumBricksUntrusted (IntProperty)

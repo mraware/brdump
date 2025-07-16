@@ -1,0 +1,7 @@
+/Script/OptimusCore.OptimusComputeGraph
+
+KernelToNode (ArrayProperty)
+KernelInvocations (ArrayProperty)
+DataInterfaces (ArrayProperty)
+GraphEdges (ArrayProperty)
+Bindings (ArrayProperty)

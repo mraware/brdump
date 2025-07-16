@@ -1,0 +1,7 @@
+/Script/InterchangeEngine.InterchangePythonPipelineBase
+
+DestinationName (StrProperty)
+ContentImportPath (StrProperty)
+ReimportLevel (StructProperty)
+bFromReimportOrOverride (BoolProperty)
+Results (ObjectProperty)

@@ -1,0 +1,4 @@
+/Script/LiveLink.LiveLinkTimeSynchronizationSource
+
+SubjectName (StructProperty)
+bUseForSynchronization (BoolProperty)

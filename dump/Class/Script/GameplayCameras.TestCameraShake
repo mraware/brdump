@@ -1,5 +1,0 @@
-/Script/GameplayCameras.TestCameraShake
-
-bSingleInstance (BoolProperty)
-ShakeScale (FloatProperty)
-RootShakePattern (ObjectProperty)

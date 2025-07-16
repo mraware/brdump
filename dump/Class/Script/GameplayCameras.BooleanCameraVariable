@@ -1,0 +1,6 @@
+/Script/GameplayCameras.BooleanCameraVariable
+
+bDefaultValue (BoolProperty)
+bAutoReset (BoolProperty)
+bIsPrivate (BoolProperty)
+bIsInput (BoolProperty)

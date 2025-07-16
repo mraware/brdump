@@ -1,0 +1,12 @@
+/Script/Engine.TextureEncodingProjectSettings
+
+bSharedLinearTextureEncoding (BoolProperty)
+bFinalUsesRDO (BoolProperty)
+FinalRDOLambda (Int8Property)
+FinalEffortLevel (EnumProperty)
+FinalUniversalTiling (EnumProperty)
+bFastUsesRDO (BoolProperty)
+FastRDOLambda (Int8Property)
+FastEffortLevel (EnumProperty)
+FastUniversalTiling (EnumProperty)
+CookUsesSpeed (EnumProperty)

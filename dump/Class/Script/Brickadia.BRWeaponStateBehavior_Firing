@@ -2,5 +2,6 @@
 
 MuzzleSocket (NameProperty)
 NumberOfShots (IntProperty)
-AmmoToSubtract (IntProperty)
+LegacyAmmoToSubtract (IntProperty)
 SpreadConeAngle (FloatProperty)
+bSpreadBiasedTowardsCenter (BoolProperty)

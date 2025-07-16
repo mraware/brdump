@@ -1,9 +1,9 @@
 /Script/Engine.Skeleton
 
 BoneTree (ArrayProperty)
-RefLocalPoses (ArrayProperty)
 VirtualBoneGuid (StructProperty)
 VirtualBones (ArrayProperty)
+CompatibleSkeletons (ArrayProperty)
 Sockets (ArrayProperty)
 SmartNames (StructProperty)
 BlendProfiles (ArrayProperty)

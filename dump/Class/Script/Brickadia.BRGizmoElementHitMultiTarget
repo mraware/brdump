@@ -1,0 +1,5 @@
+/Script/Brickadia.BRGizmoElementHitMultiTarget
+
+Gizmo (ObjectProperty)
+GizmoElement (ObjectProperty)
+GizmoViewContext (ObjectProperty)

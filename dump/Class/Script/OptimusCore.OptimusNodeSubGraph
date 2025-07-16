@@ -1,0 +1,8 @@
+/Script/OptimusCore.OptimusNodeSubGraph
+
+InputBindings (StructProperty)
+OutputBindings (StructProperty)
+GraphType (EnumProperty)
+Nodes (ArrayProperty)
+Links (ArrayProperty)
+NodePairs (ArrayProperty)

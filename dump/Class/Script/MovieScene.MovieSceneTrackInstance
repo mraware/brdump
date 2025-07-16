@@ -1,5 +1,5 @@
 /Script/MovieScene.MovieSceneTrackInstance
 
-AnimatedObject (ObjectProperty)
-bIsMasterTrackInstance (BoolProperty)
-Linker (ObjectProperty)
+WeakAnimatedObject (WeakObjectProperty)
+bIsRootTrackInstance (BoolProperty)
+PrivateLinker (ObjectProperty)

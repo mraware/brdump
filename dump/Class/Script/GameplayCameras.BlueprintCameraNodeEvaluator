@@ -1,0 +1,5 @@
+/Script/GameplayCameras.BlueprintCameraNodeEvaluator
+
+bIsFirstFrame (BoolProperty)
+EvaluationContextOwner (ObjectProperty)
+CameraPose (StructProperty)

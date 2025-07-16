@@ -1,9 +1,9 @@
 /Script/AIModule.EnvQueryGenerator_OnCircle
 
 CircleRadius (StructProperty)
+PointOnCircleSpacingMethod (EnumProperty)
 SpaceBetween (StructProperty)
 NumberOfPoints (StructProperty)
-PointOnCircleSpacingMethod (EnumProperty)
 ArcDirection (StructProperty)
 ArcAngle (StructProperty)
 AngleRadians (FloatProperty)
@@ -16,3 +16,4 @@ ProjectionData (StructProperty)
 OptionName (StrProperty)
 ItemType (ClassProperty)
 bAutoSortTests (BoolProperty)
+bCanRunAsync (BoolProperty)

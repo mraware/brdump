@@ -1,0 +1,15 @@
+/Script/Landscape.LandscapeSettings
+
+MaxNumberOfLayers (IntProperty)
+bShowDialogForAutomaticLayerCreation (BoolProperty)
+MaxComponents (IntProperty)
+MaxImageImportCacheSizeMegaBytes (UInt32Property)
+PaintStrengthGamma (FloatProperty)
+bDisablePaintingStartupSlowdown (BoolProperty)
+LandscapeDirtyingMode (EnumProperty)
+SideResolutionLimit (IntProperty)
+DefaultLandscapeMaterial (SoftObjectProperty)
+DefaultLayerInfoObject (SoftObjectProperty)
+BrushSizeUIMax (FloatProperty)
+BrushSizeClampMax (FloatProperty)
+HLODMaxTextureSize (IntProperty)

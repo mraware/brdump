@@ -1,0 +1,9 @@
+/Game/Entities/PhysicsObjects/Wheels/Skateboard/Entity_Wheel_Skateboard.Entity_Wheel_Skateboard_C
+
+ActorClass (ClassProperty)
+PreviewMesh (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+CatalogData (StructProperty)
+CurrentVersion (IntProperty)
+bPlayerPlaceable (BoolProperty)

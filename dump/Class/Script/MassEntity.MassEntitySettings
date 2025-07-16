@@ -1,0 +1,5 @@
+/Script/MassEntity.MassEntitySettings
+
+ChunkMemorySize (IntProperty)
+DumpDependencyGraphFileName (StrProperty)
+ProcessingPhasesConfig (StructProperty)

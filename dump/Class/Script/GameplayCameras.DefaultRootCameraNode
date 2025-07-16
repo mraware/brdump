@@ -1,0 +1,6 @@
+/Script/GameplayCameras.DefaultRootCameraNode
+
+BaseLayer (ObjectProperty)
+MainLayer (ObjectProperty)
+GlobalLayer (ObjectProperty)
+VisualLayer (ObjectProperty)

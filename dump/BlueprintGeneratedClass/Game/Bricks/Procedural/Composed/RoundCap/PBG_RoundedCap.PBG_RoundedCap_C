@@ -1,0 +1,15 @@
+/Game/Bricks/Procedural/Composed/RoundCap/PBG_RoundedCap.PBG_RoundedCap_C
+
+DisplayName (TextProperty)
+Category (TextProperty)
+Tab (TextProperty)
+Summary (TextProperty)
+OverridePlacementModeName (NameProperty)
+Layers (ArrayProperty)
+NameStyle (EnumProperty)
+bMultipleCategories (BoolProperty)
+NameBaseSize (StructProperty)
+bHasNameBaseSize (BoolProperty)
+GeneratedSizeMin (StructProperty)
+GeneratedSizeMax (StructProperty)
+GeneratedSizeStep (StructProperty)

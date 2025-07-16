@@ -1,0 +1,4 @@
+/Script/InterchangeEngine.InterchangeEditorSettings
+
+bShowImportDialogAtReimport (BoolProperty)
+UsedGroupName (NameProperty)

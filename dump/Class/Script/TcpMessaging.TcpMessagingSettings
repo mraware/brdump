@@ -1,6 +1,0 @@
-/Script/TcpMessaging.TcpMessagingSettings
-
-EnableTransport (BoolProperty)
-ListenEndpoint (StrProperty)
-ConnectToEndpoints (ArrayProperty)
-ConnectionRetryDelay (IntProperty)

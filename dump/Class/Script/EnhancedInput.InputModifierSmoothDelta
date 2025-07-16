@@ -1,0 +1,4 @@
+/Script/EnhancedInput.InputModifierSmoothDelta
+
+SmoothingMethod (EnumProperty)
+Speed (FloatProperty)

@@ -1,0 +1,5 @@
+/Script/ControlRig.ControlRigShapeLibraryLink
+
+ShapeLibrary (SoftObjectProperty)
+ShapeNames (ArrayProperty)
+ShapeLibraryCached (ObjectProperty)

@@ -1,4 +1,0 @@
-/Script/AugmentedReality.ARBasicLightEstimate
-
-AmbientIntensityLumens (FloatProperty)
-AmbientColorTemperatureKelvin (FloatProperty)

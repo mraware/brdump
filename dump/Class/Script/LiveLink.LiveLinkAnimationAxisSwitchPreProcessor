@@ -1,0 +1,8 @@
+/Script/LiveLink.LiveLinkAnimationAxisSwitchPreProcessor
+
+FrontAxis (EnumProperty)
+RightAxis (EnumProperty)
+UpAxis (EnumProperty)
+bUseOffsetPosition (BoolProperty)
+bUseOffsetOrientation (BoolProperty)
+OffsetPosition (StructProperty)

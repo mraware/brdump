@@ -1,0 +1,9 @@
+/Script/InterchangeMessages.InterchangeResultTextureDisplay_TextureFileDoNotExist
+
+MaterialName (StrProperty)
+TextureName (StrProperty)
+Text (TextProperty)
+SourceAssetName (StrProperty)
+DestinationAssetName (StrProperty)
+AssetFriendlyName (StrProperty)
+AssetType (ClassProperty)

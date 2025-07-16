@@ -1,0 +1,16 @@
+/Game/Blueprints/Gizmos/BP_Gizmo_PlacerRowDragLine.BP_Gizmo_PlacerRowDragLine_C
+
+ScreenSpaceIndicatorSize (FloatProperty)
+ScreenSpaceAxisLineThickness (FloatProperty)
+SizeTextActorClass (ClassProperty)
+AxisLineElement (ObjectProperty)
+OriginIndicatorElement (ObjectProperty)
+OriginIndicatorElementContainer (ObjectProperty)
+StartIndicatorElement (ObjectProperty)
+StartIndicatorElementContainer (ObjectProperty)
+EndIndicatorElement (ObjectProperty)
+EndIndicatorElementContainer (ObjectProperty)
+SizeTextActor (ObjectProperty)
+ActiveTarget (ObjectProperty)
+GizmoElementRoot (ObjectProperty)
+HitTarget (ObjectProperty)

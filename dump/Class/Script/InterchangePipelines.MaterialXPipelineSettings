@@ -1,0 +1,5 @@
+/Script/InterchangePipelines.MaterialXPipelineSettings
+
+PredefinedSurfaceShaders (MapProperty)
+PredefinedBSDF (MapProperty)
+PredefinedEDF (MapProperty)

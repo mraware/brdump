@@ -1,0 +1,5 @@
+/Script/MovieScene.MovieSceneTimeWarpCurve
+
+Channel (StructProperty)
+bMuted (BoolProperty)
+ReferenceToSelf (ObjectProperty)

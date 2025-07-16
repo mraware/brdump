@@ -1,0 +1,8 @@
+/Script/OptimusCore.OptimusNode_SubGraphReference
+
+SubgraphName (NameProperty)
+DefaultComponentPin (WeakObjectProperty)
+DisplayName (TextProperty)
+GraphPosition (StructProperty)
+Pins (ArrayProperty)
+ExpandedPins (SetProperty)

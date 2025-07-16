@@ -1,0 +1,12 @@
+/Game/Weapons/APCarbine/BP_StateMachine_APCarbine.BP_StateMachine_APCarbine_C
+
+EquipDuration (FloatProperty)
+UnequipDuration (FloatProperty)
+EquipSound (ObjectProperty)
+EquippedFootstepLayer (ObjectProperty)
+WeaponEquipAnimation (ObjectProperty)
+PlayerEquipAnimation (ObjectProperty)
+UnequipSound (ObjectProperty)
+WeaponUnequipAnimation (ObjectProperty)
+PlayerUnequipAnimation (ObjectProperty)
+Resources (StructProperty)

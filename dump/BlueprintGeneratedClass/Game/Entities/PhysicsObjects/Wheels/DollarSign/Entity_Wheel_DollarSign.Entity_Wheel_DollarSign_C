@@ -1,0 +1,9 @@
+/Game/Entities/PhysicsObjects/Wheels/DollarSign/Entity_Wheel_DollarSign.Entity_Wheel_DollarSign_C
+
+ActorClass (ClassProperty)
+PreviewMesh (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+CatalogData (StructProperty)
+CurrentVersion (IntProperty)
+bPlayerPlaceable (BoolProperty)

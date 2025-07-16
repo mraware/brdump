@@ -1,5 +1,9 @@
 /Script/Engine.MaterialInterface
 
 SubsurfaceProfile (ObjectProperty)
+SubsurfaceProfiles (ArrayProperty)
+SpecularProfiles (ArrayProperty)
+NeuralProfile (ObjectProperty)
 LightmassSettings (StructProperty)
 TextureStreamingData (ArrayProperty)
+AssetUserData (ArrayProperty)

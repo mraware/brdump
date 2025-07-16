@@ -1,0 +1,10 @@
+/Script/Engine.WorldPartition
+
+RuntimeHash (ObjectProperty)
+bEnableStreaming (BoolProperty)
+ServerStreamingMode (EnumProperty)
+ServerStreamingOutMode (EnumProperty)
+DataLayersLogicOperator (EnumProperty)
+bDisableContentBundles (BoolProperty)
+DataLayerManager (ObjectProperty)
+ExternalDataLayerManager (ObjectProperty)

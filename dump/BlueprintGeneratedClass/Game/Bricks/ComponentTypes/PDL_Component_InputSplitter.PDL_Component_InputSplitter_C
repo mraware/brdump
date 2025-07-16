@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/PDL_Component_InputSplitter.PDL_Component_InputSplitter_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

@@ -1,0 +1,6 @@
+/Script/Engine.WorldPartitionRuntimeCellData
+
+ContentBounds (StructProperty)
+CellBounds (OptionalProperty)
+GridName (NameProperty)
+Priority (IntProperty)

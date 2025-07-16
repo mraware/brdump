@@ -1,0 +1,9 @@
+/Game/Entities/PhysicsObjects/Wheels/Racing2/Entity_Wheel_Racing2B.Entity_Wheel_Racing2B_C
+
+ActorClass (ClassProperty)
+PreviewMesh (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+CatalogData (StructProperty)
+CurrentVersion (IntProperty)
+bPlayerPlaceable (BoolProperty)

@@ -1,0 +1,6 @@
+/Script/USDClasses.UsdMeshAssetUserData
+
+MaterialSlotToPrimPaths (MapProperty)
+PrimvarToUVIndex (MapProperty)
+PrimPaths (ArrayProperty)
+StageIdentifierToMetadata (MapProperty)

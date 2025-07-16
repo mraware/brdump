@@ -1,0 +1,8 @@
+/Script/GameplayCameras.GameplayCamerasSettings
+
+bAutoSpawnCameraSystemActor (BoolProperty)
+bAutoSpawnCameraSystemActorSetsControlRotation (BoolProperty)
+CombinedCameraRigNumThreshold (IntProperty)
+DefaultIKAimingAngleTolerance (DoubleProperty)
+DefaultIKAimingDistanceTolerance (DoubleProperty)
+DefaultIKAimingMaxIterations (ByteProperty)

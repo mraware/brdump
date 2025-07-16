@@ -1,0 +1,16 @@
+/Game/UltraDynamicSky/Blueprints/System/UDS_OcclusionSettings.UDS_OcclusionSettings_C
+
+Occlusion Mode (ByteProperty)
+Occlusion Sampling Location (ByteProperty)
+Use GPU Distance Field Collision (BoolProperty)
+Max Trace Distance (DoubleProperty)
+Horizontal Trace Steps (IntProperty)
+Vertical Trace Steps (IntProperty)
+Trace Channel (ByteProperty)
+Update Period (DoubleProperty)
+Global Occlusion Min Fraction (DoubleProperty)
+Global Occlusion Max Fraction (DoubleProperty)
+Query Occlusion Portals (BoolProperty)
+GPU Distance Field Sample Count (IntProperty)
+Show Trace Debugs (BoolProperty)
+Occlusion Behavior Under Water (ByteProperty)

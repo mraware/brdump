@@ -1,9 +1,12 @@
 /Script/MovieSceneTracks.MovieSceneComponentMaterialTrack
 
-MaterialIndex (IntProperty)
+MaterialInfo (StructProperty)
 Sections (ArrayProperty)
+SectionToKey (ObjectProperty)
 EvalOptions (StructProperty)
+ConditionContainer (StructProperty)
 bIsEvalDisabled (BoolProperty)
 RowsDisabled (ArrayProperty)
 EvaluationFieldGuid (StructProperty)
 EvaluationField (StructProperty)
+TrackRowMetadata (MapProperty)

@@ -1,0 +1,4 @@
+/Script/USDClasses.UsdAnimSequenceAssetImportData
+
+LayerStartOffsetSeconds (FloatProperty)
+PrimPath (StrProperty)

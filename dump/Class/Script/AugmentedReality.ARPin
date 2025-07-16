@@ -1,8 +1,0 @@
-/Script/AugmentedReality.ARPin
-
-TrackedGeometry (ObjectProperty)
-PinnedComponent (ObjectProperty)
-LocalToTrackingTransform (StructProperty)
-LocalToAlignedTrackingTransform (StructProperty)
-TrackingState (EnumProperty)
-OnARTrackingStateChanged (MulticastInlineDelegateProperty)

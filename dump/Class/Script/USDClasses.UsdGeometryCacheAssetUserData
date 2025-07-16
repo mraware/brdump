@@ -1,0 +1,7 @@
+/Script/USDClasses.UsdGeometryCacheAssetUserData
+
+LayerStartOffsetSeconds (FloatProperty)
+MaterialSlotToPrimPaths (MapProperty)
+PrimvarToUVIndex (MapProperty)
+PrimPaths (ArrayProperty)
+StageIdentifierToMetadata (MapProperty)

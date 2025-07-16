@@ -1,0 +1,6 @@
+/Script/OptimusCore.OptimusPersistentBufferDataInterface
+
+ResourceName (NameProperty)
+ValueType (StructProperty)
+DataDomain (StructProperty)
+ComponentSourceBinding (WeakObjectProperty)

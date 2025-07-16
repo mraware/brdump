@@ -3,3 +3,6 @@
 EndpointType (NameProperty)
 EndpointSettingsClass (ClassProperty)
 EndpointSettings (ObjectProperty)
+bAutoDisable (BoolProperty)
+AutoDisableTime (FloatProperty)
+ChildSubmixes (ArrayProperty)

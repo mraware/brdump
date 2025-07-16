@@ -1,6 +1,6 @@
 /Script/AIModule.BTTask_FinishWithResult
 
-Result (ByteProperty)
+Result (StructProperty)
 Services (ArrayProperty)
 bIgnoreRestartSelf (BoolProperty)
 NodeName (StrProperty)

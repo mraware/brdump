@@ -1,0 +1,4 @@
+/Script/GeometryFramework.DynamicMesh
+
+MeshModifiedBPEvent (MulticastInlineDelegateProperty)
+MeshGenerator (ObjectProperty)

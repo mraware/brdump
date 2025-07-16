@@ -1,0 +1,7 @@
+/Script/InterchangeImport.InterchangeUsdTranslatorSettings
+
+GeometryPurpose (IntProperty)
+RenderContext (NameProperty)
+MaterialPurpose (NameProperty)
+InterpolationType (EnumProperty)
+bOverrideStageOptions (BoolProperty)

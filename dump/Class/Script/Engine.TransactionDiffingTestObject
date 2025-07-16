@@ -1,0 +1,8 @@
+/Script/Engine.TransactionDiffingTestObject
+
+NamesArray (ArrayProperty)
+AdditionalName (NameProperty)
+ObjectsArray (ArrayProperty)
+AdditionalObject (ObjectProperty)
+SoftObjectsArray (ArrayProperty)
+AdditionalSoftObject (SoftObjectProperty)

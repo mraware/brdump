@@ -1,6 +1,6 @@
 /Script/AIModule.BTDecorator_IsBBEntryOfClass
 
-TestClass (ClassProperty)
+TestClass (StructProperty)
 BlackboardKey (StructProperty)
 bInverseCondition (BoolProperty)
 FlowAbortMode (ByteProperty)

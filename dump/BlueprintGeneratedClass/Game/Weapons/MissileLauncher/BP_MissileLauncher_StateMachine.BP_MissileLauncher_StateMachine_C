@@ -1,0 +1,12 @@
+/Game/Weapons/MissileLauncher/BP_MissileLauncher_StateMachine.BP_MissileLauncher_StateMachine_C
+
+EquipDuration (FloatProperty)
+UnequipDuration (FloatProperty)
+EquipSound (ObjectProperty)
+EquippedFootstepLayer (ObjectProperty)
+WeaponEquipAnimation (ObjectProperty)
+PlayerEquipAnimation (ObjectProperty)
+UnequipSound (ObjectProperty)
+WeaponUnequipAnimation (ObjectProperty)
+PlayerUnequipAnimation (ObjectProperty)
+Resources (StructProperty)

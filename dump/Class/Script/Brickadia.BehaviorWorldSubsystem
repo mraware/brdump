@@ -1,9 +1,0 @@
-/Script/Brickadia.BehaviorWorldSubsystem
-
-Factories (ArrayProperty)
-GlobalSymbolTable (ObjectProperty)
-MemberSymbolTables (MapProperty)
-Parsers (ArrayProperty)
-Structs (ArrayProperty)
-Enums (ArrayProperty)
-StructLookupTable (MapProperty)

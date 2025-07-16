@@ -1,0 +1,7 @@
+/Script/StateTreeModule.StateTreeTaskBlueprintBase
+
+bShouldStateChangeOnReselect (BoolProperty)
+bShouldCallTickOnlyOnEvents (BoolProperty)
+bShouldCopyBoundPropertiesOnTick (BoolProperty)
+bShouldCopyBoundPropertiesOnExitState (BoolProperty)
+CachedOwner (ObjectProperty)

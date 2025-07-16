@@ -1,0 +1,7 @@
+/Game/UltraDynamicSky/Blueprints/System/UDS_Cloud_Paint_Cell.UDS_Cloud_Paint_Cell_C
+
+Painting Array (ArrayProperty)
+Texture (SoftObjectProperty)
+Zero Coverage Present (BoolProperty)
+Mid Coverage Present (BoolProperty)
+Full Coverage Present (BoolProperty)

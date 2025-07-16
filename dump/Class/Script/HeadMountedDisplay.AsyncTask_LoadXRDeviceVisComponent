@@ -1,4 +1,0 @@
-/Script/HeadMountedDisplay.AsyncTask_LoadXRDeviceVisComponent
-
-OnModelLoaded (MulticastInlineDelegateProperty)
-OnLoadFailure (MulticastInlineDelegateProperty)

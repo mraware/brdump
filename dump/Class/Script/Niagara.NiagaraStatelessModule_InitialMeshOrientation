@@ -1,0 +1,6 @@
+/Script/Niagara.NiagaraStatelessModule_InitialMeshOrientation
+
+MeshOrientationMode (EnumProperty)
+OrientationVector (StructProperty)
+MeshAxisToOrient (StructProperty)
+Rotation (StructProperty)

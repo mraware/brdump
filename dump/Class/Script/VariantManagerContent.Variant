@@ -1,0 +1,5 @@
+/Script/VariantManagerContent.Variant
+
+Dependencies (ArrayProperty)
+DisplayText (TextProperty)
+ObjectBindings (ArrayProperty)

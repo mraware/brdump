@@ -1,0 +1,9 @@
+/Script/Niagara.NiagaraDataInterfaceDataChannelWrite
+
+AllocationMode (EnumProperty)
+AllocationCount (UInt32Property)
+bPublishToGame (BoolProperty)
+bPublishToCPU (BoolProperty)
+bPublishToGPU (BoolProperty)
+bUpdateDestinationDataEveryTick (BoolProperty)
+Channel (ObjectProperty)

@@ -1,0 +1,6 @@
+/Script/IrisCore.NetObjectCountLimiterConfig
+
+Mode (EnumProperty)
+MaxObjectCount (UInt32Property)
+Priority (FloatProperty)
+OwningConnectionPriority (FloatProperty)

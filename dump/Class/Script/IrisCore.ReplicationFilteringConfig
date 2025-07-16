@@ -1,0 +1,5 @@
+/Script/IrisCore.ReplicationFilteringConfig
+
+bEnableObjectScopeHysteresis (BoolProperty)
+DefaultHysteresisFrameCount (ByteProperty)
+HysteresisUpdateConnectionThrottling (ByteProperty)

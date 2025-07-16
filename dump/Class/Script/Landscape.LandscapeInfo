@@ -1,8 +1,7 @@
 /Script/Landscape.LandscapeInfo
 
-LandscapeActor (LazyObjectProperty)
+LandscapeActor (WeakObjectProperty)
 LandscapeGuid (StructProperty)
 ComponentSizeQuads (IntProperty)
 SubsectionSizeQuads (IntProperty)
 ComponentNumSubsections (IntProperty)
-DrawScale (StructProperty)

@@ -2,8 +2,10 @@
 
 InstanceTemplates (ArrayProperty)
 ComponentTemplates (ArrayProperty)
+InternalWireTemplates (ArrayProperty)
 MinPosition (StructProperty)
 MaxPosition (StructProperty)
 MinBounds (StructProperty)
 MaxBounds (StructProperty)
 Center (StructProperty)
+Extent (StructProperty)

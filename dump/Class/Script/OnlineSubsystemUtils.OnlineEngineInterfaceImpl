@@ -2,3 +2,5 @@
 
 MappedUniqueNetIdTypes (MapProperty)
 CompatibleUniqueNetIdTypes (ArrayProperty)
+VoiceSubsystemNameOverride (NameProperty)
+bOnlineServicesCompatibilityEnabled (BoolProperty)

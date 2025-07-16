@@ -1,3 +1,5 @@
 /Script/Niagara.NiagaraDataInterfaceSpline
 
-Source (ObjectProperty)
+SoftSourceActor (SoftObjectProperty)
+SplineUserParameter (StructProperty)
+bUseLUT (BoolProperty)

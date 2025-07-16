@@ -1,0 +1,8 @@
+/Script/Brickadia.BRToolPreviewPart_SimpleEntity
+
+InstancedStaticMesh (ObjectProperty)
+Instances (ArrayProperty)
+PreviewActor (ObjectProperty)
+* bUnrealEngineIsRuiningVideoGames (BoolProperty)
+* TransformParameters (StructProperty)
+* DisplayParameters (StructProperty)

@@ -1,6 +1,6 @@
 /Script/Engine.ParticleModuleAttractorPoint
 
-Position (StructProperty)
+position (StructProperty)
 Range (StructProperty)
 Strength (StructProperty)
 StrengthByDistance (BoolProperty)

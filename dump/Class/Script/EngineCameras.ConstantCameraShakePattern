@@ -1,0 +1,6 @@
+/Script/EngineCameras.ConstantCameraShakePattern
+
+LocationOffset (StructProperty)
+RotationOffset (StructProperty)
+Duration (FloatProperty)
+BlendInTime (FloatProperty)

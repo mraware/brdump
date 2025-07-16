@@ -1,0 +1,15 @@
+/Script/Niagara.NiagaraBakerOutputTexture2D
+
+SourceBinding (StructProperty)
+bGenerateAtlas (BoolProperty)
+bGenerateFrames (BoolProperty)
+bExportFrames (BoolProperty)
+bSetTextureAddressX (BoolProperty)
+bSetTextureAddressY (BoolProperty)
+FrameSize (StructProperty)
+AtlasTextureSize (StructProperty)
+TextureAddressX (ByteProperty)
+TextureAddressY (ByteProperty)
+AtlasAssetPathFormat (StrProperty)
+FramesAssetPathFormat (StrProperty)
+FramesExportPathFormat (StrProperty)

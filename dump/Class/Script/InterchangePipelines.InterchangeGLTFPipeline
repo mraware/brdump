@@ -1,0 +1,8 @@
+/Script/InterchangePipelines.InterchangeGLTFPipeline
+
+PipelineDisplayName (StrProperty)
+DestinationName (StrProperty)
+ContentImportPath (StrProperty)
+ReimportLevel (StructProperty)
+bFromReimportOrOverride (BoolProperty)
+Results (ObjectProperty)

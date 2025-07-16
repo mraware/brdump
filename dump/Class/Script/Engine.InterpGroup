@@ -1,9 +1,0 @@
-/Script/Engine.InterpGroup
-
-InterpTracks (ArrayProperty)
-GroupName (NameProperty)
-GroupColor (StructProperty)
-bCollapsed (BoolProperty)
-bVisible (BoolProperty)
-bIsFolder (BoolProperty)
-bIsParented (BoolProperty)

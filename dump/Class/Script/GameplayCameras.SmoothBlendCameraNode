@@ -1,0 +1,4 @@
+/Script/GameplayCameras.SmoothBlendCameraNode
+
+BlendType (EnumProperty)
+BlendTime (FloatProperty)

@@ -1,0 +1,10 @@
+/Game/Blueprints/BP_PhysicsEventHandler.BP_PhysicsEventHandler_C
+
+BrickSoundAttenuation (ObjectProperty)
+BrickSoundConcurrency (ObjectProperty)
+ImpactVelocityVolumeMultiplier (FloatProperty)
+ImpactVelocityVolumeMax (FloatProperty)
+GlobalImpactVolumeMultiplier (FloatProperty)
+ImpactThreshold (FloatProperty)
+ImpactReFireDelay (FloatProperty)
+DefaultImpactSound (ObjectProperty)

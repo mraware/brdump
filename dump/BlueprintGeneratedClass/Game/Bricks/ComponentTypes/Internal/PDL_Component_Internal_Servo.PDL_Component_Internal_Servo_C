@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/Internal/PDL_Component_Internal_Servo.PDL_Component_Internal_Servo_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

@@ -1,0 +1,9 @@
+/Script/Niagara.NiagaraDataInterfaceDynamicMesh
+
+Sections (ArrayProperty)
+Materials (ArrayProperty)
+NumVertices (IntProperty)
+NumTexCoords (IntProperty)
+bHasColors (BoolProperty)
+bHasTangentBasis (BoolProperty)
+bClearTrianglesPerFrame (BoolProperty)

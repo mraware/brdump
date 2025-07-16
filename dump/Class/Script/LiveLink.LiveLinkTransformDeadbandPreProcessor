@@ -1,0 +1,4 @@
+/Script/LiveLink.LiveLinkTransformDeadbandPreProcessor
+
+bEnableDeadband (BoolProperty)
+TranslationDeadband (FloatProperty)

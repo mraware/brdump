@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/Internal/PDL_Component_Internal_WeightBrick.PDL_Component_Internal_WeightBrick_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

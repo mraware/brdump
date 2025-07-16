@@ -1,0 +1,4 @@
+/Script/GameplayCameras.AccelerationDecelerationValueInterpolator
+
+Acceleration (FloatProperty)
+MaxSpeed (FloatProperty)

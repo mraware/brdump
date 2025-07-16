@@ -1,0 +1,13 @@
+/Script/EnhancedInput.InputAction
+
+ActionDescription (TextProperty)
+bTriggerWhenPaused (BoolProperty)
+bConsumeInput (BoolProperty)
+bConsumesActionAndAxisMappings (BoolProperty)
+bReserveAllMappings (BoolProperty)
+TriggerEventsThatConsumeLegacyKeys (IntProperty)
+ValueType (EnumProperty)
+AccumulationBehavior (EnumProperty)
+Triggers (ArrayProperty)
+Modifiers (ArrayProperty)
+PlayerMappableKeySettings (ObjectProperty)

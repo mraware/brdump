@@ -1,0 +1,7 @@
+/Script/EnhancedInput.PlayerMappableInputConfig
+
+ConfigName (NameProperty)
+ConfigDisplayName (TextProperty)
+bIsDeprecated (BoolProperty)
+MetaData (ObjectProperty)
+Contexts (MapProperty)

@@ -1,0 +1,6 @@
+/Script/Niagara.NiagaraStatelessModule_CurlNoiseForce
+
+NoiseAmplitude (FloatProperty)
+NoiseFrequency (FloatProperty)
+NoiseMode (EnumProperty)
+NoiseTexture (ObjectProperty)

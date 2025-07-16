@@ -1,0 +1,11 @@
+/Game/Weapons/MissileLauncher/Explosion_MissileLauncher.Explosion_MissileLauncher_C
+
+ParticleEffect (ObjectProperty)
+SoundEffect (ObjectProperty)
+bEnableRadialDamage (BoolProperty)
+bEnableRadialDamageOcclusion (BoolProperty)
+RadialDamageType (ClassProperty)
+RadialDamageParams (StructProperty)
+ProjectileClass (ClassProperty)
+NumberOfShots (IntProperty)
+SpreadConeAngle (FloatProperty)

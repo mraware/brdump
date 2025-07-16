@@ -1,0 +1,7 @@
+/Script/Niagara.NiagaraDataChannelHandler_Islands
+
+ActiveIslands (ArrayProperty)
+FreeIslands (ArrayProperty)
+IslandPool (ArrayProperty)
+DataChannel (WeakObjectProperty)
+Writer (ObjectProperty)

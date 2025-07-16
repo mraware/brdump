@@ -1,0 +1,3 @@
+/Script/InteractiveToolsFramework.SingleClickOrDragInputBehavior
+
+bBeginDragIfClickTargetNotHit (BoolProperty)

@@ -3,6 +3,7 @@
 Rules (StructProperty)
 bLabelAssetsInMyDirectory (BoolProperty)
 bIsRuntimeLabel (BoolProperty)
+bIncludeRedirectors (BoolProperty)
 ExplicitAssets (ArrayProperty)
 ExplicitBlueprints (ArrayProperty)
 AssetCollection (StructProperty)

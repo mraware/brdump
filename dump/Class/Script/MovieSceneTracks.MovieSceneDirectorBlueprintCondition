@@ -1,0 +1,6 @@
+/Script/MovieSceneTracks.MovieSceneDirectorBlueprintCondition
+
+DirectorBlueprintConditionData (StructProperty)
+Scope (EnumProperty)
+CheckFrequency (EnumProperty)
+bInvert (BoolProperty)

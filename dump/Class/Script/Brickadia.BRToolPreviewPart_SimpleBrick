@@ -1,0 +1,7 @@
+/Script/Brickadia.BRToolPreviewPart_SimpleBrick
+
+PreviewGrid (ObjectProperty)
+PreviewActor (ObjectProperty)
+* bUnrealEngineIsRuiningVideoGames (BoolProperty)
+* TransformParameters (StructProperty)
+* DisplayParameters (StructProperty)

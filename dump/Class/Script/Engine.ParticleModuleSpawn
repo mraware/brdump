@@ -2,9 +2,9 @@
 
 Rate (StructProperty)
 RateScale (StructProperty)
-ParticleBurstMethod (ByteProperty)
 BurstList (ArrayProperty)
 BurstScale (StructProperty)
+ParticleBurstMethod (ByteProperty)
 bApplyGlobalSpawnRateScale (BoolProperty)
 bProcessSpawnRate (BoolProperty)
 bProcessBurstList (BoolProperty)

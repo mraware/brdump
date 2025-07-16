@@ -1,9 +1,0 @@
-/Script/Brickadia.BrickComponent_LightBase
-
-* Brightness (FloatProperty)
-* Radius (FloatProperty)
-* Color (StructProperty)
-* bUseBrickColor (BoolProperty)
-* bCastShadows (BoolProperty)
-LightInstance (ObjectProperty)
-* AttachmentRep (StructProperty)

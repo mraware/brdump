@@ -1,7 +1,7 @@
 /Script/UMG.HorizontalBoxSlot
 
-Padding (StructProperty)
 Size (StructProperty)
+Padding (StructProperty)
 HorizontalAlignment (ByteProperty)
 VerticalAlignment (ByteProperty)
 Parent (ObjectProperty)

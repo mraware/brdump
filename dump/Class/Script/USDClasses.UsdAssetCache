@@ -1,0 +1,6 @@
+/Script/USDClasses.UsdAssetCache
+
+TransientStorage (MapProperty)
+PersistentStorage (MapProperty)
+bAllowPersistentStorage (BoolProperty)
+OwnedAssets (SetProperty)

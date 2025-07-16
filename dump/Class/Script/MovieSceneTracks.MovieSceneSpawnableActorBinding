@@ -1,0 +1,6 @@
+/Script/MovieSceneTracks.MovieSceneSpawnableActorBinding
+
+ActorTemplate (ObjectProperty)
+bNetAddressableName (BoolProperty)
+LevelName (NameProperty)
+SpawnOwnership (EnumProperty)

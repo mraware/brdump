@@ -1,0 +1,7 @@
+/Script/OptimusCore.OptimusSkinWeightsAsVertexMaskDataInterface
+
+SkinWeightProfile (NameProperty)
+BoneNames (ArrayProperty)
+ExpandTowardsRoot (IntProperty)
+ExpandTowardsLeaf (IntProperty)
+bDebugDrawIncludedBones (BoolProperty)

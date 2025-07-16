@@ -1,0 +1,18 @@
+/Script/OptimusCore.OptimusNode_CustomComputeKernel
+
+Category (NameProperty)
+KernelName (StructProperty)
+ExecutionDomain (StructProperty)
+GroupSize (StructProperty)
+Parameters (ArrayProperty)
+InputBindings (ArrayProperty)
+OutputBindings (ArrayProperty)
+InputBindingArray (StructProperty)
+OutputBindingArray (StructProperty)
+SecondaryInputBindingGroups (ArrayProperty)
+AdditionalSources (ArrayProperty)
+ShaderSource (StructProperty)
+DisplayName (TextProperty)
+GraphPosition (StructProperty)
+Pins (ArrayProperty)
+ExpandedPins (SetProperty)

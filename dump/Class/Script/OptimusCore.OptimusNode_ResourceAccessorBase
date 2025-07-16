@@ -1,0 +1,9 @@
+/Script/OptimusCore.OptimusNode_ResourceAccessorBase
+
+ResourceDesc (WeakObjectProperty)
+WriteType (EnumProperty)
+DuplicationInfo (StructProperty)
+DisplayName (TextProperty)
+GraphPosition (StructProperty)
+Pins (ArrayProperty)
+ExpandedPins (SetProperty)

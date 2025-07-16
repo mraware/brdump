@@ -1,0 +1,5 @@
+/Script/TimeManagement.GenlockedFixedRateCustomTimeStep
+
+FrameRate (StructProperty)
+bShouldBlock (BoolProperty)
+bForceSingleFrameDeltaTime (BoolProperty)

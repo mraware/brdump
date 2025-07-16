@@ -1,0 +1,6 @@
+/Script/ControlRig.ControlRigTransformWorkflowOptions
+
+TransformType (ByteProperty)
+Hierarchy (ObjectProperty)
+Selection (ArrayProperty)
+Subject (ObjectProperty)

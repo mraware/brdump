@@ -1,0 +1,17 @@
+/Script/InterchangePipelines.InterchangeGenericMaterialPipeline
+
+PipelineDisplayName (StrProperty)
+bImportMaterials (BoolProperty)
+SearchLocation (EnumProperty)
+AssetName (StrProperty)
+MaterialImport (EnumProperty)
+bIdentifyDuplicateMaterials (BoolProperty)
+bCreateMaterialInstanceForParent (BoolProperty)
+ParentMaterial (StructProperty)
+TexturePipeline (ObjectProperty)
+BaseNodeContainer (ObjectProperty)
+DestinationName (StrProperty)
+ContentImportPath (StrProperty)
+ReimportLevel (StructProperty)
+bFromReimportOrOverride (BoolProperty)
+Results (ObjectProperty)

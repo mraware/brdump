@@ -1,0 +1,10 @@
+/Script/Niagara.NiagaraDataInterfaceSocketReader
+
+SourceMode (EnumProperty)
+FilteredSockets (ArrayProperty)
+SourceActor (LazyObjectProperty)
+SourceAsset (ObjectProperty)
+AttachComponentClass (ClassProperty)
+AttachComponentTag (NameProperty)
+ObjectParameterBinding (StructProperty)
+bUpdateSocketsPerFrame (BoolProperty)

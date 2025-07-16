@@ -1,5 +1,6 @@
 /Script/Niagara.NiagaraEffectType
 
+bAllowCullingForLocalPlayers (BoolProperty)
 UpdateFrequency (EnumProperty)
 CullReaction (EnumProperty)
 SignificanceHandler (ObjectProperty)

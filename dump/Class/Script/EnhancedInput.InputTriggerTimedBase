@@ -1,0 +1,6 @@
+/Script/EnhancedInput.InputTriggerTimedBase
+
+HeldDuration (FloatProperty)
+bAffectedByTimeDilation (BoolProperty)
+ActuationThreshold (FloatProperty)
+bShouldAlwaysTick (BoolProperty)

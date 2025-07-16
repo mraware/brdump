@@ -1,0 +1,6 @@
+/Script/GameplayCameras.CameraRigTransition
+
+Conditions (ArrayProperty)
+Blend (ObjectProperty)
+InitialOrientation (EnumProperty)
+bOverrideInitialOrientation (BoolProperty)

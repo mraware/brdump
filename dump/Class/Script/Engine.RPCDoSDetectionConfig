@@ -1,0 +1,11 @@
+/Script/Engine.RPCDoSDetectionConfig
+
+bRPCDoSDetection (BoolProperty)
+bRPCDoSAnalytics (BoolProperty)
+HitchTimeQuotaMS (IntProperty)
+HitchSuspendDetectionTimeMS (IntProperty)
+DetectionSeverity (ArrayProperty)
+InitialConnectToleranceMS (IntProperty)
+RPCBlockWhitelist (ArrayProperty)
+RPCBlockAllowlist (ArrayProperty)
+RPCAnalyticsThresholds (ArrayProperty)

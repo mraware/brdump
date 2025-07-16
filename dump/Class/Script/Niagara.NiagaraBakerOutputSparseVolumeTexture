@@ -1,0 +1,5 @@
+/Script/Niagara.NiagaraBakerOutputSparseVolumeTexture
+
+SourceBinding (StructProperty)
+VolumeWorldSpaceSizeBinding (StructProperty)
+SparseVolumeTextureAssetPathFormat (StrProperty)

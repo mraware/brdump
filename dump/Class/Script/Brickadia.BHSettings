@@ -1,0 +1,15 @@
+/Script/Brickadia.BHSettings
+
+ElementWidgetClasses (ArrayProperty)
+DefaultNodeWidgetClass (ClassProperty)
+CustomNodeWidgetClasses (MapProperty)
+LineMarginClass (ClassProperty)
+LineFootClass (ClassProperty)
+EmptyScopeLineFootClass (ClassProperty)
+EmptyScopeLineMarginClass (ClassProperty)
+TypeDisplayInfo (MapProperty)
+NullTypeInfo (StructProperty)
+ControlFlowNullTypeInfo (StructProperty)
+UnknownTypeInfo (StructProperty)
+ArrayIcon (ObjectProperty)
+SetIcon (ObjectProperty)

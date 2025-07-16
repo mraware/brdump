@@ -1,0 +1,4 @@
+/Script/MovieScene.MovieSceneTimeWarpGetter
+
+bMuted (BoolProperty)
+ReferenceToSelf (ObjectProperty)

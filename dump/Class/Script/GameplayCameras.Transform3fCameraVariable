@@ -1,0 +1,6 @@
+/Script/GameplayCameras.Transform3fCameraVariable
+
+DefaultValue (StructProperty)
+bAutoReset (BoolProperty)
+bIsPrivate (BoolProperty)
+bIsInput (BoolProperty)

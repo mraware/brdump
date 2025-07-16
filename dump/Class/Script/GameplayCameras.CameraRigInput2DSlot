@@ -1,0 +1,11 @@
+/Script/GameplayCameras.CameraRigInput2DSlot
+
+InputSlotParameters (StructProperty)
+ClampX (StructProperty)
+ClampY (StructProperty)
+NormalizeX (StructProperty)
+NormalizeY (StructProperty)
+BuiltInVariable (EnumProperty)
+CustomVariable (StructProperty)
+TransientVariableID (StructProperty)
+VariableID (StructProperty)

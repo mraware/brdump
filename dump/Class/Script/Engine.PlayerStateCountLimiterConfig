@@ -1,0 +1,6 @@
+/Script/Engine.PlayerStateCountLimiterConfig
+
+Mode (EnumProperty)
+MaxObjectCount (UInt32Property)
+Priority (FloatProperty)
+OwningConnectionPriority (FloatProperty)

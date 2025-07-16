@@ -1,0 +1,4 @@
+/Script/USDClasses.UsdAssetUserData
+
+PrimPaths (ArrayProperty)
+StageIdentifierToMetadata (MapProperty)

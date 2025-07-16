@@ -1,6 +1,6 @@
 /Script/AIModule.BTTask_GameplayTaskBase
 
-bWaitForGameplayTask (BoolProperty)
+bWaitForGameplayTask (StructProperty)
 Services (ArrayProperty)
 bIgnoreRestartSelf (BoolProperty)
 NodeName (StrProperty)

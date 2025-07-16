@@ -1,0 +1,4 @@
+/Script/Engine.WorldPartitionRuntimeHashSet
+
+RuntimePartitions (ArrayProperty)
+RuntimeStreamingData (ArrayProperty)

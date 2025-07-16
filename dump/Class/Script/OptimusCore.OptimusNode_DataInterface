@@ -1,0 +1,8 @@
+/Script/OptimusCore.OptimusNode_DataInterface
+
+DataInterfaceClass (ClassProperty)
+DataInterfaceData (ObjectProperty)
+DisplayName (TextProperty)
+GraphPosition (StructProperty)
+Pins (ArrayProperty)
+ExpandedPins (SetProperty)

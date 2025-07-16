@@ -1,0 +1,10 @@
+/Script/Niagara.NiagaraStatelessModule_SubUVAnimation
+
+NumFrames (IntProperty)
+bStartFrameRangeOverride_Enabled (BoolProperty)
+bEndFrameRangeOverride_Enabled (BoolProperty)
+StartFrameRangeOverride (IntProperty)
+EndFrameRangeOverride (IntProperty)
+AnimationMode (EnumProperty)
+LoopsPerSecond (FloatProperty)
+RandomChangeInterval (FloatProperty)

@@ -1,0 +1,7 @@
+/Script/InterchangeMessages.InterchangeResultMeshError
+
+MeshName (StrProperty)
+SourceAssetName (StrProperty)
+DestinationAssetName (StrProperty)
+AssetFriendlyName (StrProperty)
+AssetType (ClassProperty)

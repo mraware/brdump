@@ -1,0 +1,5 @@
+/Script/Engine.InputDeviceTriggerResistanceProperty
+
+TriggerData (StructProperty)
+DeviceOverrideData (MapProperty)
+BaseTriggerData (StructProperty)

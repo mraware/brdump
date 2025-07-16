@@ -1,0 +1,7 @@
+/Script/Brickadia.BRGizmo_PlacerLockOrigin
+
+ScreenSpaceIndicatorHalfSize (FloatProperty)
+OriginIndicatorElement (ObjectProperty)
+ActiveTarget (ObjectProperty)
+GizmoElementRoot (ObjectProperty)
+HitTarget (ObjectProperty)

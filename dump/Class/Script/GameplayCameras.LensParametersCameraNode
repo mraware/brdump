@@ -1,0 +1,7 @@
+/Script/GameplayCameras.LensParametersCameraNode
+
+FocalLength (StructProperty)
+FocusDistance (StructProperty)
+Aperture (StructProperty)
+ShutterSpeed (StructProperty)
+EnablePhysicalCamera (StructProperty)

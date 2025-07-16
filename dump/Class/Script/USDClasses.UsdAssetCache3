@@ -1,0 +1,7 @@
+/Script/USDClasses.UsdAssetCache3
+
+AssetDirectory (StructProperty)
+bOnlyHandleAssetsWithinAssetDirectory (BoolProperty)
+HashToAssetPaths (MapProperty)
+bCleanUpUnreferencedAssets (BoolProperty)
+AssetPathToHashes (MapProperty)

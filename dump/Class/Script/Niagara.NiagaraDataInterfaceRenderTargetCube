@@ -2,8 +2,6 @@
 
 Size (IntProperty)
 OverrideRenderTargetFormat (ByteProperty)
+OverrideRenderTargetFilter (ByteProperty)
 bInheritUserParameterSettings (BoolProperty)
 bOverrideFormat (BoolProperty)
-RenderTargetUserParameter (StructProperty)
-ManagedRenderTargets (MapProperty)
-OutputShaderStages (SetProperty)

@@ -1,0 +1,10 @@
+/Script/EnhancedInput.EnhancedPlayerInput
+
+KeyConsumptionData (MapProperty)
+AppliedInputContexts (MapProperty)
+EnhancedActionMappings (ArrayProperty)
+ActionInstanceData (MapProperty)
+KeysPressedThisTick (MapProperty)
+InputsInjectedThisTick (MapProperty)
+LastInjectedActions (SetProperty)
+DebugExecBindings (ArrayProperty)

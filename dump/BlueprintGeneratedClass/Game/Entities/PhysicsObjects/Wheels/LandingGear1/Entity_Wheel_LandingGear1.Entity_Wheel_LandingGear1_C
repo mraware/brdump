@@ -1,0 +1,9 @@
+/Game/Entities/PhysicsObjects/Wheels/LandingGear1/Entity_Wheel_LandingGear1.Entity_Wheel_LandingGear1_C
+
+ActorClass (ClassProperty)
+PreviewMesh (ObjectProperty)
+InspectorList (ClassProperty)
+PresetDescriptor (ObjectProperty)
+CatalogData (StructProperty)
+CurrentVersion (IntProperty)
+bPlayerPlaceable (BoolProperty)

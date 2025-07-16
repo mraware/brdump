@@ -1,8 +1,10 @@
 /Script/Engine.AnimCompositeBase
 
+CommonTargetFrameRate (StructProperty)
 Notifies (ArrayProperty)
 SequenceLength (FloatProperty)
-RateScale (FloatProperty)
 RawCurveData (StructProperty)
+RateScale (FloatProperty)
+bLoop (BoolProperty)
 Skeleton (ObjectProperty)
 MetaData (ArrayProperty)

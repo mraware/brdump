@@ -1,0 +1,8 @@
+/Script/OptimusCore.OptimusVariableDescription
+
+Guid (StructProperty)
+VariableName (NameProperty)
+DataType (StructProperty)
+DefaultValueStruct (StructProperty)
+CachedShaderValue (StructProperty)
+ValueData (ArrayProperty)

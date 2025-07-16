@@ -1,0 +1,5 @@
+/Script/Brickadia.BRTargetingGizmoBase
+
+ActiveTarget (ObjectProperty)
+GizmoElementRoot (ObjectProperty)
+HitTarget (ObjectProperty)

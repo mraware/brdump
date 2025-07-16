@@ -1,0 +1,6 @@
+/Script/LiveLink.LiveLinkMessageBusSourceSettings
+
+Mode (EnumProperty)
+BufferSettings (StructProperty)
+ConnectionString (StrProperty)
+Factory (ClassProperty)

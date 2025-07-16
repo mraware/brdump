@@ -1,0 +1,4 @@
+/Script/EnhancedInput.InputModifierNegate
+
+bX (BoolProperty)
+bY (BoolProperty)

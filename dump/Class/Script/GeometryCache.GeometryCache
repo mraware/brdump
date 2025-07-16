@@ -1,0 +1,8 @@
+/Script/GeometryCache.GeometryCache
+
+Materials (ArrayProperty)
+MaterialSlotNames (ArrayProperty)
+Tracks (ArrayProperty)
+AssetUserData (ArrayProperty)
+StartFrame (IntProperty)
+EndFrame (IntProperty)

@@ -1,0 +1,5 @@
+/Script/Brickadia.BRPersistentMusicSubsystem
+
+OnMusicStarted (MulticastInlineDelegateProperty)
+OnMusicFinished (MulticastInlineDelegateProperty)
+CurrentSong (ObjectProperty)

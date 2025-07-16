@@ -1,0 +1,8 @@
+/Script/Brickadia.BRAuthEditorSettings
+
+bEnableAuth (BoolProperty)
+bUseProduction (BoolProperty)
+bUseLocal (BoolProperty)
+bCacheLoginSessions (BoolProperty)
+StagingAccounts (ArrayProperty)
+ProductionAccounts (ArrayProperty)

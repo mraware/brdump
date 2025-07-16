@@ -1,0 +1,11 @@
+/Script/Niagara.NiagaraSimCache
+
+CacheGuid (StructProperty)
+SoftNiagaraSystem (SoftObjectProperty)
+StartSeconds (FloatProperty)
+DurationSeconds (FloatProperty)
+CreateParameters (StructProperty)
+bNeedsReadComponentMappingRecache (BoolProperty)
+CacheLayout (StructProperty)
+CacheFrames (ArrayProperty)
+DataInterfaceStorage (MapProperty)

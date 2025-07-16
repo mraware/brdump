@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/PDL_Component_PointLight.PDL_Component_PointLight_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

@@ -1,0 +1,11 @@
+/Script/AIModule.EnvQueryGenerator_PerceivedActors
+
+AllowedActorClass (ClassProperty)
+SearchRadius (StructProperty)
+ListenerContext (ClassProperty)
+SenseToUse (ClassProperty)
+bIncludeKnownActors (BoolProperty)
+OptionName (StrProperty)
+ItemType (ClassProperty)
+bAutoSortTests (BoolProperty)
+bCanRunAsync (BoolProperty)

@@ -1,0 +1,11 @@
+/Script/ControlRig.RigHierarchy
+
+ModifiedEventDynamic (MulticastInlineDelegateProperty)
+TopologyVersion (UInt32Property)
+MetadataVersion (UInt32Property)
+MetadataTagVersion (UInt16Property)
+bEnableDirtyPropagation (BoolProperty)
+TransformStackIndex (IntProperty)
+HierarchyController (ObjectProperty)
+RuleManager (ObjectProperty)
+PreviousNameMap (MapProperty)

@@ -1,11 +1,12 @@
 /Script/Engine.LevelStreaming
 
 WorldAsset (SoftObjectProperty)
+StreamingPriority (IntProperty)
 PackageNameToLoad (NameProperty)
 LODPackageNames (ArrayProperty)
 LevelTransform (StructProperty)
+bClientOnlyVisible (BoolProperty)
 LevelLODIndex (IntProperty)
-StreamingPriority (IntProperty)
 bShouldBeVisible (BoolProperty)
 bShouldBeLoaded (BoolProperty)
 bLocked (BoolProperty)

@@ -1,4 +1,5 @@
 /Game/Blueprints/GameSettings/Misc/BP_GameSettings_Misc.BP_GameSettings_Misc_C
 
-bSeenAlphaWarning (BoolProperty)
+bSeenStartupMessage_NextFest (BoolProperty)
+bSeenStartupMessage_EarlyAccess (BoolProperty)
 OnSettingsLiveChanged (MulticastInlineDelegateProperty)

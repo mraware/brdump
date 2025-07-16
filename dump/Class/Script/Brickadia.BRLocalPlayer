@@ -1,0 +1,10 @@
+/Script/Brickadia.BRLocalPlayer
+
+ViewportClient (ObjectProperty)
+AspectRatioAxisConstraint (ByteProperty)
+PendingLevelPlayerControllerClass (ClassProperty)
+bSentSplitJoin (BoolProperty)
+ControllerId (IntProperty)
+PlayerController (ObjectProperty)
+CurrentNetSpeed (IntProperty)
+ConfiguredInternetSpeed (IntProperty)

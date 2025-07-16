@@ -1,0 +1,8 @@
+/Script/Engine.RuntimeSpatialHashExternalStreamingObject
+
+StreamingGrids (ArrayProperty)
+SubObjectsToCellRemapping (MapProperty)
+ContainerResolver (StructProperty)
+OuterWorld (SoftObjectProperty)
+CellToStreamingData (MapProperty)
+DataLayerInstances (SetProperty)

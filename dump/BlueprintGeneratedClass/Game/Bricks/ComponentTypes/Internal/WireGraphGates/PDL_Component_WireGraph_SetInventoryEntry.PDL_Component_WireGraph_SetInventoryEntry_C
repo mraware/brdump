@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/Internal/WireGraphGates/PDL_Component_WireGraph_SetInventoryEntry.PDL_Component_WireGraph_SetInventoryEntry_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

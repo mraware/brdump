@@ -1,0 +1,11 @@
+/Script/IrisCore.ObjectReplicationBridgeConfig
+
+PollConfigs (ArrayProperty)
+FilterConfigs (ArrayProperty)
+PrioritizerConfigs (ArrayProperty)
+DeltaCompressionConfigs (ArrayProperty)
+CriticalClassConfigs (ArrayProperty)
+bAllClassesCritical (BoolProperty)
+TypeStatsConfigs (ArrayProperty)
+DefaultSpatialFilterName (NameProperty)
+RequiredNetDriverChannelClassName (NameProperty)

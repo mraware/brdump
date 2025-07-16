@@ -1,0 +1,5 @@
+/Game/Bricks/ComponentTypes/PDL_Component_Switch.PDL_Component_Switch_C
+
+ApplicableClass (ClassProperty)
+ApplicableStruct (ObjectProperty)
+Categories (MapProperty)

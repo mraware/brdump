@@ -1,8 +1,0 @@
-/Script/Brickadia.BrickComponentDescriptor
-
-InstanceClass (ClassProperty)
-InspectorList (ClassProperty)
-PresetDescriptor (ObjectProperty)
-DisplayName (TextProperty)
-Icon (ObjectProperty)
-CurrentVersion (IntProperty)

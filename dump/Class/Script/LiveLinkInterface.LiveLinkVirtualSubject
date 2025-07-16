@@ -1,0 +1,5 @@
+/Script/LiveLinkInterface.LiveLinkVirtualSubject
+
+Role (ClassProperty)
+Subjects (ArrayProperty)
+FrameTranslators (ArrayProperty)

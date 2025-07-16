@@ -1,3 +1,6 @@
 /Script/Brickadia.ActorBlueprintThumbnailProcessor
 
+PlaneMesh (ObjectProperty)
+GridMaterial (ObjectProperty)
+PlaneComponent (ObjectProperty)
 SkyTextureCube (ObjectProperty)

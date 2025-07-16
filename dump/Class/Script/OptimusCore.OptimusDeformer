@@ -1,0 +1,11 @@
+/Script/OptimusCore.OptimusDeformer
+
+Mesh (ObjectProperty)
+ComputeGraphs (ArrayProperty)
+DataInterfacePropertyOverrideMap (MapProperty)
+ValueMap (MapProperty)
+ActionStack (ObjectProperty)
+Status (EnumProperty)
+Graphs (ArrayProperty)
+Bindings (ObjectProperty)
+Variables (ObjectProperty)

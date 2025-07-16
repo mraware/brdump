@@ -1,0 +1,11 @@
+/Script/Engine.MirrorDataTable
+
+MirrorFindReplaceExpressions (ArrayProperty)
+MirrorAxis (ByteProperty)
+bMirrorRootMotion (BoolProperty)
+Skeleton (ObjectProperty)
+RowStruct (ObjectProperty)
+bStripFromClientBuilds (BoolProperty)
+bIgnoreExtraFields (BoolProperty)
+bIgnoreMissingFields (BoolProperty)
+bPreserveExistingValues (BoolProperty)

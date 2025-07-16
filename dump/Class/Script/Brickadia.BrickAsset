@@ -1,3 +1,7 @@
 /Script/Brickadia.BrickAsset
 
-SpecialBrickType (EnumProperty)
+bDisableOmniport (BoolProperty)
+OmniportPosition (StructProperty)
+DefaultComponentEntries (ArrayProperty)
+AddedPreviewRotation (StructProperty)
+Parent (ObjectProperty)

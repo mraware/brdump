@@ -1,0 +1,8 @@
+/Script/InterchangeMessages.InterchangeResultMeshWarning_Generic
+
+Text (TextProperty)
+MeshName (StrProperty)
+SourceAssetName (StrProperty)
+DestinationAssetName (StrProperty)
+AssetFriendlyName (StrProperty)
+AssetType (ClassProperty)

@@ -1,0 +1,4 @@
+/Script/OptimusCore.OptimusCustomComputeKernelDataInterface
+
+ComponentSourceBinding (WeakObjectProperty)
+NumThreadsExpression (StrProperty)

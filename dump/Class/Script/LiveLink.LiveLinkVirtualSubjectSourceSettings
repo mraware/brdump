@@ -1,0 +1,7 @@
+/Script/LiveLink.LiveLinkVirtualSubjectSourceSettings
+
+SourceName (NameProperty)
+Mode (EnumProperty)
+BufferSettings (StructProperty)
+ConnectionString (StrProperty)
+Factory (ClassProperty)

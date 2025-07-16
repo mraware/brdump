@@ -1,0 +1,9 @@
+/Script/Engine.RuntimePartitionPersistent
+
+Name (NameProperty)
+bBlockOnSlowStreaming (BoolProperty)
+bClientOnlyVisible (BoolProperty)
+Priority (IntProperty)
+BoundsMethod (EnumProperty)
+LoadingRange (IntProperty)
+DebugColor (StructProperty)
